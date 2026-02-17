@@ -1,0 +1,312 @@
+pack.name=BOATS
+pack.description=Add-On by Podcrash
+entity.pod_boat:fluid_crane.name=Fluid Crane
+entity.pod_boat:cargo_crane.name=Cargo Crane
+entity.pod_boat:container.name=Container
+entity.pod_boat:fluid_tank.name=Fluid Tank
+entity.pod_boat:submarine.name=Submarine
+entity.pod_boat:submarine_miner.name=Submarine Miner
+entity.pod_boat:air_boat.name=Fanboat
+entity.pod_boat:barge.name=Barge
+entity.pod_boat:bowrider.name=Bowrider
+entity.pod_boat:canoe.name=Canoe
+entity.pod_boat:dhow_boat.name=Dhow
+entity.pod_boat:djong_boat.name=Jong
+entity.pod_boat:egypt_boat.name=Solar Barque
+entity.pod_boat:end_boat.name=End Boat
+entity.pod_boat:ferry.name=Ferry
+entity.pod_boat:fishing_boat.name=Fishing Boat
+entity.pod_boat:freighter.name=Freighter
+entity.pod_boat:freighter_collision.name=Freighter
+entity.pod_boat:gondola.name=Gondola
+entity.pod_boat:ice_boat.name=Icebreaker
+entity.pod_boat:jetski.name=Jetski
+entity.pod_boat:kayak.name=Kayak
+entity.pod_boat:lava_boat.name=Lava Boat
+entity.pod_boat:life_boat.name=Tender
+entity.pod_boat:mob_boat.name=Mob Boat
+entity.pod_boat:narrowboat.name=Narrowboat
+entity.pod_boat:pirate_ship.name=Pirate Ship
+entity.pod_boat:pontoon.name=Pontoon
+entity.pod_boat:seaglider.name=Seaglider
+entity.pod_boat:tanker.name=Tanker
+entity.pod_boat:viking_boat.name=Longboat
+entity.pod_boat:wind_surf.name=Wind Surf
+item.spawn_egg.entity.pod_boat:submarine.name=Submarine
+item.spawn_egg.entity.pod_boat:submarine_miner.name=Submarine Miner
+item.spawn_egg.entity.pod_boat:air_boat.name=Fanboat
+item.spawn_egg.entity.pod_boat:barge.name=Barge
+item.spawn_egg.entity.pod_boat:bowrider.name=Bowrider
+item.spawn_egg.entity.pod_boat:canoe.name=Canoe
+item.spawn_egg.entity.pod_boat:dhow_boat.name=Dhow
+item.spawn_egg.entity.pod_boat:djong_boat.name=Jong
+item.spawn_egg.entity.pod_boat:egypt_boat.name=Solar Barque
+item.spawn_egg.entity.pod_boat:end_boat.name=End Boat
+item.spawn_egg.entity.pod_boat:ferry.name=Ferry
+item.spawn_egg.entity.pod_boat:fishing_boat.name=Fishing Boat
+item.spawn_egg.entity.pod_boat:freighter.name=Freighter
+item.spawn_egg.entity.pod_boat:gondola.name=Gondola
+item.spawn_egg.entity.pod_boat:ice_boat.name=Icebreaker
+item.spawn_egg.entity.pod_boat:jetski.name=Jetski
+item.spawn_egg.entity.pod_boat:kayak.name=Kayak
+item.spawn_egg.entity.pod_boat:lava_boat.name=Lava Boat
+item.spawn_egg.entity.pod_boat:life_boat.name=Tender
+item.spawn_egg.entity.pod_boat:mob_boat.name=Mob Boat
+item.spawn_egg.entity.pod_boat:narrowboat.name=Narrowboat
+item.spawn_egg.entity.pod_boat:pirate_ship.name=Pirate Ship
+item.spawn_egg.entity.pod_boat:pontoon.name=Pontoon
+item.spawn_egg.entity.pod_boat:seaglider.name=Seaglider
+item.spawn_egg.entity.pod_boat:tanker.name=Tanker
+item.spawn_egg.entity.pod_boat:viking_boat.name=Longboat
+item.spawn_egg.entity.pod_boat:wind_surf.name=Wind Surf
+item.pod_boat:fluid_crane_spawn_egg=Fluid Crane
+item.pod_boat:cargo_crane_spawn_egg=Cargo Crane
+item.pod_boat:fluid_tank_spawn_egg=Fluid Tank
+item.pod_boat:container_spawn_egg=Container
+item.pod_boat:submarine_spawn_egg=Submarine
+item.pod_boat:submarine_miner_spawn_egg=Submarine Miner
+item.pod_boat:air_boat_spawn_egg=Fanboat
+item.pod_boat:barge_spawn_egg=Barge
+item.pod_boat:bowrider_spawn_egg=Bowrider
+item.pod_boat:canoe_spawn_egg=Canoe
+item.pod_boat:dhow_boat_spawn_egg=Dhow
+item.pod_boat:djong_boat_spawn_egg=Jong
+item.pod_boat:egypt_boat_spawn_egg=Solar Barque
+item.pod_boat:end_boat_spawn_egg=End Boat
+item.pod_boat:ferry_spawn_egg=Ferry
+item.pod_boat:fishing_boat_spawn_egg=Fishing Boat
+item.pod_boat:freighter_spawn_egg=Freighter
+item.pod_boat:gondola_spawn_egg=Gondola
+item.pod_boat:ice_boat_spawn_egg=Icebreaker
+item.pod_boat:jetski_spawn_egg=Jetski
+item.pod_boat:kayak_spawn_egg=Kayak
+item.pod_boat:lava_boat_spawn_egg=Lava Boat
+item.pod_boat:life_boat_spawn_egg=Tender
+item.pod_boat:mob_boat_spawn_egg=Mob Boat
+item.pod_boat:narrowboat_spawn_egg=Narrowboat
+item.pod_boat:pirate_ship_spawn_egg=Pirate Ship
+item.pod_boat:pontoon_spawn_egg=Pontoon
+item.pod_boat:seaglider_spawn_egg=Seaglider
+item.pod_boat:tanker_spawn_egg=Tanker
+item.pod_boat:viking_boat_spawn_egg=Longboat
+item.pod_boat:wind_surf_spawn_egg=Wind Surf
+item.pod_boat:guide=BOATS Guide
+item.pod_boat:boats_fuel_bucket=Marine Fuel Bucket
+item.pod_boat:boats_fuel_bottle=Marine Fuel Bottle
+item.pod_boat:sail_cloth=Sail Cloth
+item.pod_boat:fishing_net=Fishing Net
+item.pod_boat:steering_wheel=Steering Wheel
+item.pod_boat:propeller=Propeller
+tile.pod_boat:boat_fuel_refinery.name=Marine Fuel Refinery
+tile.pod_boat:reinforced_iron_block.name=Reinforced Iron Block
+tile.pod_boat:treated_planks.name=Treated Planks
+tile.pod_boat:drill.name=Underwater Drill
+tile.pod_boat:workbench.name=Boat Workbench
+action.hint.exit.pod_boat:fluid_crane=Press :_input_key.sneak: to exit the fluid crane
+action.hint.exit.pod_boat:cargo_crane=Press :_input_key.sneak: to exit the cargo crane
+action.hint.exit.pod_boat:submarine=Press :_input_key.jump: or look up to rise. Look down to descend. Press :_input_key.sneak: to exit the submarine
+action.hint.exit.pod_boat:submarine_miner=Press :_input_key.jump: or look up to rise. Look down to descend. Press :_input_key.sneak: to exit the submarine miner
+action.hint.exit.pod_boat:air_boat=Press :_input_key.sneak: to exit the fanboat
+action.hint.exit.pod_boat:barge=Press :_input_key.sneak: to exit the barge
+action.hint.exit.pod_boat:bowrider=Press :_input_key.sneak: to exit the bowrider
+action.hint.exit.pod_boat:canoe=Press :_input_key.sneak: to exit the canoe
+action.hint.exit.pod_boat:dhow_boat=Press :_input_key.sneak: to exit the dhow
+action.hint.exit.pod_boat:djong_boat=Press :_input_key.sneak: to exit the jong
+action.hint.exit.pod_boat:egypt_boat=Press :_input_key.sneak: to exit the solar barque
+action.hint.exit.pod_boat:end_boat=Press :_input_key.sneak: to exit the end boat
+action.hint.exit.pod_boat:ferry=Press :_input_key.sneak: to exit the ferry
+action.hint.exit.pod_boat:fishing_boat=Press :_input_key.sneak: to exit the fishing boat
+action.hint.exit.pod_boat:freighter=Press :_input_key.sneak: to exit the freighter
+action.hint.exit.pod_boat:gondola=Press :_input_key.sneak: to exit the gondola
+action.hint.exit.pod_boat:ice_boat=Press :_input_key.sneak: to exit the icebreaker
+action.hint.exit.pod_boat:jetski=Press :_input_key.sneak: to exit the jetski
+action.hint.exit.pod_boat:kayak=Press :_input_key.sneak: to exit the kayak
+action.hint.exit.pod_boat:lava_boat=Press :_input_key.sneak: to exit the lava boat
+action.hint.exit.pod_boat:life_boat=Press :_input_key.sneak: to exit the tender
+action.hint.exit.pod_boat:mob_boat=Press :_input_key.sneak: to exit the mob boat
+action.hint.exit.pod_boat:narrowboat=Press :_input_key.sneak: to exit the narrowboat
+action.hint.exit.pod_boat:pirate_ship=Press :_input_key.sneak: to exit the pirate ship
+action.hint.exit.pod_boat:pontoon=Press :_input_key.sneak: to exit the pontoon
+action.hint.exit.pod_boat:seaglider=Press :_input_key.jump: or look up to rise. Look down to descend. Press :_input_key.sneak: to exit the seaglider
+action.hint.exit.pod_boat:tanker=Press :_input_key.sneak: to exit the tanker
+action.hint.exit.pod_boat:viking_boat=Press :_input_key.sneak: to exit the longboat
+action.hint.exit.pod_boat:wind_surf=Press :_input_key.sneak: to exit the wind surf
+action.interact.pod_boat.fluid_crane=Fluid Crane
+action.interact.pod_boat.cargo_crane=Cargo Crane
+action.interact.pod_boat:container.door=Container Door
+action.interact.pod_boat:submarine=Sail Submarine
+action.interact.pod_boat:submarine_miner=Sail Submarine Miner
+action.interact.pod_boat.submarine_miner.drill_direction=Change drill direction.
+action.interact.pod_boat:air_boat=Sail Fanboat
+action.interact.pod_boat:barge=Sail Barge
+action.interact.pod_boat:bowrider=Sail Bowrider
+action.interact.pod_boat:canoe=Sail Canoe
+action.interact.pod_boat:dhow_boat=Sail Dhow
+action.interact.pod_boat:djong_boat=Sail Jong
+action.interact.pod_boat:egypt_boat=Sail Solar Barque
+action.interact.pod_boat:egypt_boat.close_sail=Close the Sail
+action.interact.pod_boat:egypt_boat.open_sail=Open the Sail
+action.interact.pod_boat:end_boat=Sail End Boat
+action.interact.pod_boat:ferry=Sail Ferry
+action.interact.pod_boat:fishing_boat=Sail Fishing Boat
+action.interact.pod_boat:fishing_boat.net_up=Lower Fishing Net
+action.interact.pod_boat:fishing_boat.collect_fish=Collect fish
+action.interact.pod_boat:freighter=Sail Freighter
+action.interact.pod_boat:gondola=Sail Gondola
+action.interact.pod_boat:ice_boat=Sail Icebreaker
+action.interact.pod_boat:jetski=Sail Jetski
+action.interact.pod_boat:kayak=Sail Kayak
+action.interact.pod_boat:lava_boat=Sail Lava Boat
+action.interact.pod_boat:life_boat=Sail Tender
+action.interact.pod_boat:mob_boat=Sail Mob Boat
+action.interact.pod_boat:narrowboat=Sail Narrowboat
+action.interact.pod_boat:pirate_ship=Sail Pirate Ship
+action.interact.pod_boat:pontoon=Sail Pontoon
+action.interact.pod_boat:seaglider=Sail Seaglider
+action.interact.pod_boat:tanker=Sail Tanker
+action.interact.pod_boat:viking_boat=Sail Longboat
+action.interact.pod_boat:wind_surf=Sail Wind Surf
+action.interact.pod_boat.dye.white=Dye White
+action.interact.pod_boat.dye.black=Dye Black
+action.interact.pod_boat.dye.blue=Dye Blue
+action.interact.pod_boat.dye.brown=Dye Brown
+action.interact.pod_boat.dye.cyan=Dye Cyan
+action.interact.pod_boat.dye.gray=Dye Gray
+action.interact.pod_boat.dye.green=Dye Green
+action.interact.pod_boat.dye.light_blue=Dye Light Blue
+action.interact.pod_boat.dye.light_gray=Dye Light Gray
+action.interact.pod_boat.dye.lime=Dye Lime
+action.interact.pod_boat.dye.magenta=Dye Magenta
+action.interact.pod_boat.dye.orange=Dye Orange
+action.interact.pod_boat.dye.pink=Dye Pink
+action.interact.pod_boat.dye.purple=Dye Purple
+action.interact.pod_boat.dye.red=Dye Red
+action.interact.pod_boat.dye.yellow=Dye Yellow
+action.interact.pod_boat.fuel=Refuel
+action.hint.pod_boat.no_fuel=No fuel.
+action.hint.pod_boat.submarine.stranded=You've stranded the submarine, please return it to the water.
+action.hint.pod_boat.submarine_miner.stranded=You've stranded the submarine miner, please return it to the water.
+action.hint.pod_boat.seaglider.stranded=You've stranded the seaglider, please return it to the water.
+pod_boat.guide.title=BOATS Add-On
+pod_boat.guide.body=§o§7Created by Podcrash§r%1%1The BOATS Add-On has sailed into port! BOATS brings a wave of new watercrafts, features, and mechanics to your world. From small kayaks to massive ships, you'll find everything you need to explore, transport goods, and travel with style across the oceans. The guidebook will help you navigate and make the most of your nautical adventures. If you lose the book, you can re-craft it with a book and a §2kelp§r.%1%1For more information and support, check out §3§ohttps://pdcr.sh/boats§r
+pod_boat.button.exit=Exit
+pod_boat.button.back=Back
+pod_boat.guide.operating_vehicles.title=Operating Vehicles
+pod_boat.guide.operating_vehicles.body=Driving a boat is easy once you know the basics!%1This section will guide you through everything you need to know - how to control, refuel, and store your vehicles. You will also learn how to dive beneath the ocean surface for underwater adventures.
+pod_boat.guide.controls.title=Controls
+pod_boat.guide.controls.body=To board your vehicle, simply interact with it! To exit the vehicle press :_input_key.sneak:. Use standard movement controls to control your vehicle. Boats and submersibles need to be moving forward or backward to be able to turn.%1%1Some of the vehicles require fuel and cannot be operated without it. In the next section you will learn more about refueling.
+pod_boat.guide.fueling_refueling.title=Fuel & Refueling
+pod_boat.guide.fueling_refueling.body=Fuel-powered boats will need fuel before setting sail. To refuel, simply hold a marine fuel bucket or marine fuel bottle and interact with the boat you want to refuel. Learn how to get fuel in the Marine Fuel Refinery - see the Crafting Blocks section for details.
+pod_boat.guide.boats_storage.title=Storing your vehicle
+pod_boat.guide.boats_storage.body=To store your vehicle in your inventory, punch it twice. Don't worry - any fuel inside will be saved with the vehicle.
+pod_boat.guide.diving.title=Diving
+pod_boat.guide.diving.body=In this section you'll learn more about diving with submersible vehicles. This type of vehicle moves just like the rest of the vehicles, but has an ability to dive underwater.%1To dive down, simply look down! To stay in place look straight. To rise back up look up or press :_input_key.jump:.
+pod_boat.guide.boats.title=Boats
+pod_boat.guide.boats.body=Boats come in all shapes and purposes. Here you'll learn about two main types: Travel Boats for getting around with style, and Utility Boats for special tasks and heavy lifting.
+pod_boat.guide.travel_boats.title=Travel Boats
+pod_boat.guide.travel_boats.body=When the journey itself is just as important as the destination, Travel Boats are your choice! Built for speed, comfort, and long-distance sailing, these vessels will take you anywhere. There are two types of Travel Boats: Classic and Modern.
+pod_boat.guide.classic.title=Classic Travel Boats
+pod_boat.guide.classic.body=Classic boats are timeless designs that have sailed the seas for generations. Cheap crafting, simple controls, and reliable performance make them perfect for explorers who appreciate tradition and a touch of nostalgia on the open sea.
+pod_boat.guide.modern.title=Modern Travel Boats
+pod_boat.guide.modern.body=Modern boats bring sleek lines, advanced materials, and powerful engines to your adventures. They're faster and more reliable - ideal for those who like to travel in comfort and style.
+pod_boat.guide.utility_boats.title=Utility Boats
+pod_boat.guide.utility_boats.body=Utility Boats are workhorses of the water. Whether you're hauling cargo, or handling specilized maritime tasks, these boats are built for handling it all. They may not win any speed races, but they'll get the job done!
+pod_boat.guide.submarines.title=Submersibles
+pod_boat.guide.submarines.body=When the adventure takes you below the waves, submersibles are your ticket to the deep. These specialized vessels are designed for underwater travel and sea floor exploration.
+pod_boat.guide.cranes.title=Cranes
+pod_boat.guide.cranes.body=When the time comes to load, unload, and manage your goods, cranes are your ultimate helpers. These towering machines are designed to handle both solid cargo and liquids, making dockside operations more efficient.%1Holding :_input_key.right: or :_input_key.left: will rotate the crane. For loading use :_input_key.forward:, and for unloading use :_input_key.back:.
+pod_boat.guide.storage.title=Storage
+pod_boat.guide.storage.body=Whether you're transporting goods across the seas or stocking up for a long expedition, storage solutions are essentials.
+pod_boat.guide.craftable_blocks.title=Crafting Blocks
+pod_boat.guide.craftable_blocks.body=These blocks are involved as ingredients or tools in creating other things in the Add-On.
+pod_boat.guide.craftable_items.title=Crafting Items
+pod_boat.guide.craftable_items.body=These items are involved as ingredients or tools in creating other things in the Add-On.
+pod_boat.guide.air_boat.title=Fanboat
+pod_boat.guide.air_boat.body=Fanboat is designed for speed across shallow waters and swampy areas.%1%1Carries up to 2 players.%1%1§lRequires fuel.§r%1%1§lCrafting§r%1%11 §0X X§r%12 3 1%11 1 1%1%11 = Iron Ingot%12 = Propeller%13 = Wool%1%1Crafts 1 Fanboat.
+pod_boat.guide.barge.title=Barge
+pod_boat.guide.barge.body=The barge is a sturdy vessel built to carry loose materials. There's many items that can be put in the barge. This includes most seeds and minerals as well as sand, dirt, and gravel.%1%1Carries 1 player.%1%1§lRequires fuel.§r%1%1§lCrafting§r%1%11 1 2%13 1 3%14 1 1%1%11 = Iron Ingot%12 = Steering Wheel%13 = Reinforced Iron Block%14 = Propeller%1%1Crafts 1 Barge.
+pod_boat.guide.bowrider.title=Bowrider
+pod_boat.guide.bowrider.body=Sporty and stylish, the Bowrider is perfect for leisure rides and short excursions. Its open deck allows passengers to enjoy the water and sunshine.%1%1Carries up to 3 players.%1%1§lRequires fuel.§r%1%1§lCrafting§r%1%1§0X§r 1 2%13 4 3%15 6 6%1%11 = Steering Wheel%12 = Glass Pane%13 = Treated Planks%14 = Wool%15 = Propeller%16 = Reinforced Iron Block%1%1Crafts 1 Bowrider.
+pod_boat.guide.canoe.title=Canoe
+pod_boat.guide.canoe.body=The Canoe is a simple, lightweight boat for peaceful paddling. Ideal for narrow rivers and quiet lakes.%1%1Carries up to 2 players.%1%1§lCrafting§r%1%11 §0X§r 1%12 2 2%11 §0X§r 1%1%11 = Wooden Shovel%12 = Treated Planks%1%1Crafts 1 Canoe.
+pod_boat.guide.dhow_boat.title=Dhow
+pod_boat.guide.dhow_boat.body=The classic sailing vessel, know for its triangular sails, is perfect for coastal travel. Its design has stood the test of time.%1%1Carries 1 player.%1%1Interact with the boat while in it to fold or unfold its sail.%1%1§lCrafting§r%1%11 1 1%1§0X§r 2 §0X§r%13 3 3%1%11 = Sail Cloth%12 = Stick%13 = Treated Planks%1%1Crafts 1 Dhow.
+pod_boat.guide.djong_boat.title=Jong
+pod_boat.guide.djong_boat.body=A majestic sailing vessel with towering sails, built for long journeys and open-sea exploration.%1%1Carries 1 player.%1%1§lCrafting§r%1%11 2 1%11 2 1%13 3 3%1%11 = Sail Cloth%12 = Stick%13 = Treated Planks%1%1Crafts 1 Jong.
+pod_boat.guide.egypt_boat.title=Solar Barque
+pod_boat.guide.egypt_boat.body=Inspired by ancient Egyptian designs, the Solar Barque combines elegance and utility. Best for river journeys and showcasing traditional craftsmanship.%1%1Interact with the boat while in it to open or close its sail%1%1Carries 1 player.%1%1§lCrafting§r%1%11 1 1%12 3 2%14 4 4%1%11 = Sail Cloth%12 = Wooden Shovel%13 = Stick%14 = Treated Planks%1%1Crafts 1 Solar Barque.
+pod_boat.guide.ferry.title=Ferry
+pod_boat.guide.ferry.body=The Ferry is built to transport passengers efficiently across waterways. Its stability and space make it reliable for short to medium trips.%1%1Carries up to 6 players.%1%1§lRequires fuel.§r%1%1§lCrafting§r%1%11 1 1%11 §0X§r 2%13 4 1%1%11 = Iron Ingot%12 = Steering Wheel%13 = Propeller%14 = Reinforced Iron Block%1%1Crafts 1 Ferry.
+pod_boat.guide.fishing_boat.title=Fishing Boat
+pod_boat.guide.fishing_boat.body=Equipped with a fishing net, the Fishing Boat is perfect for relaxing on coastal waters.%1%1Interact with the boat while in it to lower the fishing net.%1%1Carries 1 player.%1%1§lRequires fuel.§r%1%1§lCrafting§r%1%1§0X§r 1 §0X§r%12 3 4%15 6 1%1%11 = Iron Ingot%12 = Fishing Net%13 = Steering Wheel%14 = Glass Pane%15 = Propeller%16 = Reinforced Iron Block%1%1Crafts 1 Fishing Boat.
+pod_boat.guide.freighter.title=Freighter
+pod_boat.guide.freighter.body=A massive vessel designed for transporting heavy cargo. Sneak + interact with the container to open its door.%1%1Carries 1 player.%1%1§lRequires fuel.§r%1%1§lCrafting§r%1%1§0X X X§r%11 2 3%14 3 3%1%11 = Steering Wheel%12 = Container%13 = Reinforced Iron Block%14 = Propeller%1%1Crafts 1 Freighter.
+pod_boat.guide.gondola.title=Gondola
+pod_boat.guide.gondola.body=The Gondola offers a serene ride through canals and calm waters. Its flat design and elegant profile make it ideal for sightseeing.%1%1Carries up to 2 players.%1%1§lCrafting§r%1%1§0X X X§r%12 §0X§r 1%11 1 1%1%11 = Treated Planks%12 = Wooden Shovel%1%1Crafts 1 Gondola.
+pod_boat.guide.ice_boat.title=Icebreaker
+pod_boat.guide.ice_boat.body=Built for icy waters, the Icebreaker can plow through frozen surfaces with ease.%1%1Carries up to 2 players.%1%1§lRequires fuel.§r%1%1§lCrafting§r%1%11 §0X§r 2%11 1 1%13 1 1%1%11 = Reinforced Iron Block%12 = Steering Wheel%13 = Propeller%1%1Crafts 1 Icebreaker.
+pod_boat.guide.jetski.title=Jetski
+pod_boat.guide.jetski.body=Fast, compact, and thrilling, the Jetski is perfect for solo riders seeking speed and maneuverability on open water.%1%1Carries 1 player.%1%1§lRequires fuel.§r%1%1§lCrafting§r%1%1§0X X X§r%11 1 2%13 4 1%1%11 = Iron Ingot%12 = Steering Wheel%13 = Propeller%14 = Reinforced Iron Block%1%1Crafts 1 Jetski.
+pod_boat.guide.kayak.title=Kayak
+pod_boat.guide.kayak.body=Small and nimble, the Kayak is designed for rivers, lakes and adventure paddling.%1%1Carries 1 player.%1%1§lCrafting§r%1%1§0X§r 1 §0X§r%12 2 2%1§0X§r 1 §0X§r%1%11 = Wooden Shovel%12 = Treated Planks%1%1Crafts 1 Kayak.
+pod_boat.guide.lava_boat.title=Lava Boat
+pod_boat.guide.lava_boat.body=An amazing vessel capable of traversing lava, the Lava Boat is perfect for daring journeys in the nether.%1%1Carries up to 2 players.%1%1§lCrafting§r%1%11 1 1%12 2 2%13 4 5%1%11 = Netherite Ingot%12 = Reinforced Iron Block%13 = Propeller%14 = Lava Bucket%15 = Nether Brick%1%1Crafts 1 Lava Boat.
+pod_boat.guide.life_boat.title=Tender
+pod_boat.guide.life_boat.body=The tender is a compact, reliable rescue boat. Essential for emergencies or ferrying passengers to larger ships.%1%1Carries up to 2 players.%1%1§lRequires fuel.§r%1%1§lCrafting§r%1%1§0X X X§r%11 2 1%13 4 4%1%11 = String%12 = Wool%13 = Propeller%14 = Iron Ingot%1%1Crafts 1 Tender.
+pod_boat.guide.mob_boat.title=Mob Boat
+pod_boat.guide.mob_boat.body=Specially designed for carrying mobs safely across water, the Mob Boat combines utility with fun. The Mob Boat will pull nearby mobs in it. Punch to eject any mobs present.%1%1Carries 1 player.%1%1§lRequires fuel.§r%1%1§lCrafting§r%1%11 2 2%13 1 1%14 4 5%1%11 = Iron Ingot%12 = Iron Bars%13 = Steering Wheel%14 = Propeller%15 = Reinforced Iron Block%1%1Crafts 1 Mob Boat.
+pod_boat.guide.narrowboat.title=Narrowboat
+pod_boat.guide.narrowboat.body=Long and slim, the Narrowboat is perfect for canals and tight waterways.%1%1Carries up to 4 players.%1%1§lRequires fuel.§r%1%1§lCrafting§r%1%11 1 1%12 3 4%15 6 1%1%11 = Iron Ingot%12 = Treated Planks%13 = Glass Pane%14 = Steering Wheel%15 = Propeller%16 = Reinforced Iron Block%1%1Crafts 1 Narrowboat.
+pod_boat.guide.pirate_ship.title=Pirate Ship
+pod_boat.guide.pirate_ship.body=Bold and adventurous, the Pirate Ship is built for raiding, exploration, and nautical adventures on the high seas. Load its inventory with gunpowder and punch to shoot fireballs.%1%1Carries 1 player.%1%1§lCrafting§r%1%11 1 1%12 3 2%14 4 4%1%11 = Sail Cloth%12 = Barrel%13 = Stick%14 = Treated Planks%1%1Crafts 1 Pirate Ship.
+pod_boat.guide.pontoon.title=Pontoon
+pod_boat.guide.pontoon.body=The Pontoon is ideal for leisure trips with multiple passengers. Its flat deck offers comfort and safety.%1%1Carries up to 3 players.%1%1§lRequires fuel.§r%1%1§lCrafting§r%1%11 1 1%11 §0X§r 2%13 1 1%1%11 = Iron Ingot%12 = Steering Wheel%13 = Propeller%1%1Crafts 1 Pontoon.
+pod_boat.guide.tanker.title=Tanker
+pod_boat.guide.tanker.body=The Tanker is designed to transport large amounts of fluids. Heavy and steady, it ensures the safe delivery of liquids across waterways. While holding a filled bottle or bucket, interact with the Fluid Tank to insert the liquid. While holding an empty bottle or bucket, interact to pick up the liquid.%1%1Carries 1 player.%1%1§lRequires fuel.§r%1%1§lCrafting§r%1%1§0X X X§r%11 2 3%14 3 3%1%11 = Steering Wheel%12 = Fluid Tank%13 = Reinforced Iron Block%14 = Propeller%1%1Crafts 1 Tanker.
+pod_boat.guide.viking_boat.title=Longboat
+pod_boat.guide.viking_boat.body=A historic longship built for speed and raids, the Viking Longboat excels in shallow waters and adventurous voyages.%1%1Interact with the boat while in it to fold or unfold its sail.%1%1Carries up to 2 players.%1%1§lCrafting§r%1%11 1 1%11 2 3%13 3 3%1%11 = Sail Cloth%12 = Stick%13 = Treated Planks%1%1Crafts 1 Longboat.
+pod_boat.guide.wind_surf.title=Wind Surf
+pod_boat.guide.wind_surf.body=Light and fast, the Wind Surf is perfect for harnessing the wind. Great for sports, and exploration.%1%1Carries 1 player.%1%1§lCrafting§r%1%1§0X X X§r%1§0X§r 1 2%13 3 3%1%11 = Stick%12 = Sail Cloth%13 = Treated Planks%1%1Crafts 1 Wind Surf.
+pod_boat.guide.seaglider.title=Seaglider
+pod_boat.guide.seaglider.body=A sleek underwater craft designed for swift and silent movement beneath the waves, perfect for exploring the ocean's hidden depths.%1%1Carries 1 player.%1%1§lRequires fuel.§r%1%1§lCrafting§r%1%1§0X X X§r%1§0X§r 1 §0X§r%12 3 2%1%11 = Glass Pane%12 = Iron Ingot%13 = Steering Wheel%1%1Crafts 1 Seaglider.
+pod_boat.guide.submarine.title=Submarine
+pod_boat.guide.submarine.body=A fully encolsed vessel built for deep-sea travel, allowing you to explore far below the surface.%1%1Carries 1 player.%1%1§lRequires fuel.§r%1%1§lCrafting§r%1%11 1 1%12 3 4%11 1 1%1%11 = Reinforced Iron Block%12 = Propeller%13 = Steering Wheel%14 = Glass%1%1Crafts 1 Submarine.
+pod_boat.guide.submarine_miner.title=Submarine Miner
+pod_boat.guide.submarine_miner.body=A specialized submersible equipped for underwater mining. Interact to change the drill's direction.%1%1Carries 1 player.%1%1§lRequires fuel.§r%1%1§lCrafting§r%1%11 1 1%12 3 4%11 1 5%1%11 = Reinforced Iron Block%12 = Propeller%13 = Steering Wheel%14 = Glass%15 = Underwater Drill%1%1Crafts 1 Submarine Miner.
+pod_boat.guide.cargo_crane.title=Cargo Crane
+pod_boat.guide.cargo_crane.body=A dockside machine built for lifting and moving solid goods, making loading and unloading boats fast and effortless.%1%1§lCrafting§r%1%11 2 1%11 §0X§r 3%14 4 §0X§r%1%11 = Iron Ingot%12 = Container%13 = Iron Chain%14 = Reinforced Iron Block%1%1Crafts 1 Cargo Crane.
+pod_boat.guide.fluid_crane.title=Fluid Crane
+pod_boat.guide.fluid_crane.body=A dockside machine designed to transfer liquids, perfect for moving fluids between storage and tanker.%1%1§lCrafting§r%1%11 2 1%11 §0X§r 3%14 4 §0X§r%1%11 = Iron Ingot%12 = Fluid Tank%13 = Iron Chain%14 = Reinforced Iron Block%1%1Crafts 1 Fluid Crane.
+pod_boat.guide.container.title=Container
+pod_boat.guide.container.body=A sturdy storage unit for holding solid goods.%1%1§lCrafting§r%1%11 1 1%12 3 2%11 1 1%1%11 = Iron Ingot%12 = Reinforced Iron Block%13 = Chest%1%1Crafts 1 Container.
+pod_boat.guide.fluid_tank.title=Fluid Tank
+pod_boat.guide.fluid_tank.body=A sealed tank designed for storing liquids.%1%1§lCrafting§r%1%11 1 1%12 3 2%11 1 1%1%11 = Iron Ingot%12 = Reinforced Iron Block%13 = Glass%1%1Crafts 1 Fluid Tank.
+pod_boat.guide.workbench.title=Boat Workbench
+pod_boat.guide.workbench.body=A custom workbench that is only for crafting all the items and blocks added by this Add-On.%1%1Recipes are still available in the normal Crafting Table.%1%1§lCrafting§r%1%1§0X X X§r%1§0X§r 1 §0X§r%1§0X§r 2 §0X§r%1%11 = BOATS Guide%12 = Crafting Table%1%1Crafts 1 Boat Workbench.%1%1§oThis won't use up your BOATS guide book.§r
+pod_boat.guide.boat_fuel_refinery.title=Marine Fuel Refinery
+pod_boat.guide.boat_fuel_refinery.body=The marine fuel refinery is used to make marine fuel. It can be filled with bones, coal, charcoal, or dried kelp.%1Each item has a different chance of turning into refined fuel, the chance rises based on the value of the item.%1%1Rotten Flesh = 2%% chance%1Resin Clump = 4%% chance%1Bone Meal = 5%% chance%1Dried Kelp = 7%% chance%1Coal = 10%% chance%1Charcoal = 10%% chance%1Bone = 12%% chance%1Resin Block = 40%% chance%1Bone Block = 60%% chance%1Dried Kelp Block = 75%% chance%1Coal Block = 95%% chance%1Nautilus Shell = 100%% chance%1%1Once full a bucket or a bottle can be used to grab the fuel.%1%1§lCrafting§r%1%11 §0X§r 1%12 §0X§r 2%11 3 1%1%11 = Iron Ingot%12 = Copper Ingot%13 = Cauldron%1%1Crafts 1 Marine Fuel Refinery.
+pod_boat.guide.drill.title=Underwater Drill
+pod_boat.guide.drill.body=A powerful tool for underwater mining. Used for crafting the Submarine Miner.%1%1§lCrafting§r%1%1§0X§r 1 §0X§r%11 2 1%13 3 3%1%11 = Iron Bars%12 = Iron Ingot%13 = Reinforced Iron Block%1%1Crafts 1 Underwater Drill.
+pod_boat.guide.reinforced_iron_block.title=Reinforced Iron Block
+pod_boat.guide.reinforced_iron_block.body=A durable construction block used in boats crafting.%1%1§lCrafting§r%1%11 1 1%11 2 1%11 1 1%1%11 = Iron Ingot%12 = Diamond%1%1Crafts 1 Reinforced Iron Block.
+pod_boat.guide.treated_planks.title=Treated Planks
+pod_boat.guide.treated_planks.body=Specially processed wooden planks resistant to water and wear. Used in boats crafting.%1%1§lCrafting§r%1%11 1 1%11 2 1%11 1 1%1%11 = Planks%12 = Honeycomb%1%1Crafts 8 Treated Planks.
+
+pod_boat.guide.fishing_net.title=Fishing Net
+pod_boat.guide.fishing_net.body=Used for crafting the Fishing Boat.%1%1§lCrafting§r%1%11 2 1%12 1 2%11 2 1%1%11 = String%12 = Stick%1%1Crafts 1 Fishing Net.
+pod_boat.guide.propeller.title=Propeller
+pod_boat.guide.propeller.body=Used in the crafting of different boats.%1%1§lCrafting§r%1%1§0X§r 1 §0X§r%11 1 1%1§0X§r 1 §0X§r%1%11 = Iron Ingot%1%1Crafts 3 Propeller.
+pod_boat.guide.sail_cloth.title=Sail Cloth
+pod_boat.guide.sail_cloth.body=Used in the crafting of different boats.%1%1§lCrafting§r%1%11 1 1%11 2 1%11 1 1%1%11 = String%12 = Wool%1%1Crafts 1 Sail Cloth.
+pod_boat.guide.steering_wheel.title=Steering Wheel
+pod_boat.guide.steering_wheel.body=Used in the crafting of different boats.%1%1§lCrafting§r%1%1§0X X X§r%11 1 1%1§0X§r 2 §0X§r%1%11 = Stick%12 = Planks%1%1Crafts 1 Steering Wheel.
+pod_boat.fluid_crane.nothing_to_unload=Nothing to unload
+pod_boat.fluid_crane.crane_full=Crane is full
+pod_boat:itemGroup.name.classic_travel_boats=Classic Travel Boats
+pod_boat:itemGroup.name.modern_travel_boats=Modern Travel Boats
+pod_boat:itemGroup.name.utility_boats=Utility Boats
+pod_boat:itemGroup.name.submarines=Submersibles
+pod_boat:itemGroup.name.storage=Storage
+pod_boat:itemGroup.name.cranes=Cranes
+tile.pod_boat:workbench.name_short=Workbench
+pod_boat.fluid_crane.nothing_to_load=Nothing to load

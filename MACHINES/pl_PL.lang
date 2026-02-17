@@ -1,0 +1,249 @@
+pack.name=Maszyny
+pack.description=Dodatek autorstwa Podcrash
+tile.pod_engi:copper_pipe.name=Miedziana rura zasilająca
+tile.pod_engi:glass_pipe.name=Szklana rurka do cieczy
+tile.pod_engi:iron_pipe.name=Rura żelazna
+tile.pod_engi:obsidian_pipe.name=Obsydianowa rura
+tile.pod_engi:item_pipe_filter.name=Pozycja Filtr rurowy
+tile.pod_engi:liquid_pipe_filter.name=Filtr rurowy cieczy
+tile.pod_engi:power_pipe_filter.name=Filtr Power Pipe
+tile.pod_engi:power_calibrator.name=Kalibrator długości fali mocy
+tile.pod_engi:essence_calibrator.name=Kalibrator długości fali Essence
+tile.pod_engi:teleportation_pad.name=Podkładka teleportacyjna
+tile.pod_engi:power_storage.name=Bateria zasilająca
+item.pod_engi:power_storage=Bateria zasilająca
+item.pod_engi:wrench=Klucz do rur
+item.pod_engi:chunk_book=Chunk Book
+item.pod_engi:guide_book=Przewodnik po maszynach
+item.pod_engi:iron_gear=Iron Gear
+item.pod_engi:refined_metal=Wlewka metalu rafinowanego
+item.pod_engi:refined_metal_clump=Kępa żelaza i węgla
+item.pod_engi:copper_wire=Drut miedziany
+item.pod_engi:logic_circuit=Obwód logiczny
+item.pod_engi:calibrated_circuit=Obwód skalibrowany
+item.pod_engi:null_copper=Zerowa sztabka miedzi
+item.pod_engi:raw_null_copper=Surowa miedź Null
+item.pod_engi:experience_bucket=Bucket o' Enchanting
+item.pod_engi:fabric=Tkanina
+item.pod_engi:hardhat=Twardy kapelusz
+item.pod_engi:ignition_powder=Proszek zapłonowy
+item.pod_engi:gust_pack=Gust Pack
+tile.pod_engi:steam_engine.name=Silnik parowy
+tile.pod_engi:thermal_generator.name=Generator termiczny
+tile.pod_engi:solar_engine.name=Silnik słoneczny
+tile.pod_engi:bio_reactor.name=Bioreaktor
+tile.pod_engi:creative_engine.name=§dCreative Engine
+tile.pod_engi:pump.name=Pompa
+tile.pod_engi:guster.name=Guster
+tile.pod_engi:drill.name=Kontroler wiercenia
+tile.pod_engi:extruder.name=Wytłaczarka drutu
+tile.pod_engi:stamper.name=Gear Stamper
+tile.pod_engi:chest_extractor.name=Ekstraktor przedmiotów
+tile.pod_engi:chest_depositor.name=Depozytariusz przedmiotów
+tile.pod_engi:exactor.name=Mob Muncher
+tile.pod_engi:lightning_calibrator.name=Kalibrator piorunochronu
+tile.pod_engi:debug_input.name=Wejście debugowania
+tile.pod_engi:sturdy_frame.name=Wytrzymała rama
+tile.pod_engi:null_copper_block.name=Null Copper Block
+tile.pod_engi:refined_metal_block.name=Uszlachetniony blok metalowy
+tile.pod_engi:structure_support.name=Kratownica
+tile.pod_engi:truss_platform.name=Platforma kratownicowa
+port.pod_engi:copper_pipe=§6Moc
+port.pod_engi:glass_pipe=§bLiquid
+port.pod_engi:iron_pipe=§7Przedmiot
+port.unrestricted=§5Nieograniczony
+port.input=§7[§9§lIN§r§7]§r
+port.output=§7[§c§lOUT§r§7]§r
+port.both=§7[§l§9IN§cOUT§r§7]§r
+port.pipe_interact.false=§aEnable %1
+port.pipe_interact.true=§cDisable %1
+port.no_information=§Brak portu na tej powierzchni
+port.pipe_equipped=§7§oSpójrz na maszynę lub rurę do użycia
+gust_pack.land=§e§lPLEASE LAND
+gust_pack.out=§Opłaty wyczerpane
+gust_pack.brace=§miejsce oddziaływania
+gust_pack.1_remaining=§Ostatnie doładowanie
+state.pod_engi:coal.display=§8§lCoal§r
+state.pod_engi:bio_fuel.display=§2§lBio Fuel§r
+state.pod_engi:essence.display=§a§lEssence§r
+state.pod_engi:water.display=§9§lWoda§r
+state.pod_engi:lava.display=§6§lLava§r
+state.pod_engi:power.display=§c§lPower§r
+state.pod_engi:ladder.display=§e§lLadders§r
+pod_engi:generators=Generatory
+pod_engi:machines=Maszyny
+pod_engi:connectors=Złącza
+pod_engi.guide.back_button=Powrót
+pod_engi.guide.exit_button=Wyjście
+pod_engi.guide.main.title=Dodatek do maszyn
+pod_engi.guide.main.body=§o§7by Podcrash§r%1%1Witamy w dodatku Maszyny, który dodaje do gry kilka nowych maszyn, przedmiotów i bloków! %1%1Ta książka zapozna cię ze wszystkimi maszynami, przedmiotami i przepisami rzemieślniczymi, które ten dodatek dodaje do gry. Jeśli kiedykolwiek zgubisz tę książkę, możesz po prostu stworzyć ją ponownie za pomocą książki i kawałka §mredstone§r.%1%1F Aby uzyskać bardziej szczegółowe informacje, sprawdź §3§ohttps://pdcr.sh/machines§r%1%1Skontaktuj się z §3§ohelp.podcrash.com§r, jeśli znalazłeś jakiś problem!
+pod_engi.guide.how_to_machines.title=Jak wchodzić w interakcje z maszynami
+pod_engi.guide.how_to_machines.body=Istnieją 3 rodzaje portów, o których należy pamiętać podczas podłączania rur do maszyn:%1%1§l§bPorty cieczy§r%1Porty te są używane do przesyłania cieczy do/z maszyny za pomocą rur szklanych.%1%1§l§6Porty zasilania§r%1Porty te są używane do zasilania maszyn za pomocą rur miedzianych.%1%1§l§7Porty przedmiotów§r%1Porty te służą do przesyłania przedmiotów do i z maszyn wyposażonych w żelazne rury.%1%1Port wejściowy będzie zazwyczaj oznaczony kolorem niebieskim§r, a port wyjściowy kolorem czerwonym§r.%1%1Niektóre maszyny można obsługiwać, aby uzyskać więcej informacji o ich stanie wewnętrznym. %1%1Na przykład z silnikiem parowym można wchodzić w interakcje, aby zobaczyć, ile węgla, wody i energii jest w nim przechowywane.%1%1Rury będą zorientowane w zależności od tego, przy którym bloku je umieścisz. Prawie zawsze będą automatycznie tworzyć pożądane połączenia, ale jeśli tak się nie stanie, wystarczy użyć klucza po stronie rury, którą chcesz zmienić, a oddzieli się ona w tym kierunku. Połączenie rury można usunąć poprzez ponowną interakcję.
+pod_engi.guide.generators.title=Generatory
+pod_engi.guide.generators.body=Maszyny te produkują dla ciebie energię, zazwyczaj przekształcając w nią inne zasoby.
+pod_engi.guide.steam_engine.title=Silnik parowy
+pod_engi.guide.steam_engine.body=Najbardziej podstawowy generator, jaki można stworzyć, i ważny priorytet we wczesnej fazie gry. Działa tylko przy stałym dopływie węgla i wody, więc upewnij się, że podłączyłeś go również do pompy. Aby pomóc generatorowi uruchomić się po podłączeniu do pompy, będziesz musiał wejść z nim w interakcję za pomocą wiadra z wodą. Następnie generator sam będzie zasilał pompę i dostarczał sobie wodę! %1%1§lCrafting§r%1%11 2 1%12 3 2%11 4 1%1%11 = Solidna rama%12 = Pył z czerwonego kamienia%13 = Wielki piec%14 = Blok miedzi%1%1Crafts 1 Steam Engine.
+pod_engi.guide.bio_reactor.title=Bioreaktor
+pod_engi.guide.bio_reactor.body=Bardzo elastyczny generator, który będzie dawał różne ilości mocy w zależności od rodzaju biopaliwa, które do niego włożysz.%1%1§lCrafting§r%1%11 2 1%13 4 3%15 6 5%1%11 = Drut miedziany%12 = Kompostownik%13 = Obwód logiczny%14 = Palacz%15 = Solidna rama%16 = Żelazna przekładnia%1%1Crafts 1 Bio-reaktor.
+pod_engi.guide.thermal_generator.title=Generator termiczny
+pod_engi.guide.thermal_generator.body=Ulepszenie silnika parowego, które nie tylko daje więcej mocy, ale przyda się w miejscach, gdzie trudno o wodę, takich jak Nether! %1%1§lCrafting§r%1%11 2 1%13 4 3%15 6 5%1%11 = Iron Gear%12 = Logic Circuit%13 = Steam Engine%14 = Ignition Powder%15 = Sturdy Frame%16 = Cauldron%1%1Crafts 1 Thermal Generator.
+pod_engi.guide.solar_engine.title=Silnik słoneczny
+pod_engi.guide.solar_engine.body=Generator w późnej fazie gry, który będzie działał zawsze, gdy świeci słońce, swobodnie dostarczając energię bez dodatkowego wkładu z twojej strony! Wytworzenie go jest trudne, ale warte wysiłku! %1%1§lTworzenie§r%1%1§0X X X§r%11 2 1%13 4 3%1%11 = Uszlachetniony wlewek metalu%12 = Wykrywacz światła dziennego%13 = Zerowy blok miedzi%14 = Skalibrowany obwód%1%1Tworzy 1 silnik słoneczny.
+pod_engi.guide.machines.title=Maszyny
+pod_engi.guide.machines.body=W tym dodatku można stworzyć wiele różnych maszyn. %1%1Niektóre maszyny pozwolą ci produkować nowe zasoby, inne oferują użyteczność, a jeszcze inne służą tylko do zabawy!
+pod_engi.guide.gear_stamper.title=Gear Stamper
+pod_engi.guide.gear_stamper.body=Prosta maszyna, która pobiera wlewki żelaza i moc, a następnie przetwarza je w żelazne koła zębate, stanowiące ważny surowiec dla późniejszych receptur.%1%1§lCrafting§r%1%11 2 1%13 4 3%11 5 1%1%11 = Solidna rama%12 = Tłok%13 = Wlewka uszlachetnionego metalu%14 = Blok uszlachetnionego metalu%15 = Wlewka miedzi%1%1Crafts 1 Gear Stamper.
+pod_engi.guide.wire_extruder.title=Wytłaczarka drutu
+pod_engi.guide.wire_extruder.body=Prosta maszyna, która pobiera wlewki miedzi i moc, a produkuje drut miedziany, przydatny w późniejszych przepisach.%1%1§lCrafting§r%1%11 2 1%12 3 2%11 2 1%1%11 = Solidna rama%12 = Żelazna przekładnia%13 = Krosno%1%1Crafts 1 Wytłaczarka drutu.
+pod_engi.guide.item_depositor.title=Depozytariusz przedmiotów
+pod_engi.guide.item_depositor.body=Podstawowe urządzenie, które chwyta górną część pojemnika, na którym się znajduje, i umieszcza w nim przedmioty pochodzące z żelaznej rury do przechowywania przedmiotów.%1%1§lCrafting§r%1%11 2 1%13 4 3%11 2 1%1%11 = sztabka rafinowanego metalu%12 = żelazna rura do przechowywania przedmiotów%13 = pył czerwonego kamienia%14 = kroplomierz%1%1Crafts 1 Item Depositor.
+pod_engi.guide.item_extractor.title=Ekstraktor przedmiotów
+pod_engi.guide.item_extractor.body=Podstawowe urządzenie, które chwyta pojemnik i wysyła znajdujące się w nim przedmioty przez podłączone żelazne rury. Ekstraktor pobiera tylko to, co jest potrzebne, więc nie martw się, że zgubisz swój cenny kilof w skrzyni z paliwem i będziesz patrzeć, jak płonie! %1%1Jeśli jest podłączony do depozytora przedmiotów, przeniesie wszystko z podłączonego pojemnika do depozytora, na wypadek gdybyś chciał przenieść mnóstwo przedmiotów pasywnie i stworzyć system przechowywania!%1%1§lCrafting§r%1%11 2 1%13 4 3%11 2 1%1%11 = sztabka rafinowanego metalu%12 = żelazna rura%13 = sztabka miedzi%14 = lej%1%1Crafts 1 Item Extractor.
+pod_engi.guide.pump.title=Pompa
+pod_engi.guide.pump.body=Umieść ją nad wodą lub lawą i dostarcz jej energię, a pompa zasili wszystkie maszyny, które jej potrzebują! %1%1§lCrafting§r%1%1§0X§r 1 §0X§r%12 3 2%14 5 4%1%11 = Żelazna rura%12 = Sztabka miedzi%13 = Szkło%14 = Uszlachetniony blok metalu%15 = Solidna rama%1%1Crafts 1 Pump.
+pod_engi.guide.guster.title=Guster
+pod_engi.guide.guster.body=Najbardziej elastyczne i zabawne urządzenie, jakie może stworzyć początkujący mechanik. Po zasileniu, Guster wystrzeli z ogromną siłą wszystko, co znajdzie się przed nim. Możesz wystrzelić siebie, moby, a nawet pociski, takie jak zapalony TNT, aby stworzyć działo dalekiego zasięgu! Istnieje wiele wspaniałych zastosowań, więc bądź kreatywny! %1%1Czas ładowania jest niewielki, w zależności od ilości energii, z jaką zasilasz Guster. Większa moc oznacza, że będzie aktywować się częściej! Dodatkowo, możesz ustawić kilka Gusterów jeden na drugim lub jeden przed drugim, aby znacznie zwiększyć ich siłę napędową! %1%1§lCrafting§r%1%11 2 1%13 4 3%11 5 1%1%11 = Wytrzymała rama%12 = Proszek zapłonowy%13 = Żelazna przekładnia%14 = Pręt bryzy%15 = Obwód logiczny%1%1Tworzy 1 Guster.
+pod_engi.guide.drill_controller.title=Kontroler wiercenia
+pod_engi.guide.drill_controller.body=Maszyna, która po ustawieniu obok ramy z klocków kratownicy zasila kamieniołom i wykopuje klocki w ramie, wysyłając je na bok kontrolera.%1%1Aby stworzyć kamieniołom, utwórz kompletny kwadrat (z wypełnionymi rogami!) z klocków kratownicy, wyznaczający obszar, który chcesz wykopać. Maksymalne granice to 12x12 bloków. Kontroler drążenia powinien być umieszczony tak, aby jego tył dotykał jednego z bloków kratownicy w obrysie, a do jego wejścia powinno być doprowadzone zasilanie. Kamieniołom wydrąży wszystkie bloki aż do skały macierzystej i wydobędzie z nich przedmioty! %1%1§lCrafting§r%1%1§0X§r 1 §0X§r%12 3 2%14 5 4%1%11 = Dźwignia%12 = Skalibrowany obwód%13 = Ekstraktor przedmiotów%14 = Uszlachetniony blok metalu%15 = Mównica%1%1Crafts 1 Drill Controller.
+pod_engi.guide.mob_muncher.title=Mob Muncher
+pod_engi.guide.mob_muncher.body=Groźnie wyglądająca maszyna, która wykorzystuje moc sculka do "chrupania" pobliskich mobów, zbierając ich dropy i doświadczenie, czyli "esencję". Będziesz musiał dostarczyć jej sporo mocy, ale w zamian otrzymasz sposób na pasywne mielenie mobów! %1 Możesz także podłączyć do niej szklaną rurkę z cieczą i przenieść esencję do kalibratora błyskawicy.%1%1§lCrafting§r%1%11 2 1%11 3 1%14 5 4%1%11 = Null Copper Ingot%12 = Sculk Sensor%13 = Calibrated Circuit%14 = Sturdy Frame%15 = Sculk Catalyst%1%1Crafts 1 Mob Muncher.
+pod_engi.guide.lightning_rod_calibrator.title=Kalibrator piorunochronu
+pod_engi.guide.lightning_rod_calibrator.body=Wymusza burzę z piorunami! Tak długo, jak maszyna będzie otrzymywać esencję z Mob Munchera, będzie utrzymywać burzę.%1Aby piorunochron zadziałał, na Kalibratorze Piorunochronu musi być umieszczony piorunochron.%1%1§lCrafting§r%1%11 2 1%13 4 3%15 6 5%1%11 = Null Copper Ingot%12 = Refined Metal Block%13 = Copper Wire%14 = Calibrated Circuit%15 = Glass%16 = Sturdy Frame%1%1Crafts 1 Lightning Rod Calibrator.
+pod_engi.guide.connectors.title=Złącza
+pod_engi.guide.connectors.body=Złącza pozwalają łączyć ze sobą różne maszyny, tworząc linie produkcyjne!
+pod_engi.guide.iron_item_pipe.title=Rura żelazna
+pod_engi.guide.iron_item_pipe.body=Rura łącząca maszyny i transportująca przedmioty tam, gdzie są potrzebne.%1%1§lCrafting§r%1%11 1 1%1§0X X X§r%11 1 1%1%11 = Iron Ingot%1%1Crafts 12 Iron Item Pipe.
+pod_engi.guide.copper_power_pipe.title=Miedziana rura zasilająca
+pod_engi.guide.copper_power_pipe.body=Rura umożliwiająca pobieranie mocy z generatorów i przesyłanie jej do maszyn, które jej potrzebują.%1%1§lCrafting§r%1%11 1 1%1§0X X X§r%11 1 1%1%11 = Sztabka miedzi%1%1Crafts 12 Coper Power Pipe.
+pod_engi.guide.glass_liquid_pipe.title=Szklana rurka do cieczy
+pod_engi.guide.glass_liquid_pipe.body=Rura umożliwiająca przenoszenie wody, magmy i esencji do różnych maszyn.%1%1§lCrafting§r%1%11 1 1%1§0X X X§r%11 1 1%1%11 = Glass%1%1Crafts 12 Glass Liquid Pipe.
+pod_engi.guide.items.title=Przedmioty
+pod_engi.guide.items.body=Ważne narzędzia i sprzęt dla każdego mechanika.
+pod_engi.guide.wrench.title=Klucz
+pod_engi.guide.wrench.body=Jest to najważniejsze narzędzie dla praktykującego mechanika, które pozwala na manipulowanie połączeniami rurowymi do maszyn! %1%1 Można go również użyć do identyfikacji typu portu, z którym mamy do czynienia, patrząc na niego.%1%1§lCrafting§r%1%1§0X§r 1 §0X§r%1§0X§r 2 §0X§r%1§0X§r 2 §0X§r%1%11 = Sztabka żelaza%12 = Sztabka miedzi%1%1Crafts 1 Klucz.
+pod_engi.guide.gust_pack.title=Gust Pack
+pod_engi.guide.gust_pack.body=Wystrzeliwuje cię wysoko w powietrze, ale bez żadnych zabezpieczeń przed upadkiem, więc uważaj! %1%1Najlepiej używać jej do wznoszenia się na duże wysokości lub wydostawania się z głębokiej wody. Możesz nawet uniknąć śmiertelnych obrażeń od upadku, używając go tuż przed uderzeniem o ziemię! %1%1 Aby użyć Gust Pack, musisz skoczyć podczas skradania się lub spadania. Możesz go użyć tylko kilka razy, zanim będziesz musiał wylądować. Użycie go kilka razy z rzędu spowoduje jego szybszą degradację.%1%1§lCrafting§r%1%11 2 1%13 4 3%15 §0X§r 5%1%11 = Copper Wire%12 = Calibrated Circuit%13 = Ignition Powder%14 = Iron Leggings%15 = Guster%1%1Crafts 1 Gust Pack.
+pod_engi.guide.hard_hat.title=Twardy kapelusz
+pod_engi.guide.hard_hat.body=Zbroja, która pokaże, że jesteś mechanikiem! Daje też umiarkowaną ochronę.%1%1§lCrafting§r%1%1§0X X X§r%11 1 1%12 §0X§r 2%1%11 = Refined Metal Ingot%12 = Fabric%1%1Crafts 1 Hard-Hat.
+pod_engi.guide.resources.title=Zasoby
+pod_engi.guide.resources.body=Lista wszystkich nowych rodzajów zasobów, które będziesz tworzyć i wykorzystywać w tym dodatku!
+pod_engi.guide.iron_coal_clump.title=Kępa żelaza i węgla
+pod_engi.guide.iron_coal_clump.body=Nieporządne połączenie surowego żelaza i węgla, gotowe do przetworzenia w rafinowany metal poprzez wytopienie w piecu.%1%1§lCrafting§r%1%1Połącz następujące przedmioty w dowolnym kształcie:%1%13x Węgiel%11x Sztabka żelaza%1%1Tworzy 1 kępę żelaza i węgla.
+pod_engi.guide.refined_metal.title=Uszlachetniony metal
+pod_engi.guide.refined_metal.body=Sztabka, która jest ważna przy wytwarzaniu większości przedmiotów, które może wytworzyć maszynista, tworzona przez wytapianie kępy żelaza i węgla.
+pod_engi.guide.refined_metal_block.title=Uszlachetniony blok metalowy
+pod_engi.guide.refined_metal_block.body=9 Uszlachetnionych Metali połączonych w jeden blok do dekoracji lub wytwarzania.%1%1§lCrafting§r%1%11 1 1%11 1 1%11 1 1%1%11 = Żelazna Sztabka%1%1Crafts 1 Uszlachetniony Blok Metalu.
+pod_engi.guide.raw_null_copper.title=Surowa miedź Null
+pod_engi.guide.raw_null_copper.body=Niestabilna fuzja pereł Endera i miedzi, która musi zostać ustabilizowana przez podgrzanie w piecu w celu stworzenia sztabki miedzi Null.%1%1§lCrafting§r%1%1Połącz następujące przedmioty w dowolnym kształcie:%1%13x Perła Endera%11x Surowa miedź%1%1Tworzy 1 surową miedź Null.
+pod_engi.guide.null_copper.title=Zerowa sztabka miedzi
+pod_engi.guide.null_copper.body=Nieziemska sztabka wymagana do niektórych z najbardziej zaawansowanych maszyn, jakie może stworzyć mechanik.%1Tworzona przez wytapianie surowej miedzi zerowej.
+pod_engi.guide.null_copper_block.title=Null Copper Block
+pod_engi.guide.null_copper_block.body=9 sztabek miedzi Null połączonych w jeden blok do dekoracji lub wytwarzania.%1%1§lCrafting§r%1%11 1 1%11 1 1%11 1 1%1%11 = sztabka miedzi Null%1%1Crafts 1 blok miedzi Null.
+pod_engi.guide.fabric.title=Tkanina
+pod_engi.guide.fabric.body=Tkany ze sznurka i używany do Hard-Hat!%1%1§lCrafting§r%1%11 1 §0X§r%11 1 §0X§r%11 1 §0X§r%1%11 = String%1%1Crafts 3 Fabric.
+pod_engi.guide.truss.title=Kratownica
+pod_engi.guide.truss.body=Metalowe rusztowanie, które można wykorzystać do dekoracji lub, co najważniejsze, do stworzenia własnego kamieniołomu za pomocą kontrolera wiercenia.%1%1Platformowy wariant kratownicy można wytwarzać w podobny sposób jak płyty.%1%1§lCrafting§r%1%11 2 1%12 §0X§r 2%11 2 1%1%11 = sztabka metalu%12 = kij%1%1Crafts 16 Truss.
+pod_engi.guide.sturdy_frame.title=Wytrzymała rama
+pod_engi.guide.sturdy_frame.body=Uszlachetniony metal połączony z drewnem w mocną ramę. Ważny element wykorzystywany do tworzenia większości maszyn.%1%1§lCrafting§r%1%11 2 1%12 §0X§r 2%11 2 1%1%11 = sztabka rafinowanego metalu%12 = deski%1%1Crafts 1 Sturdy Frame.
+pod_engi.guide.ignition_powder.title=Proszek zapłonowy
+pod_engi.guide.ignition_powder.body=Niezwykle niebezpieczna kombinacja prochu strzelniczego, ładunków wiatrowych i prochu płonącego. Wymagany odczynnik w maszynach napędowych, takich jak Guster.%1%1§lCrafting§r%1%11 2 3%11 2 3%11 2 3%1%11 = Blaze Powder%12 = Gunpowder%13 = Wind Charge%1%1Crafts 1 Ignition Powder.
+pod_engi.guide.logic_circuit.title=Obwód logiczny
+pod_engi.guide.logic_circuit.body=Delikatny, ręcznie wykonany obwód, używany w maszynach rzemieślniczych o pewnym stopniu złożoności.%1%1§lCrafting§r%1%11 2 3%12 4 §0X§r%11 3 §0X§r%1%11 = Wlewka rafinowanego metalu%12 = Pył czerwonego kamienia%13 = Drut miedziany%14 = Kwarc Nether%1%1Crafts 1 Logic Circuit.
+pod_engi.guide.calibrated_circuit.title=Obwód skalibrowany
+pod_engi.guide.calibrated_circuit.body=Ulepszenie obwodu logicznego używanego w najbardziej skomplikowanych maszynach.%1%1§lCrafting§r%1%11 2 3%12 4 §0X§r%11 3 §0X§r%1%11 = Null Copper Ingot%12 = Amethyst Shard%13 = Gold Ingot%14 = Logic Circuit%1%1Crafts 1 Calibrated Circuit.
+pod_engi.guide.copper_wire.title=Drut miedziany
+pod_engi.guide.copper_wire.body=Składnik rzemieślniczy tworzony przez wytłaczarkę drutu.%1%1§lSkładniki§r %11x Miedź
+pod_engi.guide.iron_gear.title=Iron Gear
+pod_engi.guide.iron_gear.body=Składnik rzemieślniczy tworzony przez mistrza ekwipunku.%1%1§lIngredients§r %11x Żelazo
+pod_engi.guide.settings.title=Ustawienia
+pod_engi.guide.settings.warning=Ostrzeżenie
+pod_engi.guide.question.cancel=Anuluj
+pod_engi.guide.question.ok=Dobrze
+pod_engi.guide.settings.performance_profile=Profil wydajności maszyny
+pod_engi.guide.settings.performance_profile.low=Niski
+pod_engi.guide.settings.performance_profile.medium=Średni
+pod_engi.guide.settings.performance_profile.high=Wysoki
+pod_engi.guide.settings.performance_profile.extreme=Ekstremalny
+pod_engi.guide.settings.performance_profile.warning=Profil wydajności określa sposób działania niektórych funkcji dodatku. Na przykład, profil wydajności określa, jak długa może być rura między dwoma maszynami.
+pod_engi.guide.settings.performance_profile.warning_xbox=%1%1§a§lNiektóre konsole ulegają awariom w określonych warunkach po wybraniu profilu High lub Extreme.
+tile.pod_engi:essence_tank.name=Essence Tank
+item.pod_engi:essence_tank=Essence Tank
+item.pod_engi:water_mill=Młyn wodny
+tile.pod_engi:workbench.name=Stół warsztatowy
+tile.pod_engi:void_machine.name=Void Machine
+item.pod_engi:pulverized_iron=Sproszkowane żelazo
+item.pod_engi:pulverized_gold=Sproszkowane złoto
+item.pod_engi:pulverized_copper=Sproszkowana miedź
+item.pod_engi:oil_bucket=Łyżka do oleju
+tile.pod_engi:diesel_generator.name=Generator diesla
+tile.pod_engi:water_mill.name=Młyn wodny
+tile.pod_engi:water_mill_collision.name=Młyn wodny
+tile.pod_engi:windmill_pillar.name=Słup wiatraka
+tile.pod_engi:windmill_base.name=Gondola wiatraka
+tile.pod_engi:water_turbine.name=Turbina wodna
+tile.pod_engi:pulverizer.name=Pulweryzator
+tile.pod_engi:dismantler.name=Dismantler
+tile.pod_engi:electric_furnace.name=Piec elektryczny
+tile.pod_engi:oil_refinery.name=Rafineria ropy naftowej
+tile.pod_engi:infuser.name=Zaparzacz
+entity.pod_engi:dismantler.name=Dismantler
+entity.pod_engi:water_wheel.name=Koło wodne
+entity.pod_engi:windmill_sail.name=Żagiel z wiatrakiem
+state.pod_engi:oil.display=§p§lOil§r
+state.pod_engi:bone.display=§h§lBone§r
+state.pod_engi:egg.display=§h§lEgg§r
+pod_engi:workbench=Stół warsztatowy
+pod_engi.guide.workbench.title=Stół warsztatowy
+pod_engi.guide.workbench.body=Używany do tworzenia maszyn.%1%1§lCrafting§r%1%1§0X X X§r%1§0X§r 1 1%1§0X§r 2 2%1%11 = Sztabka żelaza%12 = Deski%1%1Crafts 1 Workbench.
+pod_engi.guide.water_mill.title=Młyn wodny
+pod_engi.guide.water_mill.body=Prosty, ale niezawodny sposób na generowanie energii przy użyciu naturalnego przepływu wody.%1 Wymaga płynącej wody, aby koło mogło się obracać i generować moc.%1%1§lCrafting§r%1%11 2 1%12 3 2%11 2 1%1%11 = Deski%12 = Solidna rama%13 = Żelazne koło zębate%1%1Crafts 1 Water Mill.
+pod_engi.guide.water_turbine.title=Turbina wodna
+pod_engi.guide.water_turbine.body=Bardziej zaawansowany i wydajny generator energii, który rozwija się po zanurzeniu w głębokiej wodzie.%1Jego moc zależy od ilości otaczającej go wody. Zanurzenie go w głębszej wodzie spowoduje większe wytwarzanie energii.%1Uważaj! Metalowe elementy urządzenia są podatne na rdzewienie w wyniku ciągłego kontaktu z wodą. Aby zapobiec utracie mocy, należy je regularnie konserwować za pomocą dowolnej siekiery.%1%1§lCrafting§r%1%11 2 1%11 3 1%11 4 1%1%11 = Uszlachetniony blok metalu%12 = Pompa%13 = Żelazne koło zębate%14 = Obwód logiczny%1%1Crafts 1 Turbina wodna.
+pod_engi.guide.windmill.title=Wiatrak
+pod_engi.guide.windmill.body=Ten generator przekształca energię wiatru w energię elektryczną.%1 Wiatrak jest zbudowany z dwóch części: filaru wiatraka i gondoli wiatraka.%1%1§lFilar wiatraka§r%1Jest to podstawa wiatraka. Filary muszą być ułożone pionowo, jeden na drugim, aby zbudować wieżę wiatraka. Wysokość wieży ma bezpośredni wpływ na to, ile wiatru może przechwycić gondola i ile mocy generuje. Transfer mocy staje się nieefektywny po przekroczeniu wysokości 15 bloków, więc należy zachować ostrożność podczas układania filarów.%1%1§lCrafting§r%1%11 2 1%13 4 3%11 2 1%1%11 = Uszlachetniony blok metalu%12 = Miedziana rura zasilająca%13 = Drut miedziany%14 = Obwód logiczny%1%1Crafts 2 Windmill Pars.%1%1§lWindmill Nacelle§r%1 Umieszczona na samym szczycie stosu słupów wiatraka, gondola jest generatorem, który przekształca energię wiatru w użyteczną moc.%1%1§lCrafting§r%1%11 2 2%11 3 2%14 4 4%1%11 = Tkanina%12 = Drut miedziany%13 = Obwód logiczny%14 = Uszlachetniony blok metalu%1%1Crafts 1 Windmill Nacelle.
+pod_engi.guide.diesel_generator.title=Generator diesla
+pod_engi.guide.diesel_generator.body=Potężny generator, który generuje duże ilości mocy poprzez spalanie rafinowanego oleju.%1 Generator diesla jest idealny do konfiguracji, które wymagają stałej i wysokiej mocy, ale odbywa się to kosztem produkcji paliwa i zarządzania.%1%1§lCrafting§r%1%11 2 1%13 4 3%15 6 5%1%11 = Żelazna przekładnia%12 = Obwód logiczny%13 = Rafinowany blok metalu%14 = Proszek zapłonowy%15 = Solidna rama%16 = Kocioł%1%1Crafts 1 Diesel Generator.
+pod_engi.guide.oil_refinery.title=Rafineria ropy naftowej
+pod_engi.guide.oil_refinery.body=Maszyna, która wykorzystuje moc do przetwarzania węgla i kości w rafinowany olej, który może zostać wykorzystany w generatorze diesla.%1%1§lCrafting§r%1%11 2 1%11 3 1%14 4 4%1%11 = Szklana rura z cieczą%12 = Obwód logiczny%13 = Żelazna przekładnia%14 = Blok rafinowanego metalu%1%1Crafts 1 Rafineria ropy naftowej.
+pod_engi.guide.void_machine.title=Void Machine
+pod_engi.guide.void_machine.body=Maszyna, która używa mocy do trwałego zniszczenia każdego włożonego do niej przedmiotu.%1Ma niewielką szansę na przyznanie doświadczenia po zniszczeniu przedmiotu.%1%1§lCrafting§r%1%11 2 1%12 3 2%14 4 4%1%11 = Obwód logiczny%12 = Owoc chóru%13 = Kotwica odrodzenia%14 = Uszlachetniony blok metalu%1%1Tworzy 1 Maszynę Pustki.
+pod_engi.guide.electric_furnace.title=Piec elektryczny
+pod_engi.guide.electric_furnace.body=Maszyna wykorzystująca energię zamiast paliwa do gotowania lub wytapiania przedmiotów.%1%1§lCrafting§r%1%11 2 1%13 4 3%15 6 5%1%11 = Szkło%12 = Wielki piec%13 = Drut miedziany%14 = Proszek zapłonowy%15 = Blok rafinowanego metalu%16 = Obwód logiczny%1%1Crafts 1 Piec elektryczny.
+pod_engi.guide.pulverizer.title=Pulweryzator
+pod_engi.guide.pulverizer.body=Maszyna, która wykorzystuje moc do sproszkowania rud, kamieni i innych przedmiotów lub bloków do postaci pokruszonej lub sproszkowanej.%1%1Kamień -> 1x Brukowiec%1Bruk -> 1x Żwir%1Żwir -> 1x Żwir%1Żwir -> 1x Krzemień%1Szkło -> 1x Piasek%1Piaskowiec -> 2x Piasek%1Czerwony Piaskowiec -> 2x Czerwony Piasek%1Kość -> 6x Mączka z kości 2x Czerwony piasek%1Kość -> 6x Mączka kostna%1Pręt blasku -> 4x Proszek blasku%1Kamień jarzeniowy -> 4x Pył z kamienia jarzeniowego%1Magma -> 4x Krem magmowy%1Odłamek pryzmatyczny -> 4x Kryształ pryzmatyczny 4x Kryształy Pryzmarynu%1Ruda Żelaza -> 2x Sproszkowane Żelazo%1Zagłębiona Ruda Żelaza -> 2x Sproszkowane Żelazo%1Ruda Złota -> 2x Sproszkowane Złoto%1Zagłębiona Ruda Złota -> 2x Sproszkowane Złoto%1C 2x sproszkowane złoto%1Ruda miedzi -> 2x sproszkowana miedź%1Zagłębiona ruda miedzi -> 2x sproszkowana miedź%1Ruda węgla -> 2x węgiel%1Zagłębiona ruda węgla -> 2x Węgiel%1Ruda Lapisu -> 6x Lapis Lazuli%1Ruda Lapisu Głębinowa -> 6x Lapis Lazuli%1Ruda Czerwonego Kamienia -> 4x Czerwony Kamień%1Ruda Czerwonego Kamienia Głębinowa -> 4x Czerwony Kamień%1Ruda Diamentu -> 2x Diament%1Deepslate 2x Diamond%1Deepslate Diamond Ore -> 2x Diamond%1Emerald Ore -> 2x Emerald%1Deepslate Emerald Ore -> 2x Emerald%1Ancient Debris -> 2x Netherite Scrap%1Quartz Ore -> 3x Quartz%1Raw Iron -> 2x Netherite Scrap%2 3x Kwarc%1 Surowe żelazo -> 1x Sproszkowane żelazo%1 Surowe złoto -> 1x Sproszkowane złoto%1 Surowa miedź -> 1x Sproszkowana miedź%1 Trzcina cukrowa -> 2x Cukier%1 Pręt wietrzny -> 6x Ładunek Wiatru%1%1§lCrafting§r%1%11 2 1%13 4 3%12 2 2%1%11 = Drut Miedziany%12 = Uszlachetniony Blok Metalu%13 = Żelazna Przekładnia%14 = Obwód Logiczny%1%1Crafts 1 Pulverizer.
+pod_engi.guide.dismantler.title=Dismantler
+pod_engi.guide.dismantler.body=Maszyna, która wykorzystuje moc do rozkładania przedmiotów na ich oryginalne składniki.%1%1§lCrafting§r%1%11 2 1%13 4 3%15 5 5%1%11 = Szkło%12 = Skalibrowany obwód%13 = Żelazna przekładnia%14 = Ciężki rdzeń%15 = Uszlachetniony blok metalu%1%1Crafts 1 Dismantler.
+pod_engi.guide.infuser.title=Zaparzacz
+pod_engi.guide.infuser.body=Maszyna, która używa esencji, kurzego jaja i specjalnego przedmiotu do przekształcenia jaja w jajo odradzające moba.%1%1FPióro -> Jajo odrodzenia kurczaka%1Plaster miodu -> Jajo odrodzenia pszczoły%1Jajo odrodzenia wołowiny -> Jajo odrodzenia krowy%1Schab -> Jajo odrodzenia świni%1Mięso -> Jajo odrodzenia owcy%1Kość -> Jajo odrodzenia wilka%1Ice -> Jajo odrodzenia niedźwiedzia polarnego%1 Jajo odrodzenia niedźwiedzia polarnego%1Jajo odrodzenia kota -> Jajo odrodzenia ocelota%1String -> Jajo odrodzenia kota%1Red Mushroom -> Mooshroom Spawn Egg%1Coal -> Bat Spawn Egg%1Charcoal -> Bat Spawn Egg%1Cookie -> Parrot Spawn Egg%1Rabbit -> Rabbit Spawn Egg%1Carpet -> Llama Spawn Egg%1Chest -> Donkey Spawn Egg%1Saddle -> Horse Spawn Egg%1Donkey Spawn Egg -> Mule Spawn Egg%1Skeleton Spawn Egg -> Jajo odrodzenia konia szkieletowego%1 Jajo odrodzenia zombie -> Jajo odrodzenia konia zombie%1 Ryby tropikalne -> Jajo odrodzenia ryb tropikalnych%1 Dorsz -> Jajo odrodzenia dorsza%1 Rozdymka -> Jajo odrodzenia rozdymki%1 Łosoś -> Jajo odrodzenia łososia %1 Salmon Spawn Egg%1Dried Kelp Block -> Dolphin Spawn Egg%1Seagrass -> Turtle Spawn Egg%1Bamboo -> Panda Spawn Egg%1Sweet Berries -> Fox Spawn Egg%1Gunpowder -> Creeper Spawn Egg%1Ender Pearl -> Enderman Spawn Egg%1Kamienne cegły -> Silverfish Spawn Egg%1Nether Brick -> Wither Skeleton Spawn Egg%1Bow -> Skeleton Spawn Egg%1Arrow -> Skeleton Spawn Egg%1Slime Ball -> Slime Spawn Egg%1Spider Eye -> Spider Spawn Egg%1Rotten Flesh -> Zombie Spawn Egg%1Piglin Spawn Egg -> Zombie Pigman Spawn Egg%1Turtle Egg -> Husk Spawn Egg%1Nautilus Shell -> Utopione jajo odrodzenia%1Woreczek z atramentem -> Jajo odrodzenia kałamarnicy%1Woreczek ze świecącym atramentem -> Jajo odrodzenia świecącej kałamarnicy%1Jajo odrodzenia pająka -> Jajo odrodzenia pająka jaskiniowego%1Mikstura rozprysku -> Jajo odrodzenia czarownicy%1Odłamek pryzmatu -> Jajo odrodzenia strażnika Guardian Spawn Egg%1Prismarine Crystals -> Elder Guardian Spawn Egg%1Chorus Fruit -> Endermite Spawn Egg%1Magma Cream -> Magma Cube Spawn Egg%1Warped Fungus -> Strider Spawn Egg%1Netherrack -> Hoglin Spawn Egg%1 Hoglin Spawn Egg%1Gold Nugget -> Piglin Spawn Egg%1Hoglin Spawn Egg -> Zoglin Spawn Egg%1Golden Axe -> Piglin Brute Spawn Egg%1Goat Horn -> Goat Spawn Egg%1Glow Berries -> Axolotl Spawn Egg%1Echo Shard -> Warden Spawn Egg%1Diamond -> Allay Spawn Egg%1Froglight -> Frog Spawn Egg%1Frog Spawn -> Tadpole Spawn Egg%1Llama Spawn Egg -> Trader Llama Spawn Egg%1Cactus -> Camel Spawn Egg%1Ghast Tear -> Ghast Spawn Egg%1Blaze Rod -> Blaze Spawn Egg%1Shulker Shell -> Shulker Spawn Egg%1Iron Axe -> Vindicator Spawn Egg%1Witch Spawn Egg -> Evoker Spawn Egg %1 Evoker Spawn Egg%1Allay Spawn Egg -> Vex Spawn Egg%1Emerald -> Villager Spawn Egg%1Bundle -> Wandering Trader Spawn Egg%1Villager Spawn Egg -> Zombie Villager Spawn Egg%1Phantom Membrane -> Phantom Spawn Egg%1Crossbow -> Pillager Spawn Egg%1Pillager Spawn Egg -> Ravager Spawn Egg%1Iron Block -> Iron Golem Spawn Egg%1Carved Pumpkin -> Snow Golem Spawn Egg%1Torchflower -> Sniffer Spawn Egg%1Wind Charge -> Breeze Spawn Egg%1Armadillo Scute -> Armadillo Spawn Egg%1Mangrove Roots -> Bogged Spawn Egg%1Creaking Heart -> Creaking Spawn Egg%1Nether Star -> Wither Spawn Egg%1Dragon Head -> Dragon Spawn Egg%1%1§lCrafting§r%1%11 2 1%13 4 3%15 5 5%1%11 = Copper Power Pipe%12 = Calibrated Circuit%13 = Copper Wire%14 = Ignition Powder%15 = Refined Metal Block%1%1Crafts 1 Infuser.
+pod_engi.guide.essence_tank.title=Essence Tank
+pod_engi.guide.essence_tank.body=Przechowuje esencję.%1%1§lCrafting§r%1%11 2 1%13 4 3%15 6 5%1%11 = Null Copper Block%12 = Glass%13 = Glass Liquid Pipe%14 = Cauldron%15 = Refined Metal Block%16 = Sturdy Frame%1%1Crafts 1 Essence Tank.
+pod_engi.guide.battery.title=Bateria zasilająca
+pod_engi.guide.battery.body=Przechowuje energię.%1%1§lCrafting§r%1%11 1 1%12 3 2%14 4 4%1%11 = Blok miedzi%12 = Skalibrowany obwód%13 = Miedziana rura zasilająca%14 = Uszlachetniony blok metalu%1%1Tworzy 1 baterię zasilającą.
+pod_engi.guide.power_wavelength_calibrator.title=Kalibrator długości fali mocy
+pod_engi.guide.power_wavelength_calibrator.body=Kalibruje długość fali mocy za pomocą 6 różnych opcji. Służy do kalibracji kanału mocy podkładki teleportacyjnej.%1%1§lCrafting§r%1%11 2 1%13 4 3%15 4 5%1%11 = Drut miedziany%12 = Dźwignia%13 = Skalibrowany obwód%14 = Uszlachetniony blok metalu%15 = Blok miedzi%1%1Crafts 1 Kalibrator długości fali mocy.
+pod_engi.guide.essence_wavelength_calibrator.title=Kalibrator długości fali Essence
+pod_engi.guide.essence_wavelength_calibrator.body=Kalibruje długość fali esencji za pomocą 6 różnych opcji. Interakcja pozwala ustawić żądaną długość fali.%1Służy do kalibracji kanału esencji podkładki teleportacyjnej.%1%1§lCrafting§r%1%11 2 1%13 4 3%15 6 5%1%11 = Drut miedziany%12 = Szkło%13 = Skalibrowany obwód%14 = Dźwignia%15 = Uszlachetniony blok metalu%16 = Zerowy blok miedzi%1%1Tworzy 1 Kalibrator długości fali esencji.
+pod_engi.guide.teleportation_pad.title=Podkładka teleportacyjna
+pod_engi.guide.teleportation_pad.body=Teleportuje graczy do innego pada teleportacyjnego z pasującą kalibracją.%1%1Używa 3 typów kalibracji:%1§l§6Power§r - ustawiana za pomocą kalibratora długości fali mocy.%1§l§aEssence§r - ustawiana za pomocą kalibratora długości fali esencji.%1§lMain§r - ustawiana poprzez bezpośrednią interakcję z padem teleportacyjnym.%1%1Umieść kalibratory długości fali §6Power§r i §aEssence§r po bokach pada teleportacyjnego. Skalibruj każdy komponent za pomocą żądanej kalibracji.%1Stanie na podkładce teleportacyjnej spowoduje teleportację do innej podkładki o tej samej kalibracji.%1%1§lCrafting§r%1%1§0X§r 1 §0X§r%12 3 2%14 4 4%1%11 = Ender Pearl%12 = Copper Wire%13 = Calibrated Circuit%14 = Refined Metal Block%1%1Crafts 1 Teleportation Pad.
+pod_engi.guide.item_pipe_filter.title=Pozycja Filtr rurowy
+pod_engi.guide.item_pipe_filter.body=Rura, przez którą może przejść tylko określony przedmiot.%1Wejdź w interakcję, aby wprowadzić przedmiot, który chcesz filtrować.%1%1§lCrafting§r%1%11 1 1%12 3 2%11 1 1%1%11 = Sztabka żelaza%12 = Pył czerwonego kamienia%13 = Dźwignia%1%1Tworzy 1 filtr rurowy przedmiotów.
+pod_engi.guide.power_pipe_filter.title=Filtr Power Pipe
+pod_engi.guide.power_pipe_filter.body=Rura, która ogranicza przepływ mocy.%1Wejdź w interakcję, aby zmieniać poziomy oporu: 2, 6 lub 15 jednostek na sekundę.%1%1§lCrafting§r%1%11 1 1%12 3 2%11 1 1%1%11 = Sztabka miedzi%12 = Pył Redstone%13 = Dźwignia%1%1Crafts 1 Power Pipe Filter.
+pod_engi.guide.liquid_pipe_filter.title=Filtr rurowy cieczy
+pod_engi.guide.liquid_pipe_filter.body=Rura, która ogranicza przepływ cieczy.%1Wejdź w interakcję, aby zmieniać poziomy oporu: 5, 10 lub 25 mB na sekundę.%1%1§lCrafting§r%1%11 1 1%12 3 2%11 1 1%1%11 = Szkło%12 = Pył Redstone%13 = Dźwignia%1%1Crafts 1 Liquid Pipe Filter.
+pod_engi.guide.oil_bucket.title=Łyżka do oleju
+pod_engi.guide.oil_bucket.body=Wiadro wypełnione przetworzoną ropą naftową.%1Odbiór z rafinerii ropy naftowej. Ropa może być używana w generatorze diesla do produkcji energii.
+pod_engi.guide.experience_bucket.title=Bucket o' Enchanting
+pod_engi.guide.experience_bucket.body=Wiadro wypełnione esencją.%1Odbiór od Mob Munchera. Esencja może być używana w Kalibratorze długości fali esencji, Kalibratorze błyskawic, Infuzorze lub przechowywana w zbiorniku esencji. Można ją również wypić, aby zdobyć trochę doświadczenia.
+pod_engi.guide.truss_platform.title=Platforma kratownicowa
+pod_engi.guide.truss_platform.body=Platformowy wariant kratownicy może być tworzony w podobny sposób jak płyty. Może służyć jako dekoracja.%1%1§lCrafting§r%1%1§0X X X§r%11 1 1%1§0X X X§r%1%11 = Truss%1%1Crafts 6 Truss Platform.
+pod_engi.guide.pulverized_iron.title=Sproszkowane żelazo
+pod_engi.guide.pulverized_iron.body=Produkt sproszkowania rudy żelaza. Może być przetopiony na wlewek żelaza.
+pod_engi.guide.pulverized_gold.title=Sproszkowane złoto
+pod_engi.guide.pulverized_gold.body=Produkt sproszkowania rudy złota. Może być przetopiony w sztabkę złota.
+pod_engi.guide.pulverized_copper.title=Sproszkowana miedź
+pod_engi.guide.pulverized_copper.body=Produkt sproszkowania rudy miedzi. Może być przetopiony na sztabkę miedzi.
+pod_engi.alert.water_wheel.place=[§c!§r] Nie ma wystarczająco dużo miejsca, aby umieścić to tutaj.
+pod_engi.alert.water_wheel.rotate=[§c!§r] Nie można obrócić maszyny, za mało miejsca!
+pod_engi:items=Przedmioty
+pod_engi:resources=Zasoby

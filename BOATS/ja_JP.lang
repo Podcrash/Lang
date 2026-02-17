@@ -1,0 +1,311 @@
+pack.name=ボート
+pack.description=ポッドクラッシュによるアドオン
+entity.pod_boat:fluid_crane.name=フルードクレーン
+entity.pod_boat:cargo_crane.name=貨物クレーン
+entity.pod_boat:container.name=コンテナ
+entity.pod_boat:fluid_tank.name=液体タンク
+entity.pod_boat:submarine.name=潜水艦
+entity.pod_boat:submarine_miner.name=海底鉱夫
+entity.pod_boat:air_boat.name=ファンボート
+entity.pod_boat:barge.name=はしけ
+entity.pod_boat:bowrider.name=ボウライダー
+entity.pod_boat:canoe.name=カヌー
+entity.pod_boat:dhow_boat.name=ダウ船
+entity.pod_boat:djong_boat.name=ジョング
+entity.pod_boat:egypt_boat.name=ソーラーバーク
+entity.pod_boat:end_boat.name=エンド・ボート
+entity.pod_boat:ferry.name=フェリー
+entity.pod_boat:fishing_boat.name=漁船
+entity.pod_boat:freighter.name=貨物船
+entity.pod_boat:freighter_collision.name=貨物船
+entity.pod_boat:gondola.name=ゴンドラ
+entity.pod_boat:ice_boat.name=アイスブレーカー
+entity.pod_boat:jetski.name=ジェットスキー
+entity.pod_boat:kayak.name=カヤック
+entity.pod_boat:lava_boat.name=溶岩ボート
+entity.pod_boat:life_boat.name=テンダー
+entity.pod_boat:mob_boat.name=モブ・ボート
+entity.pod_boat:narrowboat.name=ナローボート
+entity.pod_boat:pirate_ship.name=海賊船
+entity.pod_boat:pontoon.name=ポンツーン
+entity.pod_boat:seaglider.name=シーグライダー
+entity.pod_boat:tanker.name=タンカー
+entity.pod_boat:viking_boat.name=ロングボート
+entity.pod_boat:wind_surf.name=ウインドサーフ
+item.spawn_egg.entity.pod_boat:submarine.name=潜水艦
+item.spawn_egg.entity.pod_boat:submarine_miner.name=海底鉱夫
+item.spawn_egg.entity.pod_boat:air_boat.name=ファンボート
+item.spawn_egg.entity.pod_boat:barge.name=はしけ
+item.spawn_egg.entity.pod_boat:bowrider.name=ボウライダー
+item.spawn_egg.entity.pod_boat:canoe.name=カヌー
+item.spawn_egg.entity.pod_boat:dhow_boat.name=ダウ船
+item.spawn_egg.entity.pod_boat:djong_boat.name=ジョング
+item.spawn_egg.entity.pod_boat:egypt_boat.name=ソーラーバーク
+item.spawn_egg.entity.pod_boat:end_boat.name=エンド・ボート
+item.spawn_egg.entity.pod_boat:ferry.name=フェリー
+item.spawn_egg.entity.pod_boat:fishing_boat.name=漁船
+item.spawn_egg.entity.pod_boat:freighter.name=貨物船
+item.spawn_egg.entity.pod_boat:gondola.name=ゴンドラ
+item.spawn_egg.entity.pod_boat:ice_boat.name=アイスブレーカー
+item.spawn_egg.entity.pod_boat:jetski.name=ジェットスキー
+item.spawn_egg.entity.pod_boat:kayak.name=カヤック
+item.spawn_egg.entity.pod_boat:lava_boat.name=溶岩ボート
+item.spawn_egg.entity.pod_boat:life_boat.name=テンダー
+item.spawn_egg.entity.pod_boat:mob_boat.name=モブ・ボート
+item.spawn_egg.entity.pod_boat:narrowboat.name=ナローボート
+item.spawn_egg.entity.pod_boat:pirate_ship.name=海賊船
+item.spawn_egg.entity.pod_boat:pontoon.name=ポンツーン
+item.spawn_egg.entity.pod_boat:seaglider.name=シーグライダー
+item.spawn_egg.entity.pod_boat:tanker.name=タンカー
+item.spawn_egg.entity.pod_boat:viking_boat.name=ロングボート
+item.spawn_egg.entity.pod_boat:wind_surf.name=ウインドサーフ
+item.pod_boat:fluid_crane_spawn_egg=フルードクレーン
+item.pod_boat:cargo_crane_spawn_egg=貨物クレーン
+item.pod_boat:fluid_tank_spawn_egg=液体タンク
+item.pod_boat:container_spawn_egg=コンテナ
+item.pod_boat:submarine_spawn_egg=潜水艦
+item.pod_boat:submarine_miner_spawn_egg=海底鉱夫
+item.pod_boat:air_boat_spawn_egg=ファンボート
+item.pod_boat:barge_spawn_egg=はしけ
+item.pod_boat:bowrider_spawn_egg=ボウライダー
+item.pod_boat:canoe_spawn_egg=カヌー
+item.pod_boat:dhow_boat_spawn_egg=ダウ船
+item.pod_boat:djong_boat_spawn_egg=ジョング
+item.pod_boat:egypt_boat_spawn_egg=ソーラーバーク
+item.pod_boat:end_boat_spawn_egg=エンド・ボート
+item.pod_boat:ferry_spawn_egg=フェリー
+item.pod_boat:fishing_boat_spawn_egg=漁船
+item.pod_boat:freighter_spawn_egg=貨物船
+item.pod_boat:gondola_spawn_egg=ゴンドラ
+item.pod_boat:ice_boat_spawn_egg=アイスブレーカー
+item.pod_boat:jetski_spawn_egg=ジェットスキー
+item.pod_boat:kayak_spawn_egg=カヤック
+item.pod_boat:lava_boat_spawn_egg=溶岩ボート
+item.pod_boat:life_boat_spawn_egg=テンダー
+item.pod_boat:mob_boat_spawn_egg=モブ・ボート
+item.pod_boat:narrowboat_spawn_egg=ナローボート
+item.pod_boat:pirate_ship_spawn_egg=海賊船
+item.pod_boat:pontoon_spawn_egg=ポンツーン
+item.pod_boat:seaglider_spawn_egg=シーグライダー
+item.pod_boat:tanker_spawn_egg=タンカー
+item.pod_boat:viking_boat_spawn_egg=ロングボート
+item.pod_boat:wind_surf_spawn_egg=ウインドサーフ
+item.pod_boat:guide=ボートガイド
+item.pod_boat:boats_fuel_bucket=船舶用燃料バケット
+item.pod_boat:boats_fuel_bottle=燃料ボトル
+item.pod_boat:sail_cloth=帆布
+item.pod_boat:fishing_net=漁網
+item.pod_boat:steering_wheel=ハンドル
+item.pod_boat:propeller=プロペラ
+tile.pod_boat:boat_fuel_refinery.name=海上燃料精製所
+tile.pod_boat:reinforced_iron_block.name=鉄筋ブロック
+tile.pod_boat:treated_planks.name=加工板
+tile.pod_boat:drill.name=水中ドリル
+tile.pod_boat:workbench.name=ボート作業台
+action.hint.exit.pod_boat:fluid_crane=フルードクレーンを終了するには :_input_key.sneak: を押します。
+action.hint.exit.pod_boat:cargo_crane=カーゴクレーンを終了するには :_input_key.sneak: を押します。
+action.hint.exit.pod_boat:submarine=を押すか、上を見て上昇する。下を見ると下降する。潜水艦から出るには :_input_key.sneak: を押す。
+action.hint.exit.pod_boat:submarine_miner=を押すか、上を見て上昇する。下を見ると下降する。潜水坑道から出るには :_input_key.sneak: を押す。
+action.hint.exit.pod_boat:air_boat=ファンボートを終了するには :_input_key.sneak: を押します。
+action.hint.exit.pod_boat:barge=船から出るには :_input_key.sneak: を押します。
+action.hint.exit.pod_boat:bowrider=バウライダーを終了するには :_input_key.sneak: を押します。
+action.hint.exit.pod_boat:canoe=カヌーを終了するには :_input_key.sneak: を押します。
+action.hint.exit.pod_boat:dhow_boat=ダウを終了するには :_input_key.sneak: を押します。
+action.hint.exit.pod_boat:djong_boat=入力を終了するには :_input_key.sneak: を押す。
+action.hint.exit.pod_boat:egypt_boat=input_key.sneak:を押してソーラーバークを終了する。
+action.hint.exit.pod_boat:end_boat=エンドボートを終了するには :_input_key.sneak:を押す
+action.hint.exit.pod_boat:ferry=フェリーを終了するには :_input_key.sneak: を押します。
+action.hint.exit.pod_boat:fishing_boat=漁船から出るには :_input_key.sneak:を押します。
+action.hint.exit.pod_boat:freighter=を押して、貨物船を出航させます。
+action.hint.exit.pod_boat:gondola=ゴンドラから出るには :_input_key.sneak: を押します。
+action.hint.exit.pod_boat:ice_boat=キーボードの :_input_key.sneak: を押して、アイスブレーカーを終了します。
+action.hint.exit.pod_boat:jetski=input_key.sneak:を押してジェットスキーを終了します。
+action.hint.exit.pod_boat:kayak=カヤックを終了するには :_input_key.sneak: を押します。
+action.hint.exit.pod_boat:lava_boat=溶岩ボートを降りるには、:_input_key.sneak:を押す。
+action.hint.exit.pod_boat:life_boat=テンダーを終了するには :_input_key.sneak: を押します。
+action.hint.exit.pod_boat:mob_boat=モブボートを降りるには :_input_key.sneak: を押します。
+action.hint.exit.pod_boat:narrowboat=ナローボートを降りるには :_input_key.sneak: を押します。
+action.hint.exit.pod_boat:pirate_ship=海賊船を出るには、:_input_key.sneak:を押します。
+action.hint.exit.pod_boat:pontoon=ポンツーンを終了するには :_input_key.sneak: を押します。
+action.hint.exit.pod_boat:seaglider=を押すか、上を見て上昇する。下を見ると下降する。シーグライダーを降りるには :_input_key.sneak: を押す。
+action.hint.exit.pod_boat:tanker=タンカーを降りるには :_input_key.sneak: を押します。
+action.hint.exit.pod_boat:viking_boat=ロングボートを終了するには :_input_key.sneak:を押します。
+action.hint.exit.pod_boat:wind_surf=を押して、ウインドサーフィンを終了する。
+action.interact.pod_boat.fluid_crane=フルードクレーン
+action.interact.pod_boat.cargo_crane=貨物クレーン
+action.interact.pod_boat:container.door=コンテナ・ドア
+action.interact.pod_boat:submarine=セイル・サブマリン
+action.interact.pod_boat:submarine_miner=セイル・サブマリン・マイナー
+action.interact.pod_boat.submarine_miner.drill_direction=ドリルの方向を変える。
+action.interact.pod_boat:air_boat=セイルファンボート
+action.interact.pod_boat:barge=セイルバージ
+action.interact.pod_boat:bowrider=セイル・バウライダー
+action.interact.pod_boat:canoe=セイルカヌー
+action.interact.pod_boat:dhow_boat=帆船ダウ
+action.interact.pod_boat:djong_boat=セイル・ジョン
+action.interact.pod_boat:egypt_boat=セイル・ソーラー・バーク
+action.interact.pod_boat:egypt_boat.close_sail=セイルを閉じる
+action.interact.pod_boat:egypt_boat.open_sail=セイルを開く
+action.interact.pod_boat:end_boat=セイル・エンド・ボート
+action.interact.pod_boat:ferry=セイルフェリー
+action.interact.pod_boat:fishing_boat=セイルフィッシングボート
+action.interact.pod_boat:fishing_boat.net_up=下段漁網
+action.interact.pod_boat:fishing_boat.collect_fish=魚を集める
+action.interact.pod_boat:freighter=セイル・フリーター
+action.interact.pod_boat:gondola=セイルゴンドラ
+action.interact.pod_boat:ice_boat=セイル・アイスブレーカー
+action.interact.pod_boat:jetski=セイル・ジェットスキー
+action.interact.pod_boat:kayak=セイルカヤック
+action.interact.pod_boat:lava_boat=セイル溶岩ボート
+action.interact.pod_boat:life_boat=セイルテンダー
+action.interact.pod_boat:mob_boat=セイル・モブ・ボート
+action.interact.pod_boat:narrowboat=セイルナローボート
+action.interact.pod_boat:pirate_ship=セイル海賊船
+action.interact.pod_boat:pontoon=セイル・ポンツーン
+action.interact.pod_boat:seaglider=セイル・シーグライダー
+action.interact.pod_boat:tanker=セイルタンカー
+action.interact.pod_boat:viking_boat=セイルロングボート
+action.interact.pod_boat:wind_surf=セイル・ウインド・サーフ
+action.interact.pod_boat.dye.white=ダイ・ホワイト
+action.interact.pod_boat.dye.black=ダイ・ブラック
+action.interact.pod_boat.dye.blue=ダイ・ブルー
+action.interact.pod_boat.dye.brown=ダイ・ブラウン
+action.interact.pod_boat.dye.cyan=染料シアン
+action.interact.pod_boat.dye.gray=グレー
+action.interact.pod_boat.dye.green=染料グリーン
+action.interact.pod_boat.dye.light_blue=ライトブルーを染める
+action.interact.pod_boat.dye.light_gray=ライトグレー
+action.interact.pod_boat.dye.lime=染料ライム
+action.interact.pod_boat.dye.magenta=マゼンタ染め
+action.interact.pod_boat.dye.orange=オレンジに染める
+action.interact.pod_boat.dye.pink=ダイ・ピンク
+action.interact.pod_boat.dye.purple=パープル
+action.interact.pod_boat.dye.red=ダイ・レッド
+action.interact.pod_boat.dye.yellow=ダイ・イエロー
+action.interact.pod_boat.fuel=燃料補給
+action.hint.pod_boat.no_fuel=燃料はない。
+action.hint.pod_boat.submarine.stranded=あなたは潜水艦を座礁させてしまいました。
+action.hint.pod_boat.submarine_miner.stranded=海底坑夫を座礁させてしまった。
+action.hint.pod_boat.seaglider.stranded=あなたはシーグライダーを座礁させてしまいました。
+pod_boat.guide.title=BOATS アドオン
+pod_boat.guide.body=§o§7作成者：Podcrash§r%1%1BOATSアドオンが入港しました！BOATSは、あなたの世界に新しい水上バイク、機能、メカニックの波をもたらします。小さなカヤックから巨大な船まで、大海原を探検し、物資を運び、スタイリッシュに旅するために必要なものがすべて見つかります。ガイドブックは、航海の冒険をナビゲートし、最大限に活用するのに役立ちます。もし本をなくしてしまっても、本と§2kelp§r.で再作成することができます。%1%1詳しい情報とサポートについては、§3§ohttps://pdcr.sh/boats§r をチェックしてください。
+pod_boat.button.exit=出口
+pod_boat.button.back=バック
+pod_boat.guide.operating_vehicles.title=営業車両
+pod_boat.guide.operating_vehicles.body=ボートの運転は、基本さえ知っていれば簡単です！%1このセクションでは、乗り物のコントロール、燃料補給、保管方法など、必要なことをすべてご案内します。また、水中での冒険のために海面下に潜る方法も学びます。
+pod_boat.guide.controls.title=コントロール
+pod_boat.guide.controls.body=乗り物に乗るには、乗り物と対話するだけでよい！乗り物を降りるには :_input_key.sneak:を押します。乗り物を操作するには、標準的な移動コントロールを使用します。ボートと潜水艇は前進または後退しないと旋回できません。%1%1一部の乗り物は燃料を必要とし、燃料なしでは操作できません。次のセクションでは、燃料補給について詳しく説明します。
+pod_boat.guide.fueling_refueling.title=燃料と給油
+pod_boat.guide.fueling_refueling.body=燃料ボートは出航前に燃料が必要になります。燃料を補給するには、海洋燃料バケツまたは海洋燃料ボトルを持ち、燃料を補給したいボートと対話するだけです。詳しくはCrafting Blocksのセクションを参照してください。
+pod_boat.guide.boats_storage.title=車両の保管
+pod_boat.guide.boats_storage.body=車両をインベントリに保管するには、2回パンチしてください。燃料は車と一緒に保存されるので心配はいらない。
+pod_boat.guide.diving.title=ダイビング
+pod_boat.guide.diving.body=このセクションでは、潜水艇を使ったダイビングについて詳しく説明します。このタイプの乗り物は、他の乗り物と同じように動きますが、水中に潜る能力を持っています！その場にとどまるには、まっすぐ見てください。上昇するには上を見るか、:_input_key.jump:を押す。
+pod_boat.guide.boats.title=ボート
+pod_boat.guide.boats.body=ボートには様々な形や用途があります。ここでは、スタイリッシュに移動するためのトラベルボートと、特別な作業や重い荷物を運ぶためのユーティリティボートの2つの主なタイプについて学びます。
+pod_boat.guide.travel_boats.title=トラベルボート
+pod_boat.guide.travel_boats.body=旅そのものが目的地と同じくらい重要な場合、トラベル・ボートをお選びください！スピードと快適さ、そして長距離航行のために造られたこれらの船は、あなたをどこへでも連れて行きます。トラベルボートには、クラシックとモダンの2種類があります。
+pod_boat.guide.classic.title=クラシック・トラベル・ボート
+pod_boat.guide.classic.body=クラシックボートは、何世代にもわたって海を航海してきた時代を超越したデザインです。安価な工作、シンプルな操作性、信頼性の高い性能は、大海原での伝統とノスタルジーを愛する探検家に最適です。
+pod_boat.guide.modern.title=モダン・トラベル・ボート
+pod_boat.guide.modern.body=最新のボートは、洗練されたライン、先進的な素材、パワフルなエンジンをあなたの冒険にもたらします。より速く、より信頼性の高いボートは、快適でスタイリッシュな旅を好む人々にとって理想的です。
+pod_boat.guide.utility_boats.title=ユーティリティ・ボート
+pod_boat.guide.utility_boats.body=ユーティリティ・ボートは水上の主力です。貨物の運搬でも、特殊な海上作業でも、これらのボートはすべてをこなすために造られています。スピードレースでは勝てないかもしれませんが、仕事はきちんとこなします！
+pod_boat.guide.submarines.title=潜水艇
+pod_boat.guide.submarines.body=冒険があなたを波の下に連れて行くとき、潜水艇は深海へのチケットです。これらの特殊な船は、水中旅行や海底探検のために設計されています。
+pod_boat.guide.cranes.title=クレーン
+pod_boat.guide.cranes.body=荷物の積み下ろしや管理をするとき、クレーンは究極の助っ人となります。1:_input_key.right:または:_input_key.left:を押し続けると、クレーンが回転します。積み込みには :_input_key.forward:、荷下ろしには :_input_key.back:を使用する。
+pod_boat.guide.storage.title=ストレージ
+pod_boat.guide.storage.body=海を渡って荷物を運ぶにせよ、長期遠征のために買いだめするにせよ、収納ソリューションは必需品だ。
+pod_boat.guide.craftable_blocks.title=クラフト・ブロック
+pod_boat.guide.craftable_blocks.body=これらのブロックは、アドオンで他のものを作成するための材料やツールとして使用されます。
+pod_boat.guide.craftable_items.title=クラフトアイテム
+pod_boat.guide.craftable_items.body=これらのアイテムは、アドオンで他のものを作成する際の材料や道具として使用されます。
+pod_boat.guide.air_boat.title=ファンボート
+pod_boat.guide.air_boat.body=ファンボートは浅瀬や湿地帯を高速で移動できるように設計されています。%1%1プレイヤー2人まで乗船可能です。%1%1§l燃料が必要です。§r%1%1§lクラフト§r%1%11 §0X X§r%12 3 1%11 1 1%1%11 = Iron Ingot%12 = Propeller%13 = Wool%1%1ファンボートを1つクラフトします。
+pod_boat.guide.barge.title=はしけ
+pod_boat.guide.barge.body=はしけはゆるい資材を運ぶために作られた頑丈な船だ。バージに入れることができるアイテムはたくさんあります。これには、砂、土、砂利だけでなく、ほとんどの種や鉱物も含まれます。%1%1プレイヤー1人を運びます。%1%1§l燃料が必要です。§r%1%1§lクラフト§r%1%11 1 2%13 1 3%14 1 1%1%11 = 鉄インゴット%12 = 操舵輪%13 = 強化鉄塊%14 = プロペラ%1%1バージ船1隻をクラフトします。
+pod_boat.guide.bowrider.title=ボウライダー
+pod_boat.guide.bowrider.body=スポーティでスタイリッシュなBowriderは、レジャーや小旅行に最適です。Its open deck allows passengers to enjoy the water and sunshine.%1%1Carries up to 3 players.%1%1§lRequires fuel.§r%1%1§lCrafting§r%1%1§0X§r 1 2%13 4 3%15 6 6%1%11 = Steering Wheel%12 = Glass Pane%13 = Treated Planks%14 = Wool%15 = Propeller%16 = Reinforced Iron Block%1%1Crafts 1 Bowrider.
+pod_boat.guide.canoe.title=カヌー
+pod_boat.guide.canoe.body=カヌーは、平和なパドリングのためのシンプルで軽量なボートです。狭い川や静かな湖に最適です。%1%1 2人まで乗れます。%1%1§lクラフト§r%1%11 §0X§r 1%12 2 2%11 §0X§r 1%1%11 = 木製スコップ%12 = 処理済み板%1%1 カヌーを1艇クラフトします。
+pod_boat.guide.dhow_boat.title=ダウ船
+pod_boat.guide.dhow_boat.body=三角形の帆で知られる古典的な帆船は、沿岸の旅に最適です。そのデザインは、時の試練に耐えてきました。%1%1プレイヤー1人を乗せます。%1%1帆をたたんだり広げたりするには、船に乗っている間、船と対話します。%1%1§lクラフト§r%1%11 1 1%1§0X§r 2 §0X§r%13 3 3%1%11 = 帆布%12 = 棒%13 = 処理された板%1%1ダウ船1隻をクラフトします。
+pod_boat.guide.djong_boat.title=ジョング
+pod_boat.guide.djong_boat.body=1%1プレイヤー2人まで搭乗可能%1%1§lCrafting§r%1%11 2 1%11 2 1%13 3 3%1%11 = 帆布%12 = 棒%13 = 処理板%1%1Crafts 1 Jong.
+pod_boat.guide.egypt_boat.title=ソーラーバーク
+pod_boat.guide.egypt_boat.body=古代エジプトのデザインにインスパイアされたソーラーバークは、エレガンスと実用性を兼ね備えています。川の旅に最適で、伝統的な職人技を披露します。%1%1 帆を開いたり閉じたりするために、ボートに乗ったままボートに触れます。%1%1 2人まで乗れます。%1%1§lクラフト§r%1%11 1 1%12 3 2%14 4 4%1%11 = 帆布%12 = 木のシャベル%13 = 棒%14 = 処理された板%1%1ソーラーバークを1つクラフトします。
+pod_boat.guide.ferry.title=フェリー
+pod_boat.guide.ferry.body=フェリーは、水路で乗客を効率的に運ぶために作られました。Its stability and space make it reliable for short to medium trips.%1%1Carries up to 6 players.%1%1§lRequires fuel.§r%1%1§lCrafting§r%1%11 1 1%11 §0X§r 2%13 4 1%1%11 = Iron Ingot%12 = Steering Wheel%13 = Propeller%14 = Reinforced Iron Block%1%1Crafts 1 Ferry.
+pod_boat.guide.fishing_boat.title=漁船
+pod_boat.guide.fishing_boat.body=1%1%1%1%1%1%1%1%1%1%1%1%1%1%1%1%1%1%1%1%1%1%1%1%1%1%1%1%1%1%l燃料が必要です。§r%1%1§lクラフト§r%1%1§0X§r 1 §0X§r%12 3 4%15 6 1%1%11 = 鉄インゴット%12 = 漁網%13 = ハンドル%14 = ガラス板%15 = プロペラ%16 = 強化鉄塊%1%1%1フィッシングボートを1つクラフトします。
+pod_boat.guide.freighter.title=貨物船
+pod_boat.guide.freighter.body=重い貨物を運ぶために設計された巨大な船。スニーク＋コンテナとのインタラクションでドアを開けることができます。%1%1プレイヤー1人を乗せることができます。%1%1§l燃料が必要です。§r%1%1§lCrafting§r%1%1§0XXX§r%11 2 3%14 3 3%1%11 = ハンドル%12 = コンテナ%13 = 鉄塊%14 = プロペラ%1%1貨物船1隻を作ります。
+pod_boat.guide.gondola.title=ゴンドラ
+pod_boat.guide.gondola.body=ゴンドラは、運河と穏やかな水面を穏やかに走ります。フラットなデザインとエレガントな形は、観光に最適です。%1%1 2人まで乗れます。%1%1§l工作§r%1%1§0X X X§r%12 §0X§r 1%11 1 1%1%11 = 処理された板%12 = 木製のシャベル%1%1 ゴンドラを1台作ります。
+pod_boat.guide.ice_boat.title=アイスブレーカー
+pod_boat.guide.ice_boat.body=氷の海用に作られたアイスブレーカーは、凍った路面を軽々と突き進むことができる。%1%1プレイヤー2人まで搭乗可能%1%1§l燃料が必要§r%1%1§lクラフト§r%1%11 §0X§r 2%11 1 1%13 1 1%1%11 = Reinfoced Iron Block%12 = Steering Wheel%13 = Propeller%1%1アイスブレーカーを1機クラフトする。
+pod_boat.guide.jetski.title=ジェットスキー
+pod_boat.guide.jetski.body=速く、コンパクトで、スリリングなジェットスキーは、オープンウォーターでスピードと操縦性を求めるソロライダーに最適です。%1%1人乗り%1%1§l燃料が必要です。
+pod_boat.guide.kayak.title=カヤック
+pod_boat.guide.kayak.body=小型で軽快なカヤックは、川や湖、アドベンチャー・パドリング用に設計されています。%1%1%1%1%1%1%1%1%1%0X§r 1 §0X§r%12 2 2%1§0X§r 1 §0X§r%1%11 = 木製シャベル%12 = 処理済み板%1%1%1%1カヤックを1艇製作します。
+pod_boat.guide.lava_boat.title=溶岩ボート
+pod_boat.guide.lava_boat.body=溶岩を渡ることができる素晴らしい船で、ネザーでの大胆な旅に最適です。%1%1最大2人のプレイヤーを乗せることができます。%1%1§lクラフト§r%1%11 1 1%12 2 2%13 4 5%1%11 = ネザーライトインゴット%12 = 強化鉄塊%13 = プロペラ%14 = 溶岩バケツ%15 = ネザーブリック%1%1溶岩ボートを1つクラフトします。
+pod_boat.guide.life_boat.title=テンダー
+pod_boat.guide.life_boat.body=テンダーは、コンパクトで信頼性の高い救助艇です。Essential for emergencies or ferrying passengers to larger ships.%1%1Carries up to 2 players.%1%1§lRequires fuel.§r%1%1§lCrafting§r%1%1§0X X X§r%11 2 1%13 4 4%1%11 = String%12 = Wool%13 = Propeller%14 = Iron Ingot%1%1Crafts 1 Tender.
+pod_boat.guide.mob_boat.title=モブ・ボート
+pod_boat.guide.mob_boat.body=モブを安全に水上に運ぶために特別にデザインされたモブ・ボートは、実用性と楽しさを兼ね備えている。モブボートは近くにいるモブを引っ張ってくる。1%1プレイヤーを1人運べます。%1%1§l燃料が必要です。§r%1%1§lクラフト§r%1%11 2 2%13 1 1%14 4 5%1%11 = アイアンインゴット%12 = アイアンバー%13 = ハンドル%14 = プロペラ%15 = 強化アイアンブロック%1%1モブボートを1つクラフトします。
+pod_boat.guide.narrowboat.title=ナローボート
+pod_boat.guide.narrowboat.body=細長いナローボートは、運河や狭い水路に最適です。
+pod_boat.guide.pirate_ship.title=海賊船
+pod_boat.guide.pirate_ship.body=大胆で冒険的な海賊船は、襲撃、探検、公海での航海冒険のために建造されました。インベントリに火薬を装填し、パンチで火の玉を撃ちます。%1%1プレイヤー1人を乗せます。%1%1§lクラフト§r%1%11 1 1%12 3 2%14 4 4%1%11 = 帆布%12 = 樽%13 = 棒%14 = 処理された板%1%1海賊船を1つクラフトします。
+pod_boat.guide.pontoon.title=ポンツーン
+pod_boat.guide.pontoon.body=ポンツーンは多人数でのレジャーに最適です。フラットなデッキは快適さと安全性を提供します。%1%1 3人までの乗船が可能です。%1%1§l燃料が必要です。§r%1%1§lクラフト§r%1%11 1 1%11 §0X§r 2%13 1 1%1%11 = アイアンインゴット%12 = ハンドル%13 = プロペラ%1%1ポンツーン1隻をクラフトします。
+pod_boat.guide.tanker.title=タンカー
+pod_boat.guide.tanker.body=タンカーは大量の液体を輸送するために設計されています。重量があり、安定しているため、水路を横切って液体を安全に運ぶことができます。満タンのボトルやバケツを持ちながら、液体タンクとインタラクトして液体を入れます。空のボトルやバケツを持っている間、インタラクションして液体を拾います。%1%1プレイヤー1人を運びます。%1%1§l燃料が必要です。§r%1%1§lクラフト§r%1%1§0X X X§r%11 2 3%14 3 3%1%11 = ハンドル%12 = 液体タンク%13 = 鉄のブロック%14 = プロペラ%1%1タンカーを1つクラフトします。
+pod_boat.guide.viking_boat.title=ロングボート
+pod_boat.guide.viking_boat.body=スピードと襲撃のために建造された歴史的な長船であるバイキング・ロングボートは、浅瀬や冒険的な航海を得意とします。%1%1ボートに乗ったまま、帆を畳んだり広げたりすることができます。%1%1最大2人のプレイヤーを乗せることができます。%1%1§lCrafting§r%1%11 1 1%11 2 3%13 3 3%1%11 = 帆布%12 = 棒%13 = 処理された板%1%1ロングボートを1つクラフトします。
+pod_boat.guide.wind_surf.title=ウインドサーフ
+pod_boat.guide.wind_surf.body=軽くて速いWind Surfは、風を利用するのに最適です。スポーツや探検に最適です。%1%1%1乗船人数：1人%1%1§lクラフト§r%1%1§0X X X§r%1§0X§r 1 2%13 3 3%1%11 = スティック%12 = 帆布%13 = 処理された板%1%1ウィンド・サーフを1つクラフトします。
+pod_boat.guide.seaglider.title=シーグライダー
+pod_boat.guide.seaglider.body=1%1プレイヤー1人を乗せます。%1%1§l燃料が必要です。§r%1%1§lクラフト§r%1%1§0X X X§r%1§0X§r 1 §0X§r%12 3 2%1%11 = ガラス板%12 = 鉄インゴット%13 = ハンドル%1%1シーグライダーを1機クラフトします。
+pod_boat.guide.submarine.title=潜水艦
+pod_boat.guide.submarine.body=1%1プレイヤー1人を乗せます%1%1§l燃料が必要です§r%1%1§lクラフト§r%1%11 1 1%12 3 4%11 1 1%1%11 = Reinforced Iron Block%12 = Propeller%13 = Steering Wheel%14 = Glass%1%1Crafts 1 Submarine.
+pod_boat.guide.submarine_miner.title=海底鉱夫
+pod_boat.guide.submarine_miner.body=水中での採掘に特化した潜水艇。インタラクトでドリルの向きを変えることができます。%1%1プレイヤー1人を乗せることができます。%1%1§l燃料が必要です。§r%1%1§lクラフト§r%1%11 1 1%12 3 4%11 1 5%1%11 = 強化鉄塊%12 = プロペラ%13 = ハンドル%14 = ガラス%15 = 水中ドリル%1%1潜水坑夫1人をクラフトします。
+pod_boat.guide.cargo_crane.title=貨物クレーン
+pod_boat.guide.cargo_crane.body=1%1§lCrafting§r%1%11 2 1%11 §0X§r 3%14 4 §0X§r%1%11 = Iron Ingot%12 = Container%13 = Chain%14 = Reinforced Iron Block%1%1Crafts 1 カーゴ・クレーン。
+pod_boat.guide.fluid_crane.title=フルードクレーン
+pod_boat.guide.fluid_crane.body=1%1§lクラフト§r%1%11 2 1%11 §0X§r 3%14 4 §0X§r%1%11 = アイアン・インゴット%12 = フルイド・タンク%13 = チェーン%14 = リインフォースド・アイアン・ブロック%1%1クラフト 1 フルイド・クレーン。
+pod_boat.guide.container.title=コンテナ
+pod_boat.guide.container.body=1%1§lCrafting§r%1%11 1 1%12 3 2%11 1 1%1%11 = Iron Ingot%12 = Reinforced Iron Block%13 = Chest%1%1Crafts 1コンテナ。
+pod_boat.guide.fluid_tank.title=液体タンク
+pod_boat.guide.fluid_tank.body=1%1§lCrafting§r%1%11 1 1%12 3 2%11 1 1%1%11 = Iron Ingot%12 = Reinforced Iron Block%13 = Glass%1%1Crafts 1 流体タンク。
+pod_boat.guide.workbench.title=ボート作業台
+pod_boat.guide.workbench.body=このアドオンで追加されたすべてのアイテムとブロックをクラフトするためだけのカスタム作業台です。%1%1レシピは通常のクラフトテーブルでも使用できます。1%1§lCrafting§r%1%1§0X X X§r%1§0X§r 1 §0X§r%1§0X§r 2 §0X§r%1%11 = BOATS Guide%12 = Crafting Table%1%1Crafts 1 Boat Workbench.%1%1§oBOATS ガイドブックを消費しません。
+pod_boat.guide.boat_fuel_refinery.title=海上燃料精製所
+pod_boat.guide.boat_fuel_refinery.body=海洋燃料精製所は海洋燃料を作るために使われる。骨、石炭、木炭、乾燥昆布を入れることができる。%1各アイテムには精製燃料になる確率があり、確率はアイテムの価値に応じて上昇する。1%1腐った肉=2%の確率%1樹脂の塊=4%の確率%1骨粉=5%の確率%1乾燥昆布=7%の確率%1石炭=10%の確率%1炭=10%の確率%1骨=12%の確率%1樹脂ブロック=40%の確率確率%1骨ブロック = 60% 確率%1乾燥昆布ブロック = 75% 確率%1石炭ブロック = 95% 確率%1オウム貝 = 100% 確率%1%1満タンになったら、バケツや瓶を使って燃料を取ることができる。1%1§lCrafting§r%1%11 §0X§r 1%12 §0X§r 2%11 3 1%1%11 = Iron Ingot%12 = Copper Ingot%13 = Cauldron%1%1海上燃料精製所を1つ作る。
+pod_boat.guide.drill.title=水中ドリル
+pod_boat.guide.drill.body=水中採掘用の強力な道具。1%1§lCrafting§r%1%1§0X§r 1 §0X§r%11 2 1%13 3 3%1%11 = アイアンバー%12 = アイアンインゴット%13 = 強化アイアンブロック%1%1Crafts 1 Underwater Drill.
+pod_boat.guide.reinforced_iron_block.title=鉄筋ブロック
+pod_boat.guide.reinforced_iron_block.body=1%1§lCrafting§r%1%11 1 1%11 2 1%11 1 1%1%11 = アイアンインゴット%12 = ダイヤモンド%1%1Crafts 1強化アイアンブロック。
+pod_boat.guide.treated_planks.title=加工板
+pod_boat.guide.treated_planks.body=水や磨耗に強い特殊加工を施した板材。ボートクラフトに使用。%1%1§lクラフト§r%1%11 1 1%11 2 1%11 1 1%1%11 =板材%12 =ハニカム%1%1クラフト8処理板材。
+pod_boat.guide.fishing_net.title=漁網
+pod_boat.guide.fishing_net.body=1%1§l漁船§r%1%11 2 1%12 1 2%11 2 1%1%11 = ひも%12 = 棒%1%1漁網1個を製作します。
+pod_boat.guide.propeller.title=プロペラ
+pod_boat.guide.propeller.body=1%1§lCrafting§r%1%1§0X§r 1 §0X§r%11 1 1%1§0X§r 1 §0X§r%1%11 = Iron Ingot%1%1Crafts 3 プロペラを作る。
+pod_boat.guide.sail_cloth.title=帆布
+pod_boat.guide.sail_cloth.body=1%1§lCrafting§r%1%11 1 1%11 2 1%11 1 1%1%11 = String%12 = Wool%1%1Crafts 1 帆布。
+pod_boat.guide.steering_wheel.title=ハンドル
+pod_boat.guide.steering_wheel.body=1%1§lCrafting§r%1%1§0X X X§r%11 1 1%1§0X§r 2 §0X§r%1%11 = Stick%12 = Planks%1%1Crafts 1 ハンドル。
+pod_boat.fluid_crane.nothing_to_unload=おろすものは何もない
+pod_boat.fluid_crane.crane_full=クレーンは満杯
+pod_boat:itemGroup.name.classic_travel_boats=クラシック・トラベル・ボート
+pod_boat:itemGroup.name.modern_travel_boats=モダン・トラベル・ボート
+pod_boat:itemGroup.name.utility_boats=ユーティリティ・ボート
+pod_boat:itemGroup.name.submarines=潜水艇
+pod_boat:itemGroup.name.storage=ストレージ
+pod_boat:itemGroup.name.cranes=クレーン
+tile.pod_boat:workbench.name_short=ワークベンチ
+pod_boat.fluid_crane.nothing_to_load=何も読み込まない

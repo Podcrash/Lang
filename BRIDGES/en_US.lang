@@ -1,0 +1,294 @@
+pack.name=Bridges Add-On
+pack.description=Made By Podcrash
+
+item.pod_brdg:guide_book=Bridges Guide
+
+tile.pod_brdg:bridge_collider.name=§r
+
+itemGroup.name.pod_brdg:rope_bridges=Rope Bridges
+itemGroup.name.pod_brdg:wood_bridges=Wooden Bridges
+itemGroup.name.pod_brdg:stone_bridges=Stone Bridges
+itemGroup.name.pod_brdg:cobblestone_bridges=Cobbled Bridges
+itemGroup.name.pod_brdg:terracotta_bridges=Terracotta Bridges
+itemGroup.name.pod_brdg:concrete_bridges=Concrete Bridges
+itemGroup.name.pod_brdg:log_bridges=Log and Stem Bridges
+itemGroup.name.pod_brdg:bricks_bridges=Brick Bridges
+itemGroup.name.pod_brdg:sandstone_bridges=Sandstone Bridges
+itemGroup.name.pod_brdg:ingot_and_gem_bridges=Ingot and Gem Bridges
+
+itemGroup.name.pod_brdg:wood_supports=Wooden Bridge Supports
+itemGroup.name.pod_brdg:concrete_supports=Concrete Bridge Supports
+itemGroup.name.pod_brdg:terracotta_supports=Terracotta Bridge Supports
+itemGroup.name.pod_brdg:sandstone_supports=Sandstone Bridge Supports
+itemGroup.name.pod_brdg:ingot_and_gem_supports=Ingot and Gem Bridge Supports
+itemGroup.name.pod_brdg:bricks_supports=Brick Bridge Supports
+itemGroup.name.pod_brdg:stone_supports=Stone Bridge Supports
+itemGroup.name.pod_brdg:raw_stone_supports=Cobbled Bridge Supports
+
+
+tile.pod_brdg:acacia_wood_bridge.name=Acacia Wood Bridge
+tile.pod_brdg:acacia_rope_bridge.name=Acacia Rope Bridge
+tile.pod_brdg:acacia_log_bridge.name=Acacia Log Bridge
+tile.pod_brdg:birch_wood_bridge.name=Birch Wood Bridge
+tile.pod_brdg:birch_rope_bridge.name=Birch Rope Bridge
+tile.pod_brdg:birch_log_bridge.name=Birch Log Bridge
+tile.pod_brdg:cherry_wood_bridge.name=Cherry Wood Bridge
+tile.pod_brdg:cherry_rope_bridge.name=Cherry Rope Bridge
+tile.pod_brdg:cherry_log_bridge.name=Cherry Log Bridge
+tile.pod_brdg:dark_oak_wood_bridge.name=Dark Oak Wood Bridge
+tile.pod_brdg:dark_oak_rope_bridge.name=Dark Oak Rope Bridge
+tile.pod_brdg:dark_oak_log_bridge.name=Dark Oak Log Bridge
+tile.pod_brdg:jungle_wood_bridge.name=Jungle Wood Bridge
+tile.pod_brdg:jungle_rope_bridge.name=Jungle Rope Bridge
+tile.pod_brdg:jungle_log_bridge.name=Jungle Log Bridge
+tile.pod_brdg:mangrove_wood_bridge.name=Mangrove Wood Bridge
+tile.pod_brdg:mangrove_rope_bridge.name=Mangrove Rope Bridge
+tile.pod_brdg:mangrove_log_bridge.name=Mangrove Log Bridge
+tile.pod_brdg:oak_wood_bridge.name=Oak Wood Bridge
+tile.pod_brdg:oak_rope_bridge.name=Oak Rope Bridge
+tile.pod_brdg:oak_log_bridge.name=Oak Log Bridge
+tile.pod_brdg:spruce_wood_bridge.name=Spruce Wood Bridge
+tile.pod_brdg:spruce_rope_bridge.name=Spruce Rope Bridge
+tile.pod_brdg:spruce_log_bridge.name=Spruce Log Bridge
+tile.pod_brdg:pale_oak_wood_bridge.name=Pale Oak Wood Bridge
+tile.pod_brdg:pale_oak_rope_bridge.name=Pale Oak Rope Bridge
+tile.pod_brdg:pale_oak_log_bridge.name=Pale Oak Log Bridge
+tile.pod_brdg:warped_wood_bridge.name=Warped Wood Bridge
+tile.pod_brdg:warped_rope_bridge.name=Warped Rope Bridge
+tile.pod_brdg:warped_stem_bridge.name=Warped Stem Bridge
+tile.pod_brdg:crimson_wood_bridge.name=Crimson Wood Bridge
+tile.pod_brdg:crimson_rope_bridge.name=Crimson Rope Bridge
+tile.pod_brdg:crimson_stem_bridge.name=Crimson Stem Bridge
+tile.pod_brdg:bamboo_wood_bridge.name=Bamboo Wood Bridge
+tile.pod_brdg:bamboo_rope_bridge.name=Bamboo Rope Bridge
+tile.pod_brdg:bamboo_log_bridge.name=Bamboo Log Bridge
+tile.pod_brdg:stone_bridge.name=Stone Bridge
+tile.pod_brdg:resin_block_bridge.name=Resin Block Bridge
+tile.pod_brdg:quartz_block_bridge.name=Quartz Block Bridge
+tile.pod_brdg:prismarine_bridge.name=Prismarine Bridge
+tile.pod_brdg:dark_prismarine_bridge.name=Dark Prismarine Bridge
+tile.pod_brdg:smooth_stone_bridge.name=Smooth Stone Bridge
+tile.pod_brdg:polished_deepslate_bridge.name=Polished Deepslate Bridge
+tile.pod_brdg:polished_blackstone_bridge.name=Polished Blackstone Bridge
+tile.pod_brdg:polished_granite_bridge.name=Polished Granite Bridge
+tile.pod_brdg:polished_diorite_bridge.name=Polished Diorite Bridge
+tile.pod_brdg:polished_andesite_bridge.name=Polished Andesite Bridge
+tile.pod_brdg:polished_tuff_bridge.name=Polished Tuff Bridge
+tile.pod_brdg:cobblestone_bridge.name=Cobblestone Bridge
+tile.pod_brdg:mossy_cobblestone_bridge.name=Mossy Cobblestone Bridge
+tile.pod_brdg:cobbled_deepslate_bridge.name=Cobbled Deepslate Bridge
+tile.pod_brdg:blackstone_bridge.name=Blackstone Bridge
+tile.pod_brdg:granite_bridge.name=Granite Bridge
+tile.pod_brdg:diorite_bridge.name=Diorite Bridge
+tile.pod_brdg:andesite_bridge.name=Andesite Bridge
+tile.pod_brdg:tuff_bridge.name=Tuff Bridge
+tile.pod_brdg:end_stone_bridge.name=End Stone Bridge
+tile.pod_brdg:white_concrete_bridge.name=White Concrete Bridge
+tile.pod_brdg:orange_concrete_bridge.name=Orange Concrete Bridge
+tile.pod_brdg:magenta_concrete_bridge.name=Magenta Concrete Bridge
+tile.pod_brdg:light_blue_concrete_bridge.name=Light Blue Concrete Bridge
+tile.pod_brdg:yellow_concrete_bridge.name=Yellow Concrete Bridge
+tile.pod_brdg:lime_concrete_bridge.name=Lime Concrete Bridge
+tile.pod_brdg:pink_concrete_bridge.name=Pink Concrete Bridge
+tile.pod_brdg:gray_concrete_bridge.name=Gray Concrete Bridge
+tile.pod_brdg:light_gray_concrete_bridge.name=Light Gray Concrete Bridge
+tile.pod_brdg:cyan_concrete_bridge.name=Cyan Concrete Bridge
+tile.pod_brdg:purple_concrete_bridge.name=Purple Concrete Bridge
+tile.pod_brdg:blue_concrete_bridge.name=Blue Concrete Bridge
+tile.pod_brdg:brown_concrete_bridge.name=Brown Concrete Bridge
+tile.pod_brdg:green_concrete_bridge.name=Green Concrete Bridge
+tile.pod_brdg:red_concrete_bridge.name=Red Concrete Bridge
+tile.pod_brdg:black_concrete_bridge.name=Black Concrete Bridge
+tile.pod_brdg:hardened_clay_terracotta_bridge.name=Terracotta Terracotta Bridge
+tile.pod_brdg:white_terracotta_bridge.name=White Terracotta Bridge
+tile.pod_brdg:orange_terracotta_bridge.name=Orange Terracotta Bridge
+tile.pod_brdg:magenta_terracotta_bridge.name=Magenta Terracotta Bridge
+tile.pod_brdg:light_blue_terracotta_bridge.name=Light Blue Terracotta Bridge
+tile.pod_brdg:yellow_terracotta_bridge.name=Yellow Terracotta Bridge
+tile.pod_brdg:lime_terracotta_bridge.name=Lime Terracotta Bridge
+tile.pod_brdg:pink_terracotta_bridge.name=Pink Terracotta Bridge
+tile.pod_brdg:gray_terracotta_bridge.name=Gray Terracotta Bridge
+tile.pod_brdg:light_gray_terracotta_bridge.name=Light Gray Terracotta Bridge
+tile.pod_brdg:cyan_terracotta_bridge.name=Cyan Terracotta Bridge
+tile.pod_brdg:purple_terracotta_bridge.name=Purple Terracotta Bridge
+tile.pod_brdg:blue_terracotta_bridge.name=Blue Terracotta Bridge
+tile.pod_brdg:brown_terracotta_bridge.name=Brown Terracotta Bridge
+tile.pod_brdg:green_terracotta_bridge.name=Green Terracotta Bridge
+tile.pod_brdg:red_terracotta_bridge.name=Red Terracotta Bridge
+tile.pod_brdg:black_terracotta_bridge.name=Black Terracotta Bridge
+tile.pod_brdg:brick_block_bridge.name=Brick Block Bridge
+tile.pod_brdg:stone_brick_bridge.name=Stone Brick Bridge
+tile.pod_brdg:mossy_brick_bridge.name=Mossy Brick Bridge
+tile.pod_brdg:deepslate_brick_bridge.name=Deepslate Brick Bridge
+tile.pod_brdg:deepslate_tile_bridge.name=Deepslate Tile Bridge
+tile.pod_brdg:polished_blackstone_brick_bridge.name=Polished Blackstone Brick Bridge
+tile.pod_brdg:tuff_brick_bridge.name=Tuff Brick Bridge
+tile.pod_brdg:end_stone_brick_bridge.name=End Stone Brick Bridge
+tile.pod_brdg:resin_brick_bridge.name=Resin Brick Bridge
+tile.pod_brdg:quartz_brick_bridge.name=Quartz Brick Bridge
+tile.pod_brdg:prismarine_brick_bridge.name=Prismarine Brick Bridge
+tile.pod_brdg:nether_brick_bridge.name=Nether Brick Bridge
+tile.pod_brdg:red_nether_brick_bridge.name=Red Nether Brick Bridge
+tile.pod_brdg:mud_brick_bridge.name=Mud Brick Bridge
+tile.pod_brdg:purpur_block_bridge.name=Purpur Block Bridge
+tile.pod_brdg:sandstone_bridge.name=Sandstone Bridge
+tile.pod_brdg:red_sandstone_bridge.name=Red Sandstone Bridge
+tile.pod_brdg:copper_bridge.name=Copper Bridge
+tile.pod_brdg:diamond_bridge.name=Diamond Bridge
+tile.pod_brdg:emerald_bridge.name=Emerald Bridge
+tile.pod_brdg:netherite_bridge.name=Netherite Bridge
+tile.pod_brdg:iron_bridge.name=Iron Bridge
+tile.pod_brdg:gold_bridge.name=Gold Bridge
+tile.pod_brdg:acacia_wood_support.name=Acacia Wood Support
+tile.pod_brdg:birch_wood_support.name=Birch Wood Support
+tile.pod_brdg:cherry_wood_support.name=Cherry Wood Support
+tile.pod_brdg:dark_oak_wood_support.name=Dark Oak Wood Support
+tile.pod_brdg:jungle_wood_support.name=Jungle Wood Support
+tile.pod_brdg:mangrove_wood_support.name=Mangrove Wood Support
+tile.pod_brdg:oak_wood_support.name=Oak Wood Support
+tile.pod_brdg:spruce_wood_support.name=Spruce Wood Support
+tile.pod_brdg:pale_oak_wood_support.name=Pale Oak Wood Support
+tile.pod_brdg:warped_wood_support.name=Warped Wood Support
+tile.pod_brdg:crimson_wood_support.name=Crimson Wood Support
+tile.pod_brdg:bamboo_wood_support.name=Bamboo Wood Support
+tile.pod_brdg:stone_support.name=Stone Support
+tile.pod_brdg:polished_deepslate_support.name=Polished Deepslate Support
+tile.pod_brdg:polished_blackstone_support.name=Polished Blackstone Support
+tile.pod_brdg:polished_granite_support.name=Polished Granite Support
+tile.pod_brdg:polished_diorite_support.name=Polished Diorite Support
+tile.pod_brdg:polished_andesite_support.name=Polished Andesite Support
+tile.pod_brdg:polished_tuff_support.name=Polished Tuff Support
+tile.pod_brdg:smooth_stone_support.name=Smooth Stone Support
+tile.pod_brdg:resin_block_support.name=Resin Block Support
+tile.pod_brdg:dark_prismarine_support.name=Dark Prismarine Support
+tile.pod_brdg:cobblestone_raw_support.name=Cobblestone Support
+tile.pod_brdg:mossy_cobblestone_raw_support.name=Mossy Cobblestone Support
+tile.pod_brdg:cobbled_deepslate_raw_support.name=Cobbled Deepslate Support
+tile.pod_brdg:blackstone_raw_support.name=Blackstone Support
+tile.pod_brdg:granite_raw_support.name=Granite Support
+tile.pod_brdg:diorite_raw_support.name=Diorite Support
+tile.pod_brdg:andesite_raw_support.name=Andesite Support
+tile.pod_brdg:tuff_raw_support.name=Tuff Support
+tile.pod_brdg:end_stone_raw_support.name=End Stone Support
+tile.pod_brdg:white_concrete_support.name=White Concrete Support
+tile.pod_brdg:orange_concrete_support.name=Orange Concrete Support
+tile.pod_brdg:magenta_concrete_support.name=Magenta Concrete Support
+tile.pod_brdg:light_blue_concrete_support.name=Light Blue Concrete Support
+tile.pod_brdg:yellow_concrete_support.name=Yellow Concrete Support
+tile.pod_brdg:lime_concrete_support.name=Lime Concrete Support
+tile.pod_brdg:pink_concrete_support.name=Pink Concrete Support
+tile.pod_brdg:gray_concrete_support.name=Gray Concrete Support
+tile.pod_brdg:light_gray_concrete_support.name=Light Gray Concrete Support
+tile.pod_brdg:cyan_concrete_support.name=Cyan Concrete Support
+tile.pod_brdg:purple_concrete_support.name=Purple Concrete Support
+tile.pod_brdg:blue_concrete_support.name=Blue Concrete Support
+tile.pod_brdg:brown_concrete_support.name=Brown Concrete Support
+tile.pod_brdg:green_concrete_support.name=Green Concrete Support
+tile.pod_brdg:red_concrete_support.name=Red Concrete Support
+tile.pod_brdg:black_concrete_support.name=Black Concrete Support
+tile.pod_brdg:hardened_clay_terracotta_support.name=Terracotta Terracotta Support
+tile.pod_brdg:white_terracotta_support.name=White Terracotta Support
+tile.pod_brdg:orange_terracotta_support.name=Orange Terracotta Support
+tile.pod_brdg:magenta_terracotta_support.name=Magenta Terracotta Support
+tile.pod_brdg:light_blue_terracotta_support.name=Light Blue Terracotta Support
+tile.pod_brdg:yellow_terracotta_support.name=Yellow Terracotta Support
+tile.pod_brdg:lime_terracotta_support.name=Lime Terracotta Support
+tile.pod_brdg:pink_terracotta_support.name=Pink Terracotta Support
+tile.pod_brdg:gray_terracotta_support.name=Gray Terracotta Support
+tile.pod_brdg:light_gray_terracotta_support.name=Light Gray Terracotta Support
+tile.pod_brdg:cyan_terracotta_support.name=Cyan Terracotta Support
+tile.pod_brdg:purple_terracotta_support.name=Purple Terracotta Support
+tile.pod_brdg:blue_terracotta_support.name=Blue Terracotta Support
+tile.pod_brdg:brown_terracotta_support.name=Brown Terracotta Support
+tile.pod_brdg:green_terracotta_support.name=Green Terracotta Support
+tile.pod_brdg:red_terracotta_support.name=Red Terracotta Support
+tile.pod_brdg:black_terracotta_support.name=Black Terracotta Support
+tile.pod_brdg:stone_brick_support.name=Stone Brick Support
+tile.pod_brdg:mossy_brick_support.name=Mossy Brick Support
+tile.pod_brdg:deepslate_brick_support.name=Deepslate Brick Support
+tile.pod_brdg:quartz_brick_support.name=Quartz Brick Support
+tile.pod_brdg:prismarine_brick_support.name=Prismarine Brick Support
+tile.pod_brdg:red_nether_brick_support.name=Red Nether Brick Support
+tile.pod_brdg:polished_blackstone_brick_support.name=Polished Blackstone Brick Support
+tile.pod_brdg:deepslate_tiles_support.name=Deepslate Tiles Support
+tile.pod_brdg:resin_brick_support.name=Resin Brick Support
+tile.pod_brdg:tuff_brick_support.name=Tuff Brick Support
+tile.pod_brdg:sandstone_support.name=Sandstone Support
+tile.pod_brdg:red_sandstone_support.name=Red Sandstone Support
+tile.pod_brdg:copper_support.name=Copper Support
+tile.pod_brdg:iron_support.name=Iron Support
+tile.pod_brdg:gold_support.name=Gold Support
+tile.pod_brdg:netherite_support.name=Netherite Support
+tile.pod_brdg:diamond_support.name=Diamond Support
+tile.pod_brdg:emerald_support.name=Emerald Support
+tile.pod_brdg:bricks_support.name=Bricks Support
+tile.pod_brdg:mud_brick_support.name=Mud Brick Support
+tile.pod_brdg:end_stone_brick_support.name=End Stone Brick Support
+tile.pod_brdg:prismarine_support.name=Prismarine Support
+tile.pod_brdg:purpur_support.name=Purpur Support
+tile.pod_brdg:nether_brick_support.name=Nether Brick Support
+tile.pod_brdg:quartz_support.name=Quartz Support
+
+tile.pod_brdg:quartz_bridge_support.name=Quartz Bridge Support
+tile.pod_brdg:copper_bridge_support.name=Copper Bridge Support
+
+pod_brdg.guide.main.title=Bridges Add-On
+pod_brdg.guide.main.body=§o§7Created by Podcrash§r\n\nThe Bridges Add-On has finally crossed over! BRIDGES adds a plethora of foot bridges to your world, craftable from all sorts of wood and stone materials. \n\nIf you lose the book you can re-craft it with a book and a §estick§r. You can also access this guide with the command §7/podbridges§r at anytime.\n\nFor more information and support, check out §3§ohttps://pdcr.sh/bridges§r
+
+pod_brdg.guide.placement.title=Placements
+pod_brdg.guide.placement.body=When placing a bridge it will have railing on all four sides unless placed next to another bridge or by the edge of a cliff. Bridges placed together will automatically connect.\n\nYou can toggle railing by interacting while sneaking with the bridge using an empty hand.\n\nYou can speed place bridges horizontally (similar to scaffolding) by interacting with a bridge while holding bridge blocks.\n\nBy sneaking and placing a bridge on the edge block of a gap you can start a bridge one block into the gap.\n\nSupports can be stacked on top of each other by interacting with a support while holding support item of the same type.
+
+pod_brdg.guide.crafting.title=Crafting
+pod_brdg.guide.crafting.body=Most bridges follow a similar structure in their crafting. All recipes produce 16 bridge blocks but some have unique arrangements.
+
+pod_brdg.guide.crafting.log_bridges.title=Log Bridges
+pod_brdg.guide.crafting.log_bridges.body=A bridge made from any vanilla log type. Also able to be crafted from warped and crimson stem, as well as bamboo block.\n\nThis bridge has a directional base that places depending on the facing direction of the player.\n\n§lCrafting§r\n1 1 1\n1 §0X§r 1\n2 2 2\n\n1 = Stick\n2 = Log / Stem / Bamboo Block\n\nCrafts 16 Log Bridges\n
+
+pod_brdg.guide.crafting.wood_bridges.title=Wood Bridges
+pod_brdg.guide.crafting.wood_bridges.body=A bridge made from any vanilla plank type.\n\nThis bridge has a directional base that places depending on the facing direction of the player.\n\n§lCrafting§r\n1 1 1\n1 §0X§r 1\n2 2 2\n\n1 = Stick\n2 = Planks\n\nCrafts 16 Wood Bridges\n
+
+pod_brdg.guide.crafting.rope_bridges.title=Rope Bridges
+pod_brdg.guide.crafting.rope_bridges.body=A bridge made from any vanilla plank with string for a rope style railing.\n\nThis bridge has a directional base that places depending on the facing direction of the player.\n\n§lCrafting§r\n1 3 1\n1 §0X§r 1\n2 2 2\n\n1 = Stick\n2 = Planks\n3 = String\n\nCrafts 16 Rope Bridges\n
+
+pod_brdg.guide.crafting.ingot_and_gem_bridges.title=Ingot and Gem Bridges
+pod_brdg.guide.crafting.ingot_and_gem_bridges.body=A bridge made from copper, iron, gold, diamond, emerald, or netherite.\n\n§lCrafting§r\n1 1 1\n1 §0X§r 1\n2 2 2\n\n1 = Ingot / Diamond / Emerald\n2 = Block form of material\n\nCrafts 16 Ingot and Gem Bridges\n
+
+pod_brdg.guide.crafting.cobbled_bridges.title=Cobbled Bridges
+pod_brdg.guide.crafting.cobbled_bridges.body=A bridge made from one of the following:\n\n §7-§r Cobblestone\n §7-§r Mossy Cobblestone\n §7-§r Cobbled Deepslate\n §7-§r Blackstone\n §7-§r Granite\n §7-§r Diorite\n §7-§r Andesite\n §7-§r Tuff\n §7-§r End Stone\n\n§lCrafting§r\n2 1 2\n2 §0X§r 2\n2 2 2\n\n1 = Slab of Block\n2 = Block\n\n§cEnd Stone doesn't have a slab variant, use a full block of End Stone instead.§r\n\nCrafts 16 Cobbled Bridges\n
+
+pod_brdg.guide.crafting.stone_bridges.title=Stone Bridges
+pod_brdg.guide.crafting.stone_bridges.body=A bridge made from one of the following:\n\n §7-§r Stone\n §7-§r Smooth Stone\n §7-§r Polished Deepslate\n §7-§r Polished Blackstone\n §7-§r Polished Granite\n §7-§r Polished Diorite\n §7-§r Polished Andesite\n §7-§r Polished Tuff\n §7-§r Block of Resin\n §7-§r Block of Quartz\n §7-§r Prismarine\n §7-§r Dark Prismarine\n §7-§r Sandstone\n §7-§r Red Sandstone\n\n\n§lCrafting§r\n2 1 2\n2 §0X§r 2\n2 2 2\n\n1 = Slab of Block\n2 = Block\n\n§cBlock of Resin doesn't have a slab variant, use single Resin Brick instead.§r\n\nCrafts 16 Stone Bridges\n
+
+pod_brdg.guide.crafting.brick_bridges.title=Brick Bridges
+pod_brdg.guide.crafting.brick_bridges.body=A bridge made from one of the following:\n\n §7-§r Brick Block\n §7-§r Stone Bricks\n §7-§r Mossy Stone Bricks\n §7-§r Deepslate Bricks\n §7-§r Deepslate Tiles\n §7-§r Polished Blackstone Bricks\n §7-§r Tuff Bricks\n §7-§r End Stone Bricks\n §7-§r Resin Bricks\n §7-§r Quartz Bricks\n §7-§r Prismarine Bricks\n §7-§r Nether Bricks\n §7-§r Red Nether Bricks\n §7-§r Mud Bricks\n §7-§r Purpur Block\n\n§lCrafting§r\n2 1 2\n2 §0X§r 2\n2 2 2\n\n1 = Slab of Block\n2 = Block\n\n§cQuartz Bricks don't have a slab variant, use normal Quartz Slab instead.§r\n\nCrafts 16 Brick Bridges\n
+
+pod_brdg.guide.crafting.concrete_and_terracotta_bridges.title=Concrete and Terracotta Bridges
+pod_brdg.guide.crafting.concrete_and_terracotta_bridges.body=A bridge made from Concrete or Terracotta.\n\n§lCrafting§r\n1 1 1\n1 §0X§r 1\n1 1 1\n\n1 = Concrete / Terracotta\n\nCrafts 16 Concrete or Terracotta Bridges\n
+
+
+pod_brdg.guide.crafting.wood_supports.title=Wood Supports
+pod_brdg.guide.crafting.wood_supports.body=A support made from any vanilla plank type. Also able to be crafted from warped and crimson stem, as well as bamboo block.\n\n§lCrafting§r\n1 2 1\n1 §0X§r 1\n1 §0X§r 1\n\n1 = Log / Stem / Bamboo Block\n2 = Planks\n\nCrafts 16 Wood Supports\n
+
+pod_brdg.guide.crafting.cobbled_supports.title=Cobbled Supports
+pod_brdg.guide.crafting.cobbled_supports.body=A support made from one of the following:\n\n §7-§r Cobblestone\n §7-§r Mossy Cobblestone\n §7-§r Cobbled Deepslate\n §7-§r Blackstone\n §7-§r Granite\n §7-§r Diorite\n §7-§r Andesite\n §7-§r Tuff\n §7-§r End Stone\n\n§lCrafting§r\n1 1 1\n§0X§r 1 §0X§r\n§0X§r 1 §0X§r\n\n1 = Block\n\nCrafts 16 Cobbled Supports\n
+
+pod_brdg.guide.crafting.stone_supports.title=Stone Supports
+pod_brdg.guide.crafting.stone_supports.body=A support made from one of the following:\n\n §7-§r Stone\n §7-§r Smooth Stone\n §7-§r Polished Deepslate\n §7-§r Polished Blackstone\n §7-§r Polished Granite\n §7-§r Polished Diorite\n §7-§r Polished Andesite\n §7-§r Polished Tuff\n §7-§r Block of Quartz\n\n§lCrafting§r\n1 1 1\n§0X§r 1 §0X§r\n1 1 1\n\n1 = Block\n\nCrafts 16 Stone Supports\n\n\nA support made from one of the following:\n\n §7-§r Block of Resin\n §7-§r Prismarine\n §7-§r Sandstone\n §7-§r Red Sandstone\n\n§lCrafting§r\n1 1 1\n1 §0X§r 1\n1 §0X§r 1\n\n1 = Block\n\nCrafts 16 Stone Supports\n\n\nA support made from one of the following:\n\n §7-§r Dark Prismarine\n\n§lCrafting§r\n1 1 1\n§0X§r 2 §0X§r\n§0X§r 2 §0X§r\n\n1 = Dark Prismarine\n2 = Prismarine Bricks\n\nCrafts 16 Dark Prismarine Supports\n
+
+pod_brdg.guide.crafting.brick_supports.title=Brick Supports
+pod_brdg.guide.crafting.brick_supports.body=A support made from one of the following:\n\n §7-§r Stone Bricks\n §7-§r Mossy Stone Bricks\n §7-§r Deepslate Bricks\n §7-§r Tuff Bricks\n §7-§r Quartz Bricks\n §7-§r Prismarine Bricks\n §7-§r Nether Bricks\n §7-§r Red Nether Bricks\n \n§lCrafting§r\n1 1 1\n§0X§r 1 §0X§r\n1 1 1\n\n1 = Block\n\nCrafts 16 Brick Supports\n\n\nA support made from one of the following:\n\n §7-§r Deepslate Tiles\n §7-§r Polished Blackstone Bricks\n \n§lCrafting§r\n1 1 1\n§0X§r 1 §0X§r\n§0X§r 1 §0X§r\n\n1 = Block\n\nCrafts 16 Brick Supports\n\n\nA support made from one of the following:\n\n §7-§r End Stone Bricks\n §7-§r Mud Bricks\n §7-§r Purpur Block\n\n§lCrafting§r\n1 1 1\n1 §0X§r 1\n1 §0X§r 1\n\n1 = Block\n\nCrafts 16 Brick Supports\n\n\nA support made from one of the following:\n\n §7-§r Resin Bricks\n \n§lCrafting§r\n§0X§r 1 §0X§r\n§0X§r 1 §0X§r\n§0X§r 1 §0X§r\n\n1 = Resin Bricks\n\nCrafts 16 Resin Brick Supports\n\n\nA support made from one of the following:\n\n §7-§r Brick Block\n \n§lCrafting§r\n1 1 1\n§0X§r 2 §0X§r\n§0X§r 2 §0X§r\n\n1 = Bricks\n2 = Brick\n\nCrafts 16 Bricks Supports\n
+
+pod_brdg.guide.crafting.ingot_and_gem_supports.title=Ingot and Gem Supports
+pod_brdg.guide.crafting.ingot_and_gem_supports.body=A support made from iron, gold, diamond, emerald, or netherite.\n\n§lCrafting§r\n1 1 1\n§0X§r 2 §0X§r\n§0X§r 2 §0X§r\n\n1 = Block form of material\n2 = Ingot / Diamond / Emerald\n\nCrafts 16 Ingot and Gem Supports\n\n\nA support made from copper.\n\n§lCrafting§r\n1 1 1\n1 §0X§r 1§r\n1 §0X§r 1\n\n1 = Block of Copper\n\nCrafts 16 Copper Supports\n
+
+pod_brdg.guide.crafting.concrete_and_terracotta_supports.title=Concrete and Terracotta Supports
+pod_brdg.guide.crafting.concrete_and_terracotta_supports.body=A support made from Concrete or Terracotta.\n\n§lCrafting§r\n1 1 1\n1 §0X§r 1\n1 §0X§r 1\n\n1 = Concrete / Terracotta\n\nCrafts 16 Concrete or Terracotta Supports\n
+
+
+
+pod_brdg.guide.changelog.title=Changelog
+pod_brdg.guide.changelog.body=Current version: §6BRIDGES v1.0.0§r\n\nBridges has not yet received an update.
+
+
+pod_brdg.guide.exit_button=Exit
+pod_brdg.guide.back_button=Back

@@ -1,0 +1,249 @@
+pack.name=Macchine
+pack.description=Add-On di Podcrash
+tile.pod_engi:copper_pipe.name=Tubo di alimentazione in rame
+tile.pod_engi:glass_pipe.name=Tubo di vetro per liquidi
+tile.pod_engi:iron_pipe.name=Tubo in ferro
+tile.pod_engi:obsidian_pipe.name=Tubo ossidato
+tile.pod_engi:item_pipe_filter.name=Voce Filtro per tubi
+tile.pod_engi:liquid_pipe_filter.name=Filtro per tubi liquidi
+tile.pod_engi:power_pipe_filter.name=Filtro per tubi di alimentazione
+tile.pod_engi:power_calibrator.name=Calibratore di lunghezza d'onda di potenza
+tile.pod_engi:essence_calibrator.name=Calibratore di lunghezza d'onda Essence
+tile.pod_engi:teleportation_pad.name=Pad di teletrasporto
+tile.pod_engi:power_storage.name=Batteria di alimentazione
+item.pod_engi:power_storage=Batteria di alimentazione
+item.pod_engi:wrench=Chiave per tubi
+item.pod_engi:chunk_book=Libro a pezzi
+item.pod_engi:guide_book=Libro guida delle macchine
+item.pod_engi:iron_gear=Ingranaggio di ferro
+item.pod_engi:refined_metal=Lingotto di metallo raffinato
+item.pod_engi:refined_metal_clump=Ciuffo di ferro e carbone
+item.pod_engi:copper_wire=Filo di rame
+item.pod_engi:logic_circuit=Circuito logico
+item.pod_engi:calibrated_circuit=Circuito calibrato
+item.pod_engi:null_copper=Lingotto di rame nullo
+item.pod_engi:raw_null_copper=Rame grezzo nullo
+item.pod_engi:experience_bucket=Secchio d'incanto
+item.pod_engi:fabric=Tessuto
+item.pod_engi:hardhat=Cappello duro
+item.pod_engi:ignition_powder=Polvere di accensione
+item.pod_engi:gust_pack=Pacchetto Gust
+tile.pod_engi:steam_engine.name=Motore a vapore
+tile.pod_engi:thermal_generator.name=Generatore termico
+tile.pod_engi:solar_engine.name=Motore solare
+tile.pod_engi:bio_reactor.name=Bioreattore
+tile.pod_engi:creative_engine.name=§dMotore creativo
+tile.pod_engi:pump.name=Pompa
+tile.pod_engi:guster.name=Guster
+tile.pod_engi:drill.name=Controllore della trivella
+tile.pod_engi:extruder.name=Estrusore a filo
+tile.pod_engi:stamper.name=Cucitrice di ingranaggi
+tile.pod_engi:chest_extractor.name=Estrattore di articoli
+tile.pod_engi:chest_depositor.name=Depositante dell'articolo
+tile.pod_engi:exactor.name=Munitore di mafie
+tile.pod_engi:lightning_calibrator.name=Calibratore di parafulmini
+tile.pod_engi:debug_input.name=Ingresso di debug
+tile.pod_engi:sturdy_frame.name=Telaio robusto
+tile.pod_engi:null_copper_block.name=Blocco di rame nullo
+tile.pod_engi:refined_metal_block.name=Blocco di metallo raffinato
+tile.pod_engi:structure_support.name=Traliccio
+tile.pod_engi:truss_platform.name=Piattaforma a traliccio
+port.pod_engi:copper_pipe=§6Potere
+port.pod_engi:glass_pipe=§bLiquido
+port.pod_engi:iron_pipe=§7Item
+port.unrestricted=§5Non vincolato
+port.input=§7[§9§lIN§r§7]§r
+port.output=§7[§c§lOUT§r§7]§r
+port.both=§7[§l§9IN§cOUT§r§7]§r
+port.pipe_interact.false=§aAbilita %1
+port.pipe_interact.true=§Disabilita %1
+port.no_information=§cNessuna porta su questa faccia
+port.pipe_equipped=§7§oGuarda la macchina o il tubo da utilizzare
+gust_pack.land=§e§lPrego TERRA
+gust_pack.out=§Carichi esauriti
+gust_pack.brace=§c§lBRACE PER L'IMPATTO
+gust_pack.1_remaining=§eUltima carica
+state.pod_engi:coal.display=§8§lCalcio§r
+state.pod_engi:bio_fuel.display=§2§lCombustibile biologico§r
+state.pod_engi:essence.display=§a§lEssenza§r
+state.pod_engi:water.display=§9§lAcqua§r
+state.pod_engi:lava.display=§6§lLava§r
+state.pod_engi:power.display=§c§lPotere§r
+state.pod_engi:ladder.display=§e§lLadders§r
+pod_engi:generators=Generatori
+pod_engi:machines=Macchine
+pod_engi:connectors=Connettori
+pod_engi.guide.back_button=Indietro
+pod_engi.guide.exit_button=Uscita
+pod_engi.guide.main.title=Macchine Add-On
+pod_engi.guide.main.body=§o§7da Podcrash§r%1%1Benvenuto nell'Add-On Macchine, che aggiunge al gioco un sacco di nuove macchine, oggetti e blocchi! %1%1Questo libro ti introdurrà a tutte le macchine, gli oggetti e le ricette di crafting che questo Add-On aggiunge al gioco. Se dovessi perdere questo libro, potrai crearlo di nuovo con un libro e un pezzo di §mredstone§r.%1%1Per informazioni più dettagliate, consulta §3§ohttps://pdcr.sh/machines§r%1%1Richiama §3§ohelp.podcrash.com§r se hai riscontrato un problema!
+pod_engi.guide.how_to_machines.title=Come interagire con le macchine
+pod_engi.guide.how_to_machines.body=Esistono 3 tipi di porte di cui tenere conto quando si collegano i tubi alle macchine:%1%1§l§bPorte per liquidi§r%1Queste porte sono utilizzate per trasferire il liquido all'interno/all'esterno di una macchina che utilizza tubi di vetro.%1%1§l§6Porte di alimentazione§r%1Queste porte sono utilizzate per alimentare le macchine con tubi di rame.%1%1§l§7Porte degli oggetti§r%1Queste porte sono utilizzate per trasferire oggetti in entrata/uscita da macchine con tubi di ferro.%1%1Generalmente, una porta di ingresso sarà colorata §9blu§r e una porta di uscita sarà colorata §cred§r.%1%1Alcune macchine possono essere interagite per vedere ulteriori informazioni sui loro stati interni. la macchina a vapore, ad esempio, può essere utilizzata per vedere quanto carbone, acqua ed energia sono immagazzinati al suo interno.%1%1I tubi saranno orientati a seconda del blocco contro cui sono stati posizionati. Quasi sempre i tubi creano automaticamente i collegamenti desiderati, ma se non lo fanno, è sufficiente utilizzare una chiave inglese sul lato del tubo che si desidera modificare e questo si dividerà in quella direzione. È possibile rimuovere una connessione di tubi interagendo nuovamente.
+pod_engi.guide.generators.title=Generatori
+pod_engi.guide.generators.body=Queste macchine producono energia per voi, in genere convertendo altre risorse in energia.
+pod_engi.guide.steam_engine.title=Motore a vapore
+pod_engi.guide.steam_engine.body=È il generatore più elementare che si possa realizzare e rappresenta una priorità importante per l'early game. Funziona solo con una fornitura costante di carbone e acqua, quindi assicuratevi di collegarlo anche a una pompa. Per far partire il generatore una volta collegato alla pompa, dovrete interagire con lui con un secchio d'acqua. Dopo di che, il generatore alimenterà la pompa e fornirà acqua a se stesso! %1%1§lCrafting§r%1%11 2 1%12 3 2%11 4 1%1%11 = Telaio robusto%12 = Polvere di pietra rossa%13 = Altoforno%14 = Blocco di rame%1%1Crafts 1 Steam Engine.
+pod_engi.guide.bio_reactor.title=Bioreattore
+pod_engi.guide.bio_reactor.body=Un generatore molto flessibile, che fornisce diverse quantità di energia a seconda del tipo di biocombustibile inserito.%1%1§lCrafting§r%1%11 2 1%13 4 3%15 6 5%1%11 = Filo di rame%12 = Composter%13 = Circuito logico%14 = Affumicatore%15 = Telaio robusto%16 = Ingranaggio di ferro%1%1Crafts 1 Bio-reattore.
+pod_engi.guide.thermal_generator.title=Generatore termico
+pod_engi.guide.thermal_generator.body=Un miglioramento del motore a vapore che non solo dà più potenza, ma sarà utile in luoghi dove l'acqua è difficile da trovare, come l'oceano! %1%1§lCrafting§r%1%11 2 1%13 4 3%15 6 5%1%11 = Ingranaggio di ferro%12 = Circuito logico%13 = Motore a vapore%14 = Polvere di accensione%15 = Telaio robusto%16 = Calderone%1%1Crea 1 Generatore termico.
+pod_engi.guide.solar_engine.title=Motore solare
+pod_engi.guide.solar_engine.body=Un generatore che funziona ogni volta che c'è la luce del sole e che fornisce energia senza bisogno di ulteriori input da parte tua! È difficile da creare, ma ne vale la pena! %1%1§lCrafting§r%1%1§0X X X§r%11 2 1%13 4 3%1%11 = Lingotto di metallo raffinato%12 = Rivelatore di luce diurna%13 = Blocco di rame nullo%14 = Circuito calibrato%1%1Crea 1 Motore solare.
+pod_engi.guide.machines.title=Macchine
+pod_engi.guide.machines.body=In questo Add-On è possibile creare molte macchine diverse. alcune macchine vi permetteranno di produrre nuove risorse, altre offriranno utilità e altre ancora saranno solo un divertimento!
+pod_engi.guide.gear_stamper.title=Cucitrice di ingranaggi
+pod_engi.guide.gear_stamper.body=Una semplice macchina che prende in input lingotti di ferro e energia e li trasforma in ingranaggi di ferro, una risorsa importante per le ricette successive.%1%1§lCrafting§r%1%11 2 1%13 4 3%11 5 1%1%11 = Telaio robusto%12 = Pistone%13 = Lingotto di metallo raffinato%14 = Blocco di metallo raffinato%15 = Lingotto di rame%1%1Crafts 1 Gear Stamper.
+pod_engi.guide.wire_extruder.title=Estrusore a filo
+pod_engi.guide.wire_extruder.body=Una semplice macchina che riceve in ingresso lingotti di rame e energia e produce filo di rame, una risorsa utile per le ricette successive.%1%1§lCrafting§r%1%11 2 1%12 3 2%11 2 1%1%11 = Telaio robusto%12 = Ingranaggio di ferro%13 = Telaio%1%1Crafts 1 Estrusore di filo.
+pod_engi.guide.item_depositor.title=Depositante dell'articolo
+pod_engi.guide.item_depositor.body=Un dispositivo di base che afferra la parte superiore di un contenitore su cui è stato posizionato e deposita gli oggetti che gli arrivano da un tubo di ferro nel contenitore.%1%1§lCrafting§r%1%11 2 1%13 4 3%11 2 1%1%11 = Lingotto di metallo raffinato%12 = Tubo di ferro%13 = Polvere di pietra rossa%14 = Contagocce%1%1Crafts 1 Depositatore di oggetti.
+pod_engi.guide.item_extractor.title=Estrattore di articoli
+pod_engi.guide.item_extractor.body=Un dispositivo di base, che afferra un contenitore di stoccaggio e invia gli oggetti presenti al suo interno attraverso i tubi di ferro per oggetti collegati. L'estrattore prenderà solo ciò che è necessario, quindi non preoccupatevi di mettere il vostro prezioso piccone nel baule del carburante e vederlo bruciare! %1%1Se è collegato a un Depositatore di Oggetti, sposterà tutto dal contenitore collegato al Depositatore, nel caso in cui vogliate spostare carichi di oggetti passivamente e creare un sistema di stoccaggio!%1%1§lCrafting§r%1%11 2 1%13 4 3%11 2 1%1%11 = Lingotto di metallo raffinato%12 = Tubo di ferro%13 = Lingotto di rame%14 = Tramoggia%1%1Crea 1 Estrattore di oggetti.
+pod_engi.guide.pump.title=Pompa
+pod_engi.guide.pump.body=Posizionandola sopra l'acqua o la lava e alimentandola, la pompa alimenterà tutte le macchine che ne hanno bisogno! %1%1§lCrafting§r%1%1§0X§r 1 §0X§r%12 3 2%14 5 4%1%11 = Tubo di ferro%12 = Lingotto di rame%13 = Vetro%14 = Blocco di metallo raffinato%15 = Telaio robusto%1%1Crafts 1 Pompa.
+pod_engi.guide.guster.title=Guster
+pod_engi.guide.guster.body=Il dispositivo più flessibile e divertente che un nuovo macchinista possa realizzare. Quando viene alimentato, il Guster lancia qualsiasi cosa gli si pari davanti con una forza immensa. Puoi lanciare te stesso, i mob e persino proiettili come il TNT acceso per creare un cannone a lungo raggio! Ci sono molti utilizzi, quindi siate creativi! %1%1C'è un piccolo tempo di ricarica, che dipende dalla quantità di energia fornita al Guster. Più energia significa che si attiverà più spesso! Inoltre, è possibile impilare più Guster uno sopra l'altro o uno di fronte all'altro per aumentare in modo massiccio la loro forza propulsiva! %1%1§lCrafting§r%1%11 2 1%13 4 3%11 5 1%1%11 = Telaio robusto%12 = Polvere di accensione%13 = Ingranaggio di ferro%14 = Asta della brezza%15 = Circuito logico%1%1Crea 1 Guster.
+pod_engi.guide.drill_controller.title=Controllore della trivella
+pod_engi.guide.drill_controller.body=Una macchina che, una volta posizionata accanto a un telaio di blocchi Truss, alimenterà una cava e scaverà i blocchi nel telaio, inviandoli al lato del controller.%1%1Per creare una cava, creare un quadrato completo (con gli angoli riempiti!) di blocchi Truss che delimiti l'area che si desidera scavare. I confini massimi sono 12x12 blocchi. Il controller della trivella deve essere posizionato con la schiena a contatto con uno dei blocchi Truss del contorno e l'alimentazione deve essere fornita all'ingresso. La cava perforerà tutti i blocchi fino alla roccia e produrrà gli oggetti per voi! %1%1§lCrafting§r%1%1§0X§r 1 §0X§r%12 3 2%14 5 4%1%11 = Leva%12 = Circuito calibrato%13 = Estrattore di oggetti%14 = Blocco di metallo raffinato%15 = Leggio%1%1Crafts 1 Drill Controller.
+pod_engi.guide.mob_muncher.title=Munitore di mafie
+pod_engi.guide.mob_muncher.body=Una macchina dall'aspetto pericoloso che sfrutta il potere dello sculk per "sgranocchiare" i mob vicini, raccogliendone le gocce e l'esperienza, o "essenza". Dovrete fornirle molta energia, ma in cambio avrete un modo per macinare passivamente i mob! %1Potete anche collegarvi un tubo di vetro per liquidi e spostare l'essenza al calibratore del parafulmine.%1%1§lCrafting§r%1%11 2 1%11 3 1%14 5 4%1%11 = Lingotto di rame nullo%12 = Sensore sculk%13 = Circuito calibrato%14 = Telaio robusto%15 = Catalizzatore sculk%1%1Crafts 1 Mob Muncher.
+pod_engi.guide.lightning_rod_calibrator.title=Calibratore di parafulmini
+pod_engi.guide.lightning_rod_calibrator.body=Costringe il tempo a trasformarsi in un temporale! Finché la macchina viene rifornita costantemente di essenza dal Mob Muncher, manterrà il temporale.%1Per funzionare, è necessario posizionare un parafulmine sopra il Calibratore parafulmine.%1%1§lCrafting§r%1%11 2 1%13 4 3%15 6 5%1%11 = Lingotto di rame nullo%12 = Blocco di metallo raffinato%13 = Filo di rame%14 = Circuito calibrato%15 = Vetro%16 = Telaio robusto%1%1Crea 1 Calibratore parafulmine.
+pod_engi.guide.connectors.title=Connettori
+pod_engi.guide.connectors.body=I connettori consentono di collegare tra loro macchine diverse, creando linee di produzione!
+pod_engi.guide.iron_item_pipe.title=Tubo in ferro
+pod_engi.guide.iron_item_pipe.body=Un tubo che collega le macchine e trasporta gli oggetti dove sono necessari.%1%1§lCrafting§r%1%11 1 1%1§0X X X§r%11 1 1%1%11 = Lingotto di ferro%1%1Crafts 12 Iron Item Pipe.
+pod_engi.guide.copper_power_pipe.title=Tubo di alimentazione in rame
+pod_engi.guide.copper_power_pipe.body=Un tubo che consente di prelevare l'energia dai generatori e trasferirla alle macchine che ne hanno bisogno.%1%1§lCrafting§r%1%11 1 1%1§0X X X§r%11 1 1%1%11 = Lingotto di rame%1%1Crafts 12 Coper Power Pipe.
+pod_engi.guide.glass_liquid_pipe.title=Tubo di vetro per liquidi
+pod_engi.guide.glass_liquid_pipe.body=Un tubo che consente di spostare acqua, magma ed essenze in diverse macchine.%1%1§lCrafting§r%1%11 1 1%1§0X X X§r%11 1 1%1%11 = Glass%1%1Crafts 12 Glass Liquid Pipe.
+pod_engi.guide.items.title=Articoli
+pod_engi.guide.items.body=Strumenti e attrezzature importanti per qualsiasi macchinista.
+pod_engi.guide.wrench.title=Chiave
+pod_engi.guide.wrench.body=Lo strumento più importante per un macchinista, permette di manipolare le connessioni dei tubi alle macchine! %1%1Potete anche usarlo per identificare il tipo di porta con cui avete a che fare guardandola.%1%1§lCrafting§r%1%1§0X§r 1 §0X§r%1§0X§r 2 §0X§r%1§0X§r 2 §0X§r%1%11 = Lingotto di ferro%12 = Lingotto di rame%1%1Crafts 1 Chiave.
+pod_engi.guide.gust_pack.title=Pacchetto Gust
+pod_engi.guide.gust_pack.body=Vi lancia in alto nell'aria, ma senza alcuna funzione di sicurezza per evitare danni da caduta, quindi fate attenzione! %1%1Si usa soprattutto per lanciarsi verso luoghi alti o fuori da acque profonde. Si può anche evitare di subire danni da caduta letali usandolo appena prima di toccare terra! %1%1Per usare il Gust Pack, bisogna saltare mentre si scivola o si cade. È possibile utilizzarlo solo poche volte prima di dover atterrare. Usandolo più volte di seguito, si deteriorerà più velocemente.%1%1§lCrafting§r%1%11 2 1%13 4 3%15 §0X§r 5%1%11 = Filo di rame%12 = Circuito calibrato%13 = Polvere di accensione%14 = Gambali di ferro%15 = Guster%1%1Crafting 1 Gust Pack.
+pod_engi.guide.hard_hat.title=Cappello duro
+pod_engi.guide.hard_hat.body=Un'armatura per dimostrare che sei un macchinista! Dà anche una moderata protezione.%1%1§lCrafting§r%1%1§0X X X§r%11 1 1%12 §0X§r 2%1%11 = Lingotto di metallo raffinato%12 = Tessuto%1%1Crafts 1 Hard-hat.
+pod_engi.guide.resources.title=Risorse
+pod_engi.guide.resources.body=Un elenco di tutti i nuovi tipi di risorse che potrete creare e utilizzare in questo Add-On!
+pod_engi.guide.iron_coal_clump.title=Grumo di ferro e carbone
+pod_engi.guide.iron_coal_clump.body=Una combinazione disordinata di ferro grezzo e carbone, pronta per essere raffinata in metallo raffinato mediante fusione in una fornace.%1%1§lCrafting§r%1%1Combina i seguenti oggetti in qualsiasi forma:%1%13x carbone%11x lingotto di ferro%1%1Crea 1 grumo di ferro e carbone.
+pod_engi.guide.refined_metal.title=Metallo raffinato
+pod_engi.guide.refined_metal.body=Un lingotto importante per la fabbricazione della maggior parte degli oggetti che un macchinista può produrre, creato dalla fusione di un grumo di ferro e carbone.
+pod_engi.guide.refined_metal_block.title=Blocco di metallo raffinato
+pod_engi.guide.refined_metal_block.body=9 Metalli raffinati combinati in un unico blocco per la decorazione o il crafting.%1%1§lCrafting§r%1%11 1 1%11 1 1%11 1 1%1%11 = Lingotto di ferro%1%1Crafting 1 blocco di metallo raffinato.
+pod_engi.guide.raw_null_copper.title=Rame grezzo nullo
+pod_engi.guide.raw_null_copper.body=Una fusione instabile di Perle Ender e Rame, che deve essere stabilizzata dal calore in una fornace per creare il Lingotto di Rame Nullo.%1%1§lCrafting§r%1%1Combina i seguenti oggetti in qualsiasi forma:%1%13x Perla Ender%11x Rame Grezzo%1%1Crea 1 Rame Nullo Grezzo.
+pod_engi.guide.null_copper.title=Lingotto di rame nullo
+pod_engi.guide.null_copper.body=Un lingotto ultraterreno necessario per alcune delle macchine più avanzate che un macchinista possa realizzare.%1Creato dalla fusione del Rame Nullo Grezzo.
+pod_engi.guide.null_copper_block.title=Blocco di rame nullo
+pod_engi.guide.null_copper_block.body=9 lingotti di rame nullo combinati in un unico blocco per la decorazione o il crafting.%1%1§lCrafting§r%1%11 1 1%11 1 1%11 1 1%1%11 = lingotto di rame nullo%1%1Crafting 1 blocco di rame nullo.
+pod_engi.guide.fabric.title=Tessuto
+pod_engi.guide.fabric.body=Tessuto di corda e utilizzato per il Cappello duro! %1%1§lCrafting§r%1%11 1 §0X§r%11 1 §0X§r%11 1 §0X§r%1%11 = Stringa%1%1Crafts 3 Tessuto.
+pod_engi.guide.truss.title=Traliccio
+pod_engi.guide.truss.body=Un'impalcatura metallica che può essere utilizzata come decorazione o, soprattutto, per creare la propria cava con il Drill Controller.%1%1Una variante di piattaforma del Traliccio può essere realizzata in modo simile alle lastre.%1%1§lCrafting§r%1%11 2 1%12 §0X§r 2%11 2 1%1%11 = Lingotto di metallo raffinato%12 = Bastone%1%1Crafting 16 Traliccio.
+pod_engi.guide.sturdy_frame.title=Telaio robusto
+pod_engi.guide.sturdy_frame.body=Metallo raffinato combinato con il legno in una struttura resistente. Un blocco importante utilizzato per la creazione della maggior parte delle macchine.%1%1§lCrafting§r%1%11 2 1%12 §0X§r 2%11 2 1%1%11 = Lingotto di metallo raffinato%12 = Tavole%1%1Crafts 1 Telaio robusto.
+pod_engi.guide.ignition_powder.title=Polvere di accensione
+pod_engi.guide.ignition_powder.body=Una combinazione estremamente pericolosa di polvere da sparo, cariche eoliche e polvere infuocata. Un reagente necessario per le macchine a propulsione, come il Guster.%1%1§lCrafting§r%1%11 2 3%11 2 3%11 2 3%1%11 = Polvere infuocata%12 = Polvere da sparo%13 = Carica eolica%1%1Crafts 1 Polvere d'accensione.
+pod_engi.guide.logic_circuit.title=Circuito logico
+pod_engi.guide.logic_circuit.body=Un circuito delicatamente realizzato a mano, utilizzato nelle macchine per il crafting di una certa complessità.%1%1§lCrafting§r%1%11 2 3%12 4 §0X§r%11 3 §0X§r%1%11 = Lingotto di metallo raffinato%12 = Polvere di pietra rossa%13 = Filo di rame%14 = Quarzo di Nether%1%1Crea 1 circuito logico.
+pod_engi.guide.calibrated_circuit.title=Circuito calibrato
+pod_engi.guide.calibrated_circuit.body=Un potenziamento del Circuito Logico utilizzato nelle macchine più complesse.%1%1§lCrafting§r%1%11 2 3%12 4 §0X§r%11 3 §0X§r%1%11 = Lingotto di rame nullo%12 = Frammento di ametista%13 = Lingotto d'oro%14 = Circuito Logico%1%1Crafts 1 Circuito Calibrato.
+pod_engi.guide.copper_wire.title=Filo di rame
+pod_engi.guide.copper_wire.body=Ingrediente per il crafting creato dall'Estrusore a filo.%1%1§lIngredienti§r %11x Rame
+pod_engi.guide.iron_gear.title=Ingranaggio di ferro
+pod_engi.guide.iron_gear.body=Un ingrediente per il crafting creato dal Gear Stamper.%1%1§lIngredienti§r %11x Ferro
+pod_engi.guide.settings.title=Impostazioni
+pod_engi.guide.settings.warning=Avvertenze
+pod_engi.guide.question.cancel=Annullamento
+pod_engi.guide.question.ok=Ok
+pod_engi.guide.settings.performance_profile=Profilo delle prestazioni della macchina
+pod_engi.guide.settings.performance_profile.low=Basso
+pod_engi.guide.settings.performance_profile.medium=Medio
+pod_engi.guide.settings.performance_profile.high=Alto
+pod_engi.guide.settings.performance_profile.extreme=Estremo
+pod_engi.guide.settings.performance_profile.warning=Il profilo delle prestazioni determina il funzionamento di alcune funzionalità dell'addon. Ad esempio, il profilo delle prestazioni determina la lunghezza di un tubo tra due macchine.
+pod_engi.guide.settings.performance_profile.warning_xbox=%1%1§a§lAlcune console§r sono note per bloccarsi in determinate condizioni con i profili Alto o Estremo selezionati.
+tile.pod_engi:essence_tank.name=Serbatoio dell'essenza
+item.pod_engi:essence_tank=Serbatoio dell'essenza
+item.pod_engi:water_mill=Mulino ad acqua
+tile.pod_engi:workbench.name=Banco di lavoro
+tile.pod_engi:void_machine.name=Macchina del vuoto
+item.pod_engi:pulverized_iron=Ferro polverizzato
+item.pod_engi:pulverized_gold=Oro polverizzato
+item.pod_engi:pulverized_copper=Rame polverizzato
+item.pod_engi:oil_bucket=Secchio dell'olio
+tile.pod_engi:diesel_generator.name=Generatore diesel
+tile.pod_engi:water_mill.name=Mulino ad acqua
+tile.pod_engi:water_mill_collision.name=Mulino ad acqua
+tile.pod_engi:windmill_pillar.name=Pilastro del mulino a vento
+tile.pod_engi:windmill_base.name=Navicella del mulino a vento
+tile.pod_engi:water_turbine.name=Turbina ad acqua
+tile.pod_engi:pulverizer.name=Polverizzatore
+tile.pod_engi:dismantler.name=Smantellatore
+tile.pod_engi:electric_furnace.name=Forno elettrico
+tile.pod_engi:oil_refinery.name=Raffineria di petrolio
+tile.pod_engi:infuser.name=Infusore
+entity.pod_engi:dismantler.name=Smantellatore
+entity.pod_engi:water_wheel.name=Ruota dell'acqua
+entity.pod_engi:windmill_sail.name=Vela del mulino a vento
+state.pod_engi:oil.display=§p§lOil§r
+state.pod_engi:bone.display=§h§lBone§r
+state.pod_engi:egg.display=§h§lEgg§r
+pod_engi:workbench=Banco di lavoro
+pod_engi.guide.workbench.title=Banco di lavoro
+pod_engi.guide.workbench.body=Utilizzato per il crafting delle macchine.%1%1§lCrafting§r%1%1§0X X X§r%1§0X§r 1 1%1§0X§r 2 2%1%11 = lingotto di ferro%12 = assi%1%1Crafts 1 Workbench.
+pod_engi.guide.water_mill.title=Mulino ad acqua
+pod_engi.guide.water_mill.body=Un modo semplice ma affidabile per generare energia sfruttando il flusso naturale dell'acqua.%1Per far girare la ruota e generare energia è necessario che l'acqua scorra.%1%1§lCrafting§r%1%11 2 1%12 3 2%11 2 1%1%11 = Tavole%12 = Telaio robusto%13 = Ingranaggio in ferro%1%1Crafts 1 Mulino ad acqua.
+pod_engi.guide.water_turbine.title=Turbina ad acqua
+pod_engi.guide.water_turbine.body=Un generatore di energia più avanzato ed efficiente che prospera se immerso in acque profonde.%1La sua potenza si basa sulla quantità di acqua che lo circonda. Immergendolo in acque più profonde si ottiene una maggiore produzione di energia.%1Attenzione! I suoi componenti metallici sono soggetti a ruggine nel tempo a causa della continua esposizione all'acqua. Per evitare la perdita di energia, è necessario effettuare una manutenzione regolare con qualsiasi tipo di ascia.%1%1§lCrafting§r%1%11 2 1%11 3 1%11 4 1%1%11 = Blocco di metallo raffinato%12 = Pompa%13 = Ingranaggio di ferro%14 = Circuito logico%1%1Crafts 1 Turbina ad acqua.
+pod_engi.guide.windmill.title=Mulino a vento
+pod_engi.guide.windmill.body=Questo generatore converte l'energia del vento in energia elettrica.%1Il mulino a vento è costruito da due parti: il pilastro del mulino a vento e la navicella del mulino a vento.%1%1§lPilastro del mulino a vento§r%1Questo è il fondamento del mulino a vento. I pilastri devono essere impilati verticalmente, uno sopra l'altro, per costruire una torre del mulino a vento. L'altezza della torre influisce direttamente sulla quantità di vento che la navicella può catturare e sulla potenza generata. Il trasferimento di energia diventa inefficace oltre un'altezza di 15 blocchi, quindi fate attenzione quando impilate i pilastri.%1%1§lCrafting§r%1%11 2 1%13 4 3%11 2 1%1%11 = Blocco di metallo raffinato%12 = Tubo di rame per l'energia%13 = Filo di rame%14 = Circuito logico%1%1Crea 2 pilastri del mulino a vento.%1%1§lNacella del Mulino a Vento§r%1Posizionata in cima alla pila dei Pilastri del Mulino a Vento, la navicella è il generatore vero e proprio che converte l'energia del vento in energia utilizzabile.%1%1§lCrafting§r%1%11 2 2%11 3 2%14 4 4%1%11 = Tessuto%12 = Filo di Rame%13 = Circuito Logico%14 = Blocco di Metallo Raffinato%1%1Crea 1 Navicella del Mulino a Vento.
+pod_engi.guide.diesel_generator.title=Generatore diesel
+pod_engi.guide.diesel_generator.body=Un potente generatore che genera grandi quantità di energia bruciando petrolio raffinato.%1Il Generatore Diesel è ideale per le configurazioni che richiedono una potenza costante ed elevata, ma ha un costo di produzione e gestione del carburante.%1%1§lCrafting§r%1%11 2 1%13 4 3%15 6 5%1%11 = Ingranaggio di ferro%12 = Circuito logico%13 = Blocco di metallo raffinato%14 = Polvere di accensione%15 = Telaio robusto%16 = Calderone%1%1Crea 1 Generatore Diesel.
+pod_engi.guide.oil_refinery.title=Raffineria di petrolio
+pod_engi.guide.oil_refinery.body=Una macchina che utilizza l'energia per convertire il carbone e le ossa in olio raffinato, che può essere utilizzato in un generatore diesel.%1%1§lCrafting§r%1%11 2 1%11 3 1%14 4 4%1%11 = Tubo liquido di vetro%12 = Circuito logico%13 = Ingranaggio di ferro%14 = Blocco di metallo raffinato%1%1Crafts 1 Raffineria di petrolio.
+pod_engi.guide.void_machine.title=Macchina del vuoto
+pod_engi.guide.void_machine.body=Una macchina che utilizza l'energia per distruggere in modo permanente qualsiasi oggetto inserito in essa.%1Ha una piccola possibilità di concedere esperienza alla distruzione dell'oggetto.%1%1§lCrafting§r%1%11 2 1%12 3 2%14 4 4%1%11 = Circuito Logico%12 = Frutto del Coro Spuntato%13 = Ancora di Ripresa%14 = Blocco di Metallo Raffinato%1%1Crea 1 Macchina del Vuoto.
+pod_engi.guide.electric_furnace.title=Forno elettrico
+pod_engi.guide.electric_furnace.body=Una macchina che utilizza l'energia invece del combustibile per cuocere o fondere gli oggetti.%1%1§lCrafting§r%1%11 2 1%13 4 3%15 6 5%1%11 = Vetro%12 = Altoforno%13 = Filo di rame%14 = Polvere di accensione%15 = Blocco di metallo raffinato%16 = Circuito logico%1%1Crafts 1 Forno elettrico.
+pod_engi.guide.pulverizer.title=Polverizzatore
+pod_engi.guide.pulverizer.body=Macchina che utilizza l'energia per polverizzare minerali, pietre e altri oggetti o blocchi nella loro forma frantumata o in polvere.%1%1Pietra -> 1x Acciottolato%1Acciottolato -> 1x Ghiaia%1Pietrisco -> 1x Ghiaia%1Ghiaia -> 1x Selce%1Vetro -> 1x Sabbia%1Sabbia -> 2x Sabbia%1Sabbia rossa -> 2x Sabbia rossa%1Osso -> 6x Farina d'osso%1Bastone di fuoco -> 4x Polvere di fuoco%1Lucentezza -> 4x Polvere di pietra luminescente%1Magma -> 4x Crema di magma%1Cristallo di prismarine -> 4x Cristalli di Prismarino%1Minerale di Ferro -> 2x Ferro polverizzato%1Minerale di Ferro approfondito -> 2x Ferro polverizzato%1Minerale d'Oro -> 2x Oro polverizzato%1Minerale d'Oro approfondito -> 2x Oro polverizzato%1Minerale di rame -> 2x Rame polverizzato%1Minerale di rame approfondito -> 2x Rame polverizzato%1Minerale di carbone -> 2x Carbone%1Minerale di carbone approfondito -> 2x Coal%1Lapis Ore -> 6x Lapis Lazuli%1Deepslate Lapis Ore -> 6x Lapis Lazuli%1Redstone Ore -> 4x Redstone%1Deepslate Redstone Ore -> 4x Redstone%1Diamond Ore -> 2x Diamante%1Minerale di diamante approfondito -> 2x Diamante%1Minerale di smeraldo -> 2x Smeraldo%1Minerale di smeraldo approfondito -> 2x Smeraldo%1Detriti antichi -> 2x Rottami di Netherite%1Quarto minerale -> 3x Quarzo%1Ferro grezzo -> 1x Ferro polverizzato%1Oro grezzo -> 1x Oro polverizzato%1Rame grezzo -> 1x Rame polverizzato%1Canna di zucchero -> 2x Zucchero%1Bacchetta di vento -> 6x Carica del vento%1%1§lCrafting§r%1%11 2 1%13 4 3%12 2 2%1%11 = Filo di rame%12 = Blocco di metallo raffinato%13 = Ingranaggio di ferro%14 = Circuito logico%1%1Crea 1 Polverizzatore.
+pod_engi.guide.dismantler.title=Smantellatore
+pod_engi.guide.dismantler.body=Una macchina che utilizza l'energia per scomporre gli oggetti nei loro componenti originali.%1%1§lCrafting§r%1%11 2 1%13 4 3%15 5 5%1%11 = Vetro%12 = Circuito calibrato%13 = Ingranaggio di ferro%14 = Nucleo pesante%15 = Blocco di metallo raffinato%1%1Crafts 1 Dismanteller.
+pod_engi.guide.infuser.title=Infusore
+pod_engi.guide.infuser.body=Una macchina che utilizza essenza, uovo di gallina e un oggetto speciale per trasformare l'uovo di gallina in un uovo di mob spawn.%1%1Piuma -> Uovo di gallina%1Miele -> Uovo di ape%1Beef -> Uovo di mucca%1Porkchop -> Uovo di maiale%1Mutton -> Uovo di pecora%1Osso -> Uovo di lupo%1Ghiaccio -> Uovo di orso polare%1Uovo di gatto -> Uovo di ocelot%1Stringa -> Uovo di ocelot Polar Bear Spawn Egg%1Cat Spawn Egg -> Ocelot Spawn Egg%1Stringa -> Cat Spawn Egg%1Fungo rosso -> Mooshroom Spawn Egg%1Coal -> Bat Spawn Egg%1Charcoal -> Bat Spawn Egg%1Cookie -> Parrot Spawn Egg%1Rabbit -> Rabbit Spawn Egg%1Carpet -> Llama Spawn Egg%1Chest -> Donkey Spawn Egg%1Saddle -> Horse Spawn Egg%1Donkey Spawn Egg -> Mule Spawn Egg%1Skeleton Spawn Egg -> Skeleton Horse Spawn Egg%1Zombie Spawn Egg -> Zombie Horse Spawn Egg%1Tropical Fish -> Tropical Fish Spawn Egg%1Cod -> Cod Spawn Egg%1Pufferfish -> Pufferfish Spawn Egg%1Salmon -> Salmon Spawn Egg%1Dried Kelp Block -> Dolphin Spawn Egg%1Seagrass -> Turtle Spawn Egg%1Bamboo -> Panda Spawn Egg%1Sweet Berries -> Fox Spawn Egg%1Gunpowder -> Creeper Spawn Egg%1Ender Pearl -> Enderman Spawn Egg%1Mattoni di pietra -> Silverfish Spawn Egg%1Nether Brick -> Wither Skeleton Spawn Egg%1Bow -> Skeleton Spawn Egg%1Arrow -> Skeleton Spawn Egg%1Slime Ball -> Slime Spawn Egg%1Spider Eye -> Spider Spawn Egg%1Rotten Flesh -> Zombie Spawn Egg%1Piglin Spawn Egg -> Zombie Pigman Spawn Egg%1Turtle Egg -> Husk Spawn Egg%1Nautilus Shell -> Uovo di spawn annegato%1Sacco d'inchiostro -> Uovo di spawn di calamaro%1Sacco d'inchiostro luminoso -> Uovo di spawn di calamaro luminoso%1Uovo di spawn di ragno -> Uovo di spawn di ragno della caverna%1Pozione di schizzo -> Uovo di spawn di strega%1Taglio di prismarine -> Uovo del Guardiano%1Cristalli di prismarine -> Uovo del Guardiano Anziano%1Frutto del Coro -> Uovo dell'Endermite%1Crema di Magma -> Uovo del Cubo di Magma%1Fungo Spaccato -> Uovo dello Strider%1Neterrack -> Hoglin Spawn Egg%1Gugget d'oro -> Piglin Spawn Egg%1Hoglin Spawn Egg -> Zoglin Spawn Egg%1Golden Axe -> Piglin Brute Spawn Egg%1Goat Horn -> Goat Spawn Egg%1Glow Berries -> Axolotl Spawn Egg%1Echo Shard -> Warden Spawn Egg%1Diamond -> Allay Spawn Egg%1Froglight -> Frog Spawn Egg%1Frog Spawn -> Tadpole Spawn Egg%1Llama Spawn Egg -> Trader Llama Spawn Egg%1Cactus -> Camel Spawn Egg%1Ghast Tear -> Ghast Spawn Egg%1Blaze Rod -> Blaze Spawn Egg%1Shulker Shell -> Shulker Spawn Egg%1Iron Axe -> Vindicator Spawn Egg%1Witch Spawn Egg -> Evoker Spawn Egg%1Allay Spawn Egg -> Vex Spawn Egg%1Emerald -> Villager Spawn Egg%1Bundle -> Wandering Trader Spawn Egg%1Villager Spawn Egg -> Zombie Villager Spawn Egg%1Phantom Membrane -> Phantom Spawn Egg%1Crossbow -> Pillager Spawn Egg%1Pillager Spawn Egg -> Ravager Spawn Egg%1Iron Block -> Iron Golem Spawn Egg%1Carved Pumpkin -> Snow Golem Spawn Egg%1Torchflower -> Sniffer Spawn Egg%1Carica di vento -> Breeze Spawn Egg%1Armadillo Scute -> Armadillo Spawn Egg%1Radici di Mangrove -> Bogged Spawn Egg%1Creaking Heart -> Creaking Spawn Egg%1Nether Star -> Uovo di deposizione dell'appassimento%1Testa di drago -> Uovo di deposizione del drago%1%1§lCrafting§r%1%11 2 1%13 4 3%15 5 5%1%11 = Tubo di alimentazione in rame%12 = Circuito calibrato%13 = Filo di rame%14 = Polvere di accensione%15 = Blocco di metallo raffinato%1%1Crea 1 infusore.
+pod_engi.guide.essence_tank.title=Serbatoio dell'essenza
+pod_engi.guide.essence_tank.body=Immagazzina l'essenza.%1%1§lCrafting§r%1%11 2 1%13 4 3%15 6 5%1%11 = Blocco di rame nullo%12 = Vetro%13 = Tubo di liquido di vetro%14 = Calderone%15 = Blocco di metallo raffinato%16 = Telaio robusto%1%1Crea 1 serbatoio di essenza.
+pod_engi.guide.battery.title=Batteria di alimentazione
+pod_engi.guide.battery.body=Immagazzina energia.%1%1§lCrafting§r%1%11 1 1%12 3 2%14 4 4%1%11 = Blocco di rame%12 = Circuito calibrato%13 = Tubo di alimentazione in rame%14 = Blocco di metallo raffinato%1%1Crea 1 batteria di energia.
+pod_engi.guide.power_wavelength_calibrator.title=Calibratore di lunghezza d'onda di potenza
+pod_engi.guide.power_wavelength_calibrator.body=Calibra la lunghezza d'onda dell'energia con 6 diverse opzioni. Interagire per impostare la lunghezza d'onda desiderata.%1Si usa per calibrare il canale di potenza di una piattaforma di teletrasporto.%1%1§lCrafting§r%1%11 2 1%13 4 3%15 4 5%1%11 = Filo di rame%12 = Leva%13 = Circuito calibrato%14 = Blocco di metallo raffinato%15 = Blocco di rame%1%1Crea 1 calibratore di lunghezza d'onda di potenza.
+pod_engi.guide.essence_wavelength_calibrator.title=Calibratore di lunghezza d'onda Essence
+pod_engi.guide.essence_wavelength_calibrator.body=Calibra la lunghezza d'onda dell'essenza con 6 diverse opzioni. Interagire per impostare la lunghezza d'onda desiderata.%1Si usa per calibrare il canale dell'essenza di una piattaforma di teletrasporto.%1%1§lCrafting§r%1%11 2 1%13 4 3%15 6 5%1%11 = Filo di rame%12 = Vetro%13 = Circuito calibrato%14 = Leva%15 = Blocco di metallo raffinato%16 = Blocco di rame nullo%1%1Crea 1 calibratore di lunghezza d'onda dell'essenza.
+pod_engi.guide.teleportation_pad.title=Pad di teletrasporto
+pod_engi.guide.teleportation_pad.body=Teletrasporta i giocatori su un'altra piattaforma di teletrasporto con calibrazioni corrispondenti.%1%1Utilizza 3 tipi di calibrazione:%1§l§6Power§r - impostata usando il calibratore di lunghezza d'onda Power.%1§l§aEssence§r - impostata usando il calibratore di lunghezza d'onda Essence.%1§lMain§r - impostata interagendo direttamente con la piattaforma di teletrasporto.%1%1Posizionare i calibratori di lunghezza d'onda §6Power§r e §aEssence§r ai lati della piattaforma di teletrasporto. Calibrare ogni componente con la calibrazione desiderata.%1Stare su una piattaforma di teletrasporto vi teletrasporterà su un'altra piattaforma con la stessa calibrazione.%1%1§lCrafting§r%1%1§0X§r 1 §0X§r%12 3 2%14 4 4%1%11 = Perla Ender%12 = Filo di rame%13 = Circuito calibrato%14 = Blocco di metallo raffinato%1%1Crea 1 piattaforma di teletrasporto.
+pod_engi.guide.item_pipe_filter.title=Voce Filtro per tubi
+pod_engi.guide.item_pipe_filter.body=Un tubo che permette di far passare solo un oggetto specifico.%1Interagisci per inserire l'oggetto che vuoi filtrare.%1%1§lCrafting§r%1%11 1 1%12 3 2%11 1 1%1%11 = Lingotto di ferro%12 = Polvere di pietra rossa%13 = Leva%1%1Crafts 1 Item Pipe Filter.
+pod_engi.guide.power_pipe_filter.title=Filtro per tubi di alimentazione
+pod_engi.guide.power_pipe_filter.body=Un tubo che limita il flusso di energia.%1Interagisce per scorrere i livelli di resistenza: 2, 6 o 15 unità al secondo.%1%1§lCrafting§r%1%11 1 1%12 3 2%11 1 1%1%11 = Lingotto di rame%12 = Polvere di pietra rossa%13 = Leva%1%1Crea 1 Filtro del tubo di alimentazione.
+pod_engi.guide.liquid_pipe_filter.title=Filtro per tubi liquidi
+pod_engi.guide.liquid_pipe_filter.body=Un tubo che limita il flusso di liquido.%1Interagisce per passare attraverso i livelli di resistenza: 5, 10 o 25 mB al secondo.%1%1§lCrafting§r%1%11 1 1%12 3 2%11 1 1%1%11 = Vetro%12 = Polvere di Redstone%13 = Leva%1%1Crafts 1 Filtro tubo liquido.
+pod_engi.guide.oil_bucket.title=Secchio dell'olio
+pod_engi.guide.oil_bucket.body=Un secchio pieno di olio lavorato.%1Ottenibile dalla raffineria di petrolio. Il petrolio può essere utilizzato nel generatore diesel per produrre energia.
+pod_engi.guide.experience_bucket.title=Secchio d'incanto
+pod_engi.guide.experience_bucket.body=Un secchio pieno di essenza.%1Ottenibile dal Mob Muncher. L'essenza può essere utilizzata nel Calibratore di lunghezza d'onda dell'essenza, nel Calibratore del parafulmine, nell'Infusore o conservata in un serbatoio di essenza. Può anche essere bevuta per guadagnare esperienza.
+pod_engi.guide.truss_platform.title=Piattaforma a traliccio
+pod_engi.guide.truss_platform.body=Una variante della piattaforma del Traliccio può essere realizzata in modo simile alle lastre. Può essere usata come decorazione.%1%1§lCrafting§r%1%1§0X X X§r%11 1 1%1§0X X§r%1%11 = Truss%1%1Crafts 6 Truss Platform.
+pod_engi.guide.pulverized_iron.title=Ferro polverizzato
+pod_engi.guide.pulverized_iron.body=Prodotto della polverizzazione del minerale di ferro. Può essere fuso in lingotti di ferro.
+pod_engi.guide.pulverized_gold.title=Oro polverizzato
+pod_engi.guide.pulverized_gold.body=Prodotto della polverizzazione del minerale d'oro. Può essere fuso in lingotti d'oro.
+pod_engi.guide.pulverized_copper.title=Rame polverizzato
+pod_engi.guide.pulverized_copper.body=Prodotto della polverizzazione del minerale di rame. Può essere fuso in lingotti di rame.
+pod_engi.alert.water_wheel.place=[§c!§r] Non c'è abbastanza spazio per inserirlo qui.
+pod_engi.alert.water_wheel.rotate=[§c!§r] Non è stato possibile ruotare la macchina, non c'era abbastanza spazio!
+pod_engi:items=Articoli
+pod_engi:resources=Risorse

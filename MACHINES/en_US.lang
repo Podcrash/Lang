@@ -1,0 +1,249 @@
+pack.name=Machines
+pack.description=Add-On by Podcrash
+tile.pod_engi:copper_pipe.name=Copper Power Pipe
+tile.pod_engi:glass_pipe.name=Glass Liquid Pipe
+tile.pod_engi:iron_pipe.name=Iron Item Pipe
+tile.pod_engi:obsidian_pipe.name=Obsidified Pipe
+tile.pod_engi:item_pipe_filter.name=Item Pipe Filter
+tile.pod_engi:liquid_pipe_filter.name=Liquid Pipe Filter
+tile.pod_engi:power_pipe_filter.name=Power Pipe Filter
+tile.pod_engi:power_calibrator.name=Power Wavelength Calibrator
+tile.pod_engi:essence_calibrator.name=Essence Wavelength Calibrator
+tile.pod_engi:teleportation_pad.name=Teleportation Pad
+tile.pod_engi:power_storage.name=Power Battery
+item.pod_engi:power_storage=Power Battery
+item.pod_engi:wrench=Pipe Wrench
+item.pod_engi:chunk_book=Chunk Book
+item.pod_engi:guide_book=Machines Guide Book
+item.pod_engi:iron_gear=Iron Gear
+item.pod_engi:refined_metal=Refined Metal Ingot
+item.pod_engi:refined_metal_clump=Iron and Coal Clump
+item.pod_engi:copper_wire=Copper Wire
+item.pod_engi:logic_circuit=Logic Circuit
+item.pod_engi:calibrated_circuit=Calibrated Circuit
+item.pod_engi:null_copper=Null Copper Ingot
+item.pod_engi:raw_null_copper=Raw Null Copper
+item.pod_engi:experience_bucket=Bucket o' Enchanting
+item.pod_engi:fabric=Fabric
+item.pod_engi:hardhat=Hard-hat
+item.pod_engi:ignition_powder=Ignition Powder
+item.pod_engi:gust_pack=Gust Pack
+tile.pod_engi:steam_engine.name=Steam Engine
+tile.pod_engi:thermal_generator.name=Thermal Generator
+tile.pod_engi:solar_engine.name=Solar Engine
+tile.pod_engi:bio_reactor.name=Bio-reactor
+tile.pod_engi:creative_engine.name=§dCreative Engine
+tile.pod_engi:pump.name=Pump
+tile.pod_engi:guster.name=Guster
+tile.pod_engi:drill.name=Drill Controller
+tile.pod_engi:extruder.name=Wire Extruder
+tile.pod_engi:stamper.name=Gear Stamper
+tile.pod_engi:chest_extractor.name=Item Extractor
+tile.pod_engi:chest_depositor.name=Item Depositor
+tile.pod_engi:exactor.name=Mob Muncher
+tile.pod_engi:lightning_calibrator.name=Lightning Rod Calibrator
+tile.pod_engi:debug_input.name=Debug Input
+tile.pod_engi:sturdy_frame.name=Sturdy Frame
+tile.pod_engi:null_copper_block.name=Null Copper Block
+tile.pod_engi:refined_metal_block.name=Refined Metal Block
+tile.pod_engi:structure_support.name=Truss
+tile.pod_engi:truss_platform.name=Truss Platform
+port.pod_engi:copper_pipe=§6Power
+port.pod_engi:glass_pipe=§bLiquid
+port.pod_engi:iron_pipe=§7Item
+port.unrestricted=§5Unrestricted
+port.input=§7[§9§lIN§r§7]§r
+port.output=§7[§c§lOUT§r§7]§r
+port.both=§7[§l§9IN§cOUT§r§7]§r
+port.pipe_interact.false=§aEnable %1
+port.pipe_interact.true=§cDisable %1
+port.no_information=§cNo port on this face
+port.pipe_equipped=§7§oLook at machine or pipe to use
+gust_pack.land=§e§lPLEASE LAND
+gust_pack.out=§cCharges depleted
+gust_pack.brace=§c§lBRACE FOR IMPACT
+gust_pack.1_remaining=§eLast charge
+state.pod_engi:coal.display=§8§lCoal§r
+state.pod_engi:bio_fuel.display=§2§lBio Fuel§r
+state.pod_engi:essence.display=§a§lEssence§r
+state.pod_engi:water.display=§9§lWater§r
+state.pod_engi:lava.display=§6§lLava§r
+state.pod_engi:power.display=§c§lPower§r
+state.pod_engi:ladder.display=§e§lLadders§r
+pod_engi:generators=Generators
+pod_engi:machines=Machines
+pod_engi:connectors=Connectors
+pod_engi.guide.back_button=Back
+pod_engi.guide.exit_button=Exit
+pod_engi.guide.main.title=Machines Add-On
+pod_engi.guide.main.body=§o§7by Podcrash§r%1%1Welcome to the Machines Add-On, which adds a bunch of new machines, items, and blocks to your game!%1%1This book will introduce you to all the machines, items, and crafting recipes this Add-On adds to the game. If you ever lose this book, you can simply craft it again with a book and a piece of §mredstone§r.%1%1For more detailed information, check out §3§ohttps://pdcr.sh/machines§r%1%1Reach out to §3§ohelp.podcrash.com§r if you've found an issue!
+pod_engi.guide.how_to_machines.title=How to Interact with Machines
+pod_engi.guide.how_to_machines.body=There are 3 types of ports to be aware of when connecting pipes to machines:%1%1§l§bLiquid ports§r%1These ports are used to transfer liquid in/out of a machine using Glass Pipes.%1%1§l§6Power ports§r%1These ports are used to power machines with Copper Pipes.%1%1§l§7Item ports§r%1These ports are used to transfer items in/out of machines with Iron Pipes.%1%1Generally, an input port will be coloured §9blue§r and an output port will be coloured §cred§r.%1%1Some machines can be interacted with to see more information about their internal states. %1%1The Steam Engine, for example, can be interacted with to see how much coal, water, and power is stored inside.%1%1Pipes will be oriented depending on which block you placed them against. They'll almost always automatically make the connections you want, but if they don't, simply use a wrench on the side of a pipe you want to change, and it will split off in that direction. You can remove a pipe connection by interacting again.
+pod_engi.guide.generators.title=Generators
+pod_engi.guide.generators.body=These machines will produce power for you, typically by converting other resources into it.
+pod_engi.guide.steam_engine.title=Steam Engine
+pod_engi.guide.steam_engine.body=The most basic generator you can make, and an important priority for the early game. It only works with a steady supply of coal and water, so make sure to connect it to a pump as well. To help the generator get started once it's connected to the pump, you'll have to interact with it with a bucket of water. After that, the generator will power the pump and supply water to itself!%1%1§lCrafting§r%1%11 2 1%12 3 2%11 4 1%1%11 = Sturdy Frame%12 = Redstone Dust%13 = Blast Furnace%14 = Block of Copper%1%1Crafts 1 Steam Engine.
+pod_engi.guide.bio_reactor.title=Bio-reactor
+pod_engi.guide.bio_reactor.body=A very flexible generator, which will give different amounts of power depending on what kind of bio-fuel you put into it.%1%1§lCrafting§r%1%11 2 1%13 4 3%15 6 5%1%11 = Copper Wire%12 = Composter%13 = Logic Circuit%14 = Smoker%15 = Sturdy Frame%16 = Iron Gear%1%1Crafts 1 Bio-reactor.
+pod_engi.guide.thermal_generator.title=Thermal Generator
+pod_engi.guide.thermal_generator.body=An upgrade from the steam engine which not only gives more power, but will be useful in places where water is hard to come by, like the Nether!%1%1§lCrafting§r%1%11 2 1%13 4 3%15 6 5%1%11 = Iron Gear%12 = Logic Circuit%13 = Steam Engine%14 = Ignition Powder%15 = Sturdy Frame%16 = Cauldron%1%1Crafts 1 Thermal Generator.
+pod_engi.guide.solar_engine.title=Solar Engine
+pod_engi.guide.solar_engine.body=A late game generator that will work anytime there is sunlight, freely supplying power with no extra input on your part! It's hard to craft, but is worth the effort!%1%1§lCrafting§r%1%1§0X X X§r%11 2 1%13 4 3%1%11 = Refined Metal Ingot%12 = Daylight Detector%13 = Null Copper Block%14 = Calibrated Circuit%1%1Crafts 1 Solar Engine.
+pod_engi.guide.machines.title=Machines
+pod_engi.guide.machines.body=There are many different machines to create in this Add-On. %1%1Some machines will allow you to produce new resources, others offer utility, and some are just for fun!
+pod_engi.guide.gear_stamper.title=Gear Stamper
+pod_engi.guide.gear_stamper.body=A simple machine that takes an input of iron ingots and power and stamps them into iron gears, an important resource for later recipes.%1%1§lCrafting§r%1%11 2 1%13 4 3%11 5 1%1%11 = Sturdy Frame%12 = Piston%13 = Refined Metal Ingot%14 = Refined Metal Block%15 = Copper Ingot%1%1Crafts 1 Gear Stamper.
+pod_engi.guide.wire_extruder.title=Wire Extruder
+pod_engi.guide.wire_extruder.body=A simple machine that takes an input of copper ingots and power and outputs copper wire, a useful resource for later recipes.%1%1§lCrafting§r%1%11 2 1%12 3 2%11 2 1%1%11 = Sturdy Frame%12 = Iron Gear%13 = Loom%1%1Crafts 1 Wire Extruder.
+pod_engi.guide.item_depositor.title=Item Depositor
+pod_engi.guide.item_depositor.body=A basic device, which grabs the top of a storage container that it's placed on top of and deposits whatever items are coming to it from an Iron Item Pipe into the container.%1%1§lCrafting§r%1%11 2 1%13 4 3%11 2 1%1%11 = Refined Metal Ingot%12 = Iron Item Pipe%13 = Redstone Dust%14 = Dropper%1%1Crafts 1 Item Depositor.
+pod_engi.guide.item_extractor.title=Item Extractor
+pod_engi.guide.item_extractor.body=A basic device, with grabs hold of a storage container and sends what items are inside through connected Iron Item Pipes. The extractor will only take what is needed, so don't worry about misplacing your treasured pickaxe in your fuel chest and watching it burn!%1%1If it's connected to an Item Depositor, it'll move everything from the connected container to the depositor, in case you want to move loads of items passively and create a storage system!%1%1§lCrafting§r%1%11 2 1%13 4 3%11 2 1%1%11 = Refined Metal Ingot%12 = Iron Item Pipe%13 = Copper Ingot%14 = Hopper%1%1Crafts 1 Item Extractor.
+pod_engi.guide.pump.title=Pump
+pod_engi.guide.pump.body=Place it above water or lava and supply it with power, and the pump will supply any machines that need it!%1%1§lCrafting§r%1%1§0X§r 1 §0X§r%12 3 2%14 5 4%1%11 = Iron Item Pipe%12 = Copper Ingot%13 = Glass%14 = Refined Metal Block%15 = Sturdy Frame%1%1Crafts 1 Pump.
+pod_engi.guide.guster.title=Guster
+pod_engi.guide.guster.body=The most flexible and fun device a new machinist can make. When supplied with power, the Guster will launch whatever is in front of it with immense force. You can launch yourself, mobs, and even projectiles such as lit TNT to create a long-range cannon! There's lots of great uses for this, so get creative!%1%1There's a small charge time, depending on the amount of power you supply the Guster with. More power means it'll activate more often! Additionally, you can stack multiple Gusters on top of or in front of each other to massively increase their propelling force!%1%1§lCrafting§r%1%11 2 1%13 4 3%11 5 1%1%11 = Sturdy Frame%12 = Ignition Powder%13 = Iron Gear%14 = Breeze Rod%15 = Logic Circuit%1%1Crafts 1 Guster.
+pod_engi.guide.drill_controller.title=Drill Controller
+pod_engi.guide.drill_controller.body=A machine that, when set down next to a frame of Truss blocks, will power a quarry and dig out the blocks in the frame, outputting them to the side of the controller.%1%1To make a quarry, create a complete square (with the corners filled in!) of Truss blocks outlining the area you want to dig out. The maximum boundaries are 12x12 blocks. The Drill Controller should be placed with it's back touching one of the Truss blocks in the outline, and power supplied to it's input. The quarry will then drill out all the blocks down to bedrock, and output those items for you!%1%1§lCrafting§r%1%1§0X§r 1 §0X§r%12 3 2%14 5 4%1%11 = Lever%12 = Calibrated Circuit%13 = Item Extractor%14 = Refined Metal Block%15 = Lectern%1%1Crafts 1 Drill Controller.
+pod_engi.guide.mob_muncher.title=Mob Muncher
+pod_engi.guide.mob_muncher.body=A dangerous looking machine that harnesses the power of sculk to "munch" nearby mobs, collecting their drops and experience, or "essence". You'll need to supply it with a lot of power, but in return you'll have a way to passively grind mobs!%1You can also connect a glass liquid pipe to it and move the essence to the lightning rod calibrator.%1%1§lCrafting§r%1%11 2 1%11 3 1%14 5 4%1%11 = Null Copper Ingot%12 = Sculk Sensor%13 = Calibrated Circuit%14 = Sturdy Frame%15 = Sculk Catalyst%1%1Crafts 1 Mob Muncher.
+pod_engi.guide.lightning_rod_calibrator.title=Lightning Rod Calibrator
+pod_engi.guide.lightning_rod_calibrator.body=Forces the weather to become a thunderstorm! As long as the machine is steadily supplied essence from the Mob Muncher, it'll maintain the thunderstorm.%1A lightning rod must be placed on top of the Lightning Rod Calibrator in order for it to work.%1%1§lCrafting§r%1%11 2 1%13 4 3%15 6 5%1%11 = Null Copper Ingot%12 = Refined Metal Block%13 = Copper Wire%14 = Calibrated Circuit%15 = Glass%16 = Sturdy Frame%1%1Crafts 1 Lightning Rod Calibrator.
+pod_engi.guide.connectors.title=Connectors
+pod_engi.guide.connectors.body=Connectors allow you to connect different machines to each-other, creating production lines!
+pod_engi.guide.iron_item_pipe.title=Iron Item Pipe
+pod_engi.guide.iron_item_pipe.body=A pipe that connects machines and transports items where they're needed.%1%1§lCrafting§r%1%11 1 1%1§0X X X§r%11 1 1%1%11 = Iron Ingot%1%1Crafts 12 Iron Item Pipe.
+pod_engi.guide.copper_power_pipe.title=Copper Power Pipe
+pod_engi.guide.copper_power_pipe.body=A pipe that allows you to take power from your generators and move it to the machines that need it.%1%1§lCrafting§r%1%11 1 1%1§0X X X§r%11 1 1%1%11 = Copper Ingot%1%1Crafts 12 Coper Power Pipe.
+pod_engi.guide.glass_liquid_pipe.title=Glass Liquid Pipe
+pod_engi.guide.glass_liquid_pipe.body=A pipe that lets you move water, magma, and essence around to different machines.%1%1§lCrafting§r%1%11 1 1%1§0X X X§r%11 1 1%1%11 = Glass%1%1Crafts 12 Glass Liquid Pipe.
+pod_engi.guide.items.title=Items
+pod_engi.guide.items.body=Important tools and equipment for any machinist to use.
+pod_engi.guide.wrench.title=Wrench
+pod_engi.guide.wrench.body=The most important tool for a practicing machinist, it allows you to manipulate pipe connections to your machines!%1%1You can also use it to identify the type of port you're dealing with by looking at it.%1%1§lCrafting§r%1%1§0X§r 1 §0X§r%1§0X§r 2 §0X§r%1§0X§r 2 §0X§r%1%11 = Iron Ingot%12 = Copper Ingot%1%1Crafts 1 Wrench.
+pod_engi.guide.gust_pack.title=Gust Pack
+pod_engi.guide.gust_pack.body=Launches you high into the air, but without any safety features to prevent fall damage, so be careful! %1%1It's best used to launch yourself up to high places or out of deep water. You can even prevent taking lethal fall damage by using it just before you hit the ground!%1%1To use the Gust Pack, you have to jump while sneaking or falling. You can only use it a few times before needing to land. Using it multiple times in a row will cause it to degrade faster.%1%1§lCrafting§r%1%11 2 1%13 4 3%15 §0X§r 5%1%11 = Copper Wire%12 = Calibrated Circuit%13 = Ignition Powder%14 = Iron Leggings%15 = Guster%1%1Crafts 1 Gust Pack.
+pod_engi.guide.hard_hat.title=Hard-Hat
+pod_engi.guide.hard_hat.body=A piece of armour to show you're a machinist! Gives some moderate protection as well.%1%1§lCrafting§r%1%1§0X X X§r%11 1 1%12 §0X§r 2%1%11 = Refined Metal Ingot%12 = Fabric%1%1Crafts 1 Hard-hat.
+pod_engi.guide.resources.title=Resources
+pod_engi.guide.resources.body=A list of all the new kinds of resources you'll be making and using in this Add-On!
+pod_engi.guide.iron_coal_clump.title=Iron and Coal Clump
+pod_engi.guide.iron_coal_clump.body=A messy combination of Raw Iron and Coal, ready to be refined into Refined Metal by smelting in a furnace.%1%1§lCrafting§r%1%1Combine the following items in any shape:%1%13x Coal%11x Iron Ingot%1%1Crafts 1 Iron and Coal Clump.
+pod_engi.guide.refined_metal.title=Refined Metal
+pod_engi.guide.refined_metal.body=An ingot that is important for crafting most of the items that a machinist can make, created by smelting an Iron and Coal Clump.
+pod_engi.guide.refined_metal_block.title=Refined Metal Block
+pod_engi.guide.refined_metal_block.body=9 Refined Metal combined into a single block for decoration or crafting.%1%1§lCrafting§r%1%11 1 1%11 1 1%11 1 1%1%11 = Iron Ingot%1%1Crafts 1 Refined Metal Block.
+pod_engi.guide.raw_null_copper.title=Raw Null Copper
+pod_engi.guide.raw_null_copper.body=An unstable fusion of Ender Pearls and Copper, which must be stabilized by heat in a furnace in order to create Null Copper Ingot.%1%1§lCrafting§r%1%1Combine the following items in any shape:%1%13x Ender Pearl%11x Raw Copper%1%1Crafts 1 Raw Null Copper.
+pod_engi.guide.null_copper.title=Null Copper Ingot
+pod_engi.guide.null_copper.body=An otherworldly ingot required for some of the most advanced machines a machinist can make.%1Created by smelting Raw Null Copper.
+pod_engi.guide.null_copper_block.title=Null Copper Block
+pod_engi.guide.null_copper_block.body=9 Null Copper Ingots combined into a single block for decoration or crafting.%1%1§lCrafting§r%1%11 1 1%11 1 1%11 1 1%1%11 = Null Copper Ingot%1%1Crafts 1 Null Copper Block.
+pod_engi.guide.fabric.title=Fabric
+pod_engi.guide.fabric.body=Woven from string and used for the Hard-Hat!%1%1§lCrafting§r%1%11 1 §0X§r%11 1 §0X§r%11 1 §0X§r%1%11 = String%1%1Crafts 3 Fabric.
+pod_engi.guide.truss.title=Truss
+pod_engi.guide.truss.body=Metal scaffolding, which can be used for decoration or, most importantly, to create your own quarry with the Drill Controller.%1%1A platform variant of the Truss can be crafted in a similar manner to slabs.%1%1§lCrafting§r%1%11 2 1%12 §0X§r 2%11 2 1%1%11 = Refined Metal Ingot%12 = Stick%1%1Crafts 16 Truss.
+pod_engi.guide.sturdy_frame.title=Sturdy Frame
+pod_engi.guide.sturdy_frame.body=Refined Metal combined with wood into a strong frame. An important block used in crafting most machines.%1%1§lCrafting§r%1%11 2 1%12 §0X§r 2%11 2 1%1%11 = Refined Metal Ingot%12 = Planks%1%1Crafts 1 Sturdy Frame.
+pod_engi.guide.ignition_powder.title=Ignition Powder
+pod_engi.guide.ignition_powder.body=An extremely dangerous combination of gunpowder, wind charges, and blaze powder. A required reagent in propulsion machines, like the Guster.%1%1§lCrafting§r%1%11 2 3%11 2 3%11 2 3%1%11 = Blaze Powder%12 = Gunpowder%13 = Wind Charge%1%1Crafts 1 Ignition Powder.
+pod_engi.guide.logic_circuit.title=Logic Circuit
+pod_engi.guide.logic_circuit.body=A delicately hand-made circuit, used in crafting machines with some complexity.%1%1§lCrafting§r%1%11 2 3%12 4 §0X§r%11 3 §0X§r%1%11 = Refined Metal Ingot%12 = Redstone Dust%13 = Copper Wire%14 = Nether Quartz%1%1Crafts 1 Logic Circuit.
+pod_engi.guide.calibrated_circuit.title=Calibrated Circuit
+pod_engi.guide.calibrated_circuit.body=An upgrade to the Logic Circuit used in the most complicated machines.%1%1§lCrafting§r%1%11 2 3%12 4 §0X§r%11 3 §0X§r%1%11 = Null Copper Ingot%12 = Amethyst Shard%13 = Gold Ingot%14 = Logic Circuit%1%1Crafts 1 Calibrated Circuit.
+pod_engi.guide.copper_wire.title=Copper Wire
+pod_engi.guide.copper_wire.body=A crafting ingredient created by the Wire Extruder.%1%1§lIngredients§r %11x Copper
+pod_engi.guide.iron_gear.title=Iron Gear
+pod_engi.guide.iron_gear.body=A crafting ingredient created by the Gear Stamper.%1%1§lIngredients§r %11x Iron
+pod_engi.guide.settings.title=Settings
+pod_engi.guide.settings.warning=Warning
+pod_engi.guide.question.cancel=Cancel
+pod_engi.guide.question.ok=Okay
+pod_engi.guide.settings.performance_profile=Machine Performance Profile
+pod_engi.guide.settings.performance_profile.low=Low
+pod_engi.guide.settings.performance_profile.medium=Medium
+pod_engi.guide.settings.performance_profile.high=High
+pod_engi.guide.settings.performance_profile.extreme=Extreme
+pod_engi.guide.settings.performance_profile.warning=The performance profile determines how certain functionality in the addon works. For example, the performance profile determines how long a pipe between two machines can be.
+pod_engi.guide.settings.performance_profile.warning_xbox=%1%1§a§lSome consoles§r are known to crash under certain conditions with High or Extreme profiles selected.
+tile.pod_engi:essence_tank.name=Essence Tank
+item.pod_engi:essence_tank=Essence Tank
+item.pod_engi:water_mill=Water Mill
+tile.pod_engi:workbench.name=Workbench
+tile.pod_engi:void_machine.name=Void Machine
+item.pod_engi:pulverized_iron=Pulverized Iron
+item.pod_engi:pulverized_gold=Pulverized Gold
+item.pod_engi:pulverized_copper=Pulverized Copper
+item.pod_engi:oil_bucket=Oil Bucket
+tile.pod_engi:diesel_generator.name=Diesel Generator
+tile.pod_engi:water_mill.name=Water Mill
+tile.pod_engi:water_mill_collision.name=Water Mill
+tile.pod_engi:windmill_pillar.name=Windmill Pillar
+tile.pod_engi:windmill_base.name=Windmill Nacelle
+tile.pod_engi:water_turbine.name=Water Turbine
+tile.pod_engi:pulverizer.name=Pulverizer
+tile.pod_engi:dismantler.name=Dismantler
+tile.pod_engi:electric_furnace.name=Electric Furnace
+tile.pod_engi:oil_refinery.name=Oil Refinery
+tile.pod_engi:infuser.name=Infuser
+entity.pod_engi:dismantler.name=Dismantler
+entity.pod_engi:water_wheel.name=Water Wheel
+entity.pod_engi:windmill_sail.name=Windmill Sail
+state.pod_engi:oil.display=§p§lOil§r
+state.pod_engi:bone.display=§h§lBone§r
+state.pod_engi:egg.display=§h§lEgg§r
+pod_engi:workbench=Workbench
+pod_engi.guide.workbench.title=Workbench
+pod_engi.guide.workbench.body=Used for machines crafting.%1%1§lCrafting§r%1%1§0X X X§r%1§0X§r 1 1%1§0X§r 2 2%1%11 = Iron Ingot%12 = Planks%1%1Crafts 1 Workbench.
+pod_engi.guide.water_mill.title=Water Mill
+pod_engi.guide.water_mill.body=A simple yet reliable way to generate power using the natural flow of water.%1Requires flowing water for the wheel to turn and generate power.%1%1§lCrafting§r%1%11 2 1%12 3 2%11 2 1%1%11 = Planks%12 = Sturdy Frame%13 = Iron Gear%1%1Crafts 1 Water Mill.
+pod_engi.guide.water_turbine.title=Water Turbine
+pod_engi.guide.water_turbine.body=A more advanced and efficient power generator that thrives when submerged in deep water.%1Its output is based on the quantity of water surrounding it. Submerging it in deeper water will result in greater power generation.%1Be careful! Its metal components are prone to rust over time due to continuous water exposure. To prevent power generation loss, maintain it regularly using any type of axe.%1%1§lCrafting§r%1%11 2 1%11 3 1%11 4 1%1%11 = Refined Metal Block%12 = Pump%13 = Iron Gear%14 = Logic Circuit%1%1Crafts 1 Water Turbine.
+pod_engi.guide.windmill.title=Windmill
+pod_engi.guide.windmill.body=This generator is converting wind energy into power.%1The Windmill is built from two parts: the Windmill Pillar and the Windmill Nacelle.%1%1§lWindmill Pillar§r%1This is the foundation of the Windmill. Pillars must be stacked vertically, one on top of another, to build a windmill tower. The height of the tower directly impacts how much wind the nacelle can capture and how much power it generates. Power transfer becomes ineffective beyond a height of 15 blocks, so be mindful when stacking pillars.%1%1§lCrafting§r%1%11 2 1%13 4 3%11 2 1%1%11 = Refined Metal Block%12 = Copper Power Pipe%13 = Copper Wire%14 = Logic Circuit%1%1Crafts 2 Windmill Pillars.%1%1§lWindmill Nacelle§r%1Placed at the very top of the Windmill Pillar stack, the nacelle is the actual generator that converts wind energy into usable power.%1%1§lCrafting§r%1%11 2 2%11 3 2%14 4 4%1%11 = Fabric%12 = Copper Wire%13 = Logic Circuit%14 = Refined Metal Block%1%1Crafts 1 Windmill Nacelle.
+pod_engi.guide.diesel_generator.title=Diesel Generator
+pod_engi.guide.diesel_generator.body=A powerful generator that generates large amounts of power by burning refined oil.%1The Diesel Generator is ideal for setups that demand consistent and high-output power, but it comes at the cost of fuel production and management.%1%1§lCrafting§r%1%11 2 1%13 4 3%15 6 5%1%11 = Iron Gear%12 = Logic Circuit%13 = Refined Metal Block%14 = Ignition Powder%15 = Sturdy Frame%16 = Cauldron%1%1Crafts 1 Diesel Generator.
+pod_engi.guide.oil_refinery.title=Oil Refinery
+pod_engi.guide.oil_refinery.body=A machine that uses power to convert coal and bones into refined oil, which can be used in a Diesel Generator.%1%1§lCrafting§r%1%11 2 1%11 3 1%14 4 4%1%11 = Glass Liquid Pipe%12 = Logic Circuit%13 = Iron Gear%14 = Refined Metal Block%1%1Crafts 1 Oil Refinery.
+pod_engi.guide.void_machine.title=Void Machine
+pod_engi.guide.void_machine.body=A machine that uses power to permanently destroy any item inserted into it.%1Has a small chance to grant experience upon item destruction.%1%1§lCrafting§r%1%11 2 1%12 3 2%14 4 4%1%11 = Logic Circuit%12 = Popped Chorus Fruit%13 = Respawn Anchor%14 = Refined Metal Block%1%1Crafts 1 Void Machine.
+pod_engi.guide.electric_furnace.title=Electric Furnace
+pod_engi.guide.electric_furnace.body=A machine that uses power instead of fuel to cook or smelt items.%1%1§lCrafting§r%1%11 2 1%13 4 3%15 6 5%1%11 = Glass%12 = Blast Furnace%13 = Copper Wire%14 = Ignition Powder%15 = Refined Metal Block%16 = Logic Circuit%1%1Crafts 1 Electric Furnace.
+pod_engi.guide.pulverizer.title=Pulverizer
+pod_engi.guide.pulverizer.body=A machine that uses power to pulverize ores, stone, and other items or blocks into their crushed or powdered forms.%1%1Stone -> 1x Cobblestone%1Cobblestone -> 1x Gravel%1Netherrack -> 1x Gravel%1Gravel -> 1x Flint%1Glass -> 1x Sand%1Sandstone -> 2x Sand%1Red Sandstone -> 2x Red Sand%1Bone -> 6x Bone Meal%1Blaze Rod -> 4x Blaze Powder%1Glowstone -> 4x Glowstone Dust%1Magma -> 4x Magma Cream%1Prismarine Shard -> 4x Prismarine Crystals%1Iron Ore -> 2x Pulverized Iron%1Deepslate Iron Ore -> 2x Pulverized Iron%1Gold Ore -> 2x Pulverized Gold%1Deepslate Gold Ore -> 2x Pulverized Gold%1Copper Ore -> 2x Pulverized Copper%1Deepslate Copper Ore -> 2x Pulverized Copper%1Coal Ore -> 2x Coal%1Deepslate Coal Ore -> 2x Coal%1Lapis Ore -> 6x Lapis Lazuli%1Deepslate Lapis Ore -> 6x Lapis Lazuli%1Redstone Ore -> 4x Redstone%1Deepslate Redstone Ore -> 4x Redstone%1Diamond Ore -> 2x Diamond%1Deepslate Diamond Ore -> 2x Diamond%1Emerald Ore -> 2x Emerald%1Deepslate Emerald Ore -> 2x Emerald%1Ancient Debris -> 2x Netherite Scrap%1Quartz Ore -> 3x Quartz%1Raw Iron -> 1x Pulverized Iron%1Raw Gold -> 1x Pulverized Gold%1Raw Copper -> 1x Pulverized Copper%1Sugar Cane -> 2x Sugar%1Breeze Rod -> 6x Wind Charge%1%1§lCrafting§r%1%11 2 1%13 4 3%12 2 2%1%11 = Copper Wire%12 = Refined Metal Block%13 = Iron Gear%14 = Logic Circuit%1%1Crafts 1 Pulverizer.
+pod_engi.guide.dismantler.title=Dismantler
+pod_engi.guide.dismantler.body=A machine that uses power to break down items into their original crafting components.%1%1§lCrafting§r%1%11 2 1%13 4 3%15 5 5%1%11 = Glass%12 = Calibrated Circuit%13 = Iron Gear%14 = Heavy Core%15 = Refined Metal Block%1%1Crafts 1 Dismantler.
+pod_engi.guide.infuser.title=Infuser
+pod_engi.guide.infuser.body=A machine that uses essence, chicken egg, and a special item to transform the egg egg into a mob spawn egg.%1%1Feather -> Chicken Spawn Egg%1Honeycomb -> Bee Spawn Egg%1Beef -> Cow Spawn Egg%1Porkchop -> Pig Spawn Egg%1Mutton -> Sheep Spawn Egg%1Bone -> Wolf Spawn Egg%1Ice -> Polar Bear Spawn Egg%1Cat Spawn Egg -> Ocelot Spawn Egg%1String -> Cat Spawn Egg%1Red Mushroom -> Mooshroom Spawn Egg%1Coal -> Bat Spawn Egg%1Charcoal -> Bat Spawn Egg%1Cookie -> Parrot Spawn Egg%1Rabbit -> Rabbit Spawn Egg%1Carpet -> Llama Spawn Egg%1Chest -> Donkey Spawn Egg%1Saddle -> Horse Spawn Egg%1Donkey Spawn Egg -> Mule Spawn Egg%1Skeleton Spawn Egg -> Skeleton Horse Spawn Egg%1Zombie Spawn Egg -> Zombie Horse Spawn Egg%1Tropical Fish -> Tropical Fish Spawn Egg%1Cod -> Cod Spawn Egg%1Pufferfish -> Pufferfish Spawn Egg%1Salmon -> Salmon Spawn Egg%1Dried Kelp Block -> Dolphin Spawn Egg%1Seagrass -> Turtle Spawn Egg%1Bamboo -> Panda Spawn Egg%1Sweet Berries -> Fox Spawn Egg%1Gunpowder -> Creeper Spawn Egg%1Ender Pearl -> Enderman Spawn Egg%1Stone Bricks -> Silverfish Spawn Egg%1Nether Brick -> Wither Skeleton Spawn Egg%1Bow -> Skeleton Spawn Egg%1Arrow -> Skeleton Spawn Egg%1Slime Ball -> Slime Spawn Egg%1Spider Eye -> Spider Spawn Egg%1Rotten Flesh -> Zombie Spawn Egg%1Piglin Spawn Egg -> Zombie Pigman Spawn Egg%1Turtle Egg -> Husk Spawn Egg%1Nautilus Shell -> Drowned Spawn Egg%1Ink Sac -> Squid Spawn Egg%1Glow Ink Sac -> Glow Squid Spawn Egg%1Spider Spawn Egg -> Cave Spider Spawn Egg%1Splash Potion -> Witch Spawn Egg%1Prismarine Shard -> Guardian Spawn Egg%1Prismarine Crystals -> Elder Guardian Spawn Egg%1Chorus Fruit -> Endermite Spawn Egg%1Magma Cream -> Magma Cube Spawn Egg%1Warped Fungus -> Strider Spawn Egg%1Netherrack -> Hoglin Spawn Egg%1Gold Nugget -> Piglin Spawn Egg%1Hoglin Spawn Egg -> Zoglin Spawn Egg%1Golden Axe -> Piglin Brute Spawn Egg%1Goat Horn -> Goat Spawn Egg%1Glow Berries -> Axolotl Spawn Egg%1Echo Shard -> Warden Spawn Egg%1Diamond -> Allay Spawn Egg%1Froglight -> Frog Spawn Egg%1Frog Spawn -> Tadpole Spawn Egg%1Llama Spawn Egg -> Trader Llama Spawn Egg%1Cactus -> Camel Spawn Egg%1Ghast Tear -> Ghast Spawn Egg%1Blaze Rod -> Blaze Spawn Egg%1Shulker Shell -> Shulker Spawn Egg%1Iron Axe -> Vindicator Spawn Egg%1Witch Spawn Egg -> Evoker Spawn Egg%1Allay Spawn Egg -> Vex Spawn Egg%1Emerald -> Villager Spawn Egg%1Bundle -> Wandering Trader Spawn Egg%1Villager Spawn Egg -> Zombie Villager Spawn Egg%1Phantom Membrane -> Phantom Spawn Egg%1Crossbow -> Pillager Spawn Egg%1Pillager Spawn Egg -> Ravager Spawn Egg%1Iron Block -> Iron Golem Spawn Egg%1Carved Pumpkin -> Snow Golem Spawn Egg%1Torchflower -> Sniffer Spawn Egg%1Wind Charge -> Breeze Spawn Egg%1Armadillo Scute -> Armadillo Spawn Egg%1Mangrove Roots -> Bogged Spawn Egg%1Creaking Heart -> Creaking Spawn Egg%1Nether Star -> Wither Spawn Egg%1Dragon Head -> Dragon Spawn Egg%1%1§lCrafting§r%1%11 2 1%13 4 3%15 5 5%1%11 = Copper Power Pipe%12 = Calibrated Circuit%13 = Copper Wire%14 = Ignition Powder%15 = Refined Metal Block%1%1Crafts 1 Infuser.
+pod_engi.guide.essence_tank.title=Essence Tank
+pod_engi.guide.essence_tank.body=Stores essence.%1%1§lCrafting§r%1%11 2 1%13 4 3%15 6 5%1%11 = Null Copper Block%12 = Glass%13 = Glass Liquid Pipe%14 = Cauldron%15 = Refined Metal Block%16 = Sturdy Frame%1%1Crafts 1 Essence Tank.
+pod_engi.guide.battery.title=Power Battery
+pod_engi.guide.battery.body=Stores power.%1%1§lCrafting§r%1%11 1 1%12 3 2%14 4 4%1%11 = Block of Copper%12 = Calibrated Circuit%13 = Copper Power Pipe%14 = Refined Metal Block%1%1Crafts 1 Power Battery.
+pod_engi.guide.power_wavelength_calibrator.title=Power Wavelength Calibrator
+pod_engi.guide.power_wavelength_calibrator.body=Calibrates power wavelength with 6 different options. Interact to set the desired wavelength.%1Used to calibrate the Power channel of a Teleportation Pad.%1%1§lCrafting§r%1%11 2 1%13 4 3%15 4 5%1%11 = Copper Wire%12 = Lever%13 = Calibrated Circuit%14 = Refined Metal Block%15 = Block of Copper%1%1Crafts 1 Power Wavelength Calibrator.
+pod_engi.guide.essence_wavelength_calibrator.title=Essence Wavelength Calibrator
+pod_engi.guide.essence_wavelength_calibrator.body=Calibrates the essence wavelength with 6 different options. Interact to set the desired wavelength.%1Used to calibrate the Essence channel of a Teleportation Pad.%1%1§lCrafting§r%1%11 2 1%13 4 3%15 6 5%1%11 = Copper Wire%12 = Glass%13 = Calibrated Circuit%14 = Lever%15 = Refined Metal Block%16 = Null Copper Block%1%1Crafts 1 Essence Wavelength Calibrator.
+pod_engi.guide.teleportation_pad.title=Teleportation Pad
+pod_engi.guide.teleportation_pad.body=Teleports players to another Teleportation Pad with matching calibrations.%1%1Uses 3 calibration types:%1§l§6Power§r - set using the Power Wavelength Calibrator.%1§l§aEssence§r - set using the Essence Wavelength Calibrator.%1§lMain§r - set by interacting directly with the Teleportation Pad.%1%1Place the §6Power§r and §aEssence§r Wavelength Calibrators on the sides of the Teleportation Pad. Calibrate each component with the desired calibration.%1Standing on a Teleportation Pad will teleport you to another pad that has the same calibration.%1%1§lCrafting§r%1%1§0X§r 1 §0X§r%12 3 2%14 4 4%1%11 = Ender Pearl%12 = Copper Wire%13 = Calibrated Circuit%14 = Refined Metal Block%1%1Crafts 1 Teleportation Pad.
+pod_engi.guide.item_pipe_filter.title=Item Pipe Filter
+pod_engi.guide.item_pipe_filter.body=A pipe that only allows a specific item to pass thorugh.%1Interact to insert the item you want to filter.%1%1§lCrafting§r%1%11 1 1%12 3 2%11 1 1%1%11 = Iron Ingot%12 = Redstone Dust%13 = Lever%1%1Crafts 1 Item Pipe Filter.
+pod_engi.guide.power_pipe_filter.title=Power Pipe Filter
+pod_engi.guide.power_pipe_filter.body=A pipe that limits the flow of power.%1Interact to cycle through resistance levels: 2, 6 or 15 units per second.%1%1§lCrafting§r%1%11 1 1%12 3 2%11 1 1%1%11 = Copper Ingot%12 = Redstone Dust%13 = Lever%1%1Crafts 1 Power Pipe Filter.
+pod_engi.guide.liquid_pipe_filter.title=Liquid Pipe Filter
+pod_engi.guide.liquid_pipe_filter.body=A pipe that limits the flow of liquid.%1Interact to cycle through resistance levels: 5, 10 or 25 mB per second.%1%1§lCrafting§r%1%11 1 1%12 3 2%11 1 1%1%11 = Glass%12 = Redstone Dust%13 = Lever%1%1Crafts 1 Liquid Pipe Filter.
+pod_engi.guide.oil_bucket.title=Oil Bucket
+pod_engi.guide.oil_bucket.body=A bucket filled with processed Oil.%1Obtainable from the Oil Refinery. Oil can be used in Diesel Generator to produce energy.
+pod_engi.guide.experience_bucket.title=Bucket o' Enchanting
+pod_engi.guide.experience_bucket.body=A bucket filled with essence.%1Obtainable from the Mob Muncher. Essence can be used in the Essence Wavelength Calibrator, the Lightning Rod Calibrator, the Infuser, or stored inside an Essence Tank. Can also be drunk to gain some experience.
+pod_engi.guide.truss_platform.title=Truss Platform
+pod_engi.guide.truss_platform.body=A platform variant of the Truss can be crafted in a similar manner to slabs. It can be used as decoration.%1%1§lCrafting§r%1%1§0X X X§r%11 1 1%1§0X X X§r%1%11 = Truss%1%1Crafts 6 Truss Platform.
+pod_engi.guide.pulverized_iron.title=Pulverized Iron
+pod_engi.guide.pulverized_iron.body=Product of pulverizing Iron Ore. Can be smelted into Iron Ingot.
+pod_engi.guide.pulverized_gold.title=Pulverized Gold
+pod_engi.guide.pulverized_gold.body=Product of pulverizing Gold Ore. Can be smelted into Gold Ingot.
+pod_engi.guide.pulverized_copper.title=Pulverized Copper
+pod_engi.guide.pulverized_copper.body=Product of pulverizing Copper Ore. Can be smelted into Copper Ingot.
+pod_engi.alert.water_wheel.place=[§c!§r] There's not enough space to place that here.
+pod_engi.alert.water_wheel.rotate=[§c!§r] Couldn't rotate the machine, not enough room!
+pod_engi:items=Items
+pod_engi:resources=Resources
