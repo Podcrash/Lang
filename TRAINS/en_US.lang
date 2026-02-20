@@ -1581,3 +1581,6 @@ tile.pod_trn:yellow_subway_trim.name=Yellow Subway Tunnel Trim
 tile.pod_trn:yellow_terracotta_platform.name=Yellow Terracotta Platform Trim
 tile.pod_trn:yellow_terracotta_trim.name=Yellow Terracotta Tunnel Trim
 tile.pod_trn:yellow_terracotta_turnstile.name=Yellow Terracotta Turnstile
+
+pod_trn.guide.translate.title=Translate
+pod_trn.guide.translate.body=We try to support as many languages as we can. Our Add-On currently supports:\n\n- English\n- French\n- German\n- Indonesian\n- Italian\n- Japanese\n- Korean\n- Polish\n- Portuguese (PT/BR)\n- Spanish (ES/MX)\n\nIf you find an issue, or if we're missing your language, help us improve our translations at §o§shttps://pdcr.sh/translate§r

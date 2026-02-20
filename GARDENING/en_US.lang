@@ -994,3 +994,6 @@ pod_gard.guide.item.wooden_fence=Any Wooden Fence
 pod_gard.guide.item.wooden_plank=Any Wooden Plank
 pod_gard.guide.item.wooden_log=Any Wooden Log
 pod_gard.guide.item.for_stone_path=Any stone type slab\nPlease note, as there is no deepslate slab, you can get four deepslate stone paths by putting a deepslate in your crafting grid.
+
+pod_gard.guide.translate.title=Translate
+pod_gard.guide.translate.body=We try to support as many languages as we can. Our Add-On currently supports:\n\n- English\n- French\n- German\n- Indonesian\n- Italian\n- Japanese\n- Korean\n- Polish\n- Portuguese (PT/BR)\n- Spanish (ES/MX)\n\nIf you find an issue, or if we're missing your language, help us improve our translations at §o§shttps://pdcr.sh/translate§r

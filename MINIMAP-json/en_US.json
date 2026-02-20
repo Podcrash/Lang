@@ -71,6 +71,8 @@
   "pod_map.guide.main.title": "Minimap Add-On",
   "pod_map.guide.minimap.body": "Your minimap is an item you spawn with. You'll keep it even if you die.\\n\\nUse the item to open your minimap. Holding :_input_key.sneak: when using item will instead open map settings menu.\\n\\n§lMap open§r\\nView your surrounding area and the waypoints therein. Interact with the map to create or use waypoints at the location of your cursor.\\n\\nPress :_input_key.sneak: to open map settings.\\n\\nPress :_input_key.jump: to close your map.\\n\\n§lMap settings§r\\n§7-§r Zoom can be adjusted from 1 to 5, 5 being zoomed all the way out. \\n§7-§r All waypoints in the world can be viewed.\\n§7-§r Destination can be cleared if set.\\n§7-§r Map can be closed if open.\\n\\n§lCrafting§r\\n1 1 1\\n1 2 1\\n1 1 1\\n\\n1 = Gold Nugget\\n2 = Empty Map\\n\\nCrafts 1 Minimap \\n§o(Crafted minimaps do drop on death, unlike the one you spawn with)",
   "pod_map.guide.minimap.title": "Minimap",
+  "pod_map.guide.translate.body": "We try to support as many languages as we can. Our Add-On currently supports:\\n\\n- English\\n- French\\n- German\\n- Indonesian\\n- Italian\\n- Japanese\\n- Korean\\n- Polish\\n- Portuguese (PT/BR)\\n- Spanish (ES/MX)\\n\\nIf you find an issue, or if we're missing your language, help us improve our translations at §o§shttps://pdcr.sh/translate§r",
+  "pod_map.guide.translate.title": "Translate",
   "pod_map.map_settings.body": "Select an option from below!",
   "pod_map.map_settings.clear_destination": "Clear Destination",
   "pod_map.map_settings.set_waypoint.add": "Add waypoint here",

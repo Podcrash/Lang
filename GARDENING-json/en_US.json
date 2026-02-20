@@ -100,6 +100,8 @@
   "pod_gard.guide.other.watering_can.title": "Watering Can",
   "pod_gard.guide.support": "For more detailed information and support, check out §3§ohttps://pdcr.sh/garden§r",
   "pod_gard.guide.title": "GARDENING Add-On",
+  "pod_gard.guide.translate.body": "We try to support as many languages as we can. Our Add-On currently supports:\\n\\n- English\\n- French\\n- German\\n- Indonesian\\n- Italian\\n- Japanese\\n- Korean\\n- Polish\\n- Portuguese (PT/BR)\\n- Spanish (ES/MX)\\n\\nIf you find an issue, or if we're missing your language, help us improve our translations at §o§shttps://pdcr.sh/translate§r",
+  "pod_gard.guide.translate.title": "Translate",
   "pod_gard.lexicon.body": "Welcome to the Botanical Lexicon! This book contains information about every plant in the game, including when and where you discovered them. You've currently discovered §a%1§r out of §2%2§r plants! Will you be able to find them all?%3%3All plants added by this Add-On can be bone-mealed, allowing them to grow and drop another of their kind. %3%3If you lose the lexicon, re-craft it with a book and a dandelion. You can also access this with the command §7/lexicon§r at anytime.§r",
   "pod_gard.lexicon.discover": "§aYou found §r%1§a!",
   "pod_gard.lexicon.filter.includeBlue": "Include Blue Plants",

@@ -292,3 +292,7 @@ pod_brdg.guide.changelog.body=Current version: §6BRIDGES v1.0.0§r\n\nBridges h
 
 pod_brdg.guide.exit_button=Exit
 pod_brdg.guide.back_button=Back
+
+
+pod_brdg.guide.translate.title=Translate
+pod_brdg.guide.translate.body=We try to support as many languages as we can. Our Add-On currently supports:\n\n- English\n- French\n- German\n- Indonesian\n- Italian\n- Japanese\n- Korean\n- Polish\n- Portuguese (PT/BR)\n- Spanish (ES/MX)\n\nIf you find an issue, or if we're missing your language, help us improve our translations at §o§shttps://pdcr.sh/translate§r

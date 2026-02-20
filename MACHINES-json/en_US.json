@@ -158,6 +158,8 @@
   "pod_engi.guide.teleportation_pad.title": "Teleportation Pad",
   "pod_engi.guide.thermal_generator.body": "An upgrade from the steam engine which not only gives more power, but will be useful in places where water is hard to come by, like the Nether!%1%1§lCrafting§r%1%11 2 1%13 4 3%15 6 5%1%11 = Iron Gear%12 = Logic Circuit%13 = Steam Engine%14 = Ignition Powder%15 = Sturdy Frame%16 = Cauldron%1%1Crafts 1 Thermal Generator.",
   "pod_engi.guide.thermal_generator.title": "Thermal Generator",
+  "pod_engi.guide.translate.body": "We try to support as many languages as we can. Our Add-On currently supports:\\n\\n- English\\n- French\\n- German\\n- Indonesian\\n- Italian\\n- Japanese\\n- Korean\\n- Polish\\n- Portuguese (PT/BR)\\n- Spanish (ES/MX)\\n\\nIf you find an issue, or if we're missing your language, help us improve our translations at §o§shttps://pdcr.sh/translate§r",
+  "pod_engi.guide.translate.title": "Translate",
   "pod_engi.guide.truss.body": "Metal scaffolding, which can be used for decoration or, most importantly, to create your own quarry with the Drill Controller.%1%1A platform variant of the Truss can be crafted in a similar manner to slabs.%1%1§lCrafting§r%1%11 2 1%12 §0X§r 2%11 2 1%1%11 = Refined Metal Ingot%12 = Stick%1%1Crafts 16 Truss.",
   "pod_engi.guide.truss.title": "Truss",
   "pod_engi.guide.truss_platform.body": "A platform variant of the Truss can be crafted in a similar manner to slabs. It can be used as decoration.%1%1§lCrafting§r%1%1§0X X X§r%11 1 1%1§0X X X§r%1%11 = Truss%1%1Crafts 6 Truss Platform.",

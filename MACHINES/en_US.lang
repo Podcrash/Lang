@@ -247,3 +247,7 @@ pod_engi.alert.water_wheel.place=[§c!§r] There's not enough space to place tha
 pod_engi.alert.water_wheel.rotate=[§c!§r] Couldn't rotate the machine, not enough room!
 pod_engi:items=Items
 pod_engi:resources=Resources
+
+
+pod_engi.guide.translate.title=Translate
+pod_engi.guide.translate.body=We try to support as many languages as we can. Our Add-On currently supports:\n\n- English\n- French\n- German\n- Indonesian\n- Italian\n- Japanese\n- Korean\n- Polish\n- Portuguese (PT/BR)\n- Spanish (ES/MX)\n\nIf you find an issue, or if we're missing your language, help us improve our translations at §o§shttps://pdcr.sh/translate§r

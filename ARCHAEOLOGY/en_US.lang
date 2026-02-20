@@ -561,3 +561,7 @@ item.pod_arch:slow_falling_talisman=§dTalisman of Slow Falling
 item.pod_arch:speed_talisman=§dTalisman of Speed
 item.pod_arch:strength_talisman=§dTalisman of Strength
 item.pod_arch:water_breathing_talisman=§dTalisman of Water Breathing
+
+
+pod_arch.guide.translate.title=Translate
+pod_arch.guide.translate.body=We try to support as many languages as we can. Our Add-On currently supports:\n\n- English\n- French\n- German\n- Indonesian\n- Italian\n- Japanese\n- Korean\n- Polish\n- Portuguese (PT/BR)\n- Spanish (ES/MX)\n\nIf you find an issue, or if we're missing your language, help us improve our translations at §o§shttps://pdcr.sh/translate§r

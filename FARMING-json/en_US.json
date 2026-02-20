@@ -713,6 +713,8 @@
   "pod_farm.guide.misc.windmill.body": "The Windmill is a processing station used to produce oil, but also serves as great decoration. Put pine nuts, olives or wheat seeds in the windmill to produce oil, extract the oil by adding a glass bottle to the windmill by interacting with the millstone.\\n\\nThe Windmill is a multiblock structure and requires a clear 1x2 block of free space in order to be placed.\\nAdditionally, the Windmill includes an extendable beam. Interact with the Windmill to extend the beam by one segment, and use Sneak + Interact to reduce the beam length. If you move 10 blocks or more away from the Windmill, the beam extension feature becomes disabled.\\n\\nThe millstone is located at the end of the Windmill's beam. You can insert items manually by interacting while holding a Glass Bottle or any of the ingredients. The millstone also supports automated input through a Hopper.",
   "pod_farm.guide.misc.windmill.title": "Windmill",
   "pod_farm.guide.or_item": "%1 or %2",
+  "pod_farm.guide.translate.body": "We try to support as many languages as we can. Our Add-On currently supports:\\n\\n- English\\n- French\\n- German\\n- Indonesian\\n- Italian\\n- Japanese\\n- Korean\\n- Polish\\n- Portuguese (PT/BR)\\n- Spanish (ES/MX)\\n\\nIf you find an issue, or if we're missing your language, help us improve our translations at §o§shttps://pdcr.sh/translate§r",
+  "pod_farm.guide.translate.title": "Translate",
   "pod_farm.ingredient.any_log": "Any Log type",
   "pod_farm.setting.animal_spawning": "Animal Spawning",
   "pod_farm.setting.crop_spawning": "Crop Spawning",

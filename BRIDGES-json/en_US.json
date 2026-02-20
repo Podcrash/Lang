@@ -58,6 +58,8 @@
   "pod_brdg.guide.main.title": "Bridges Add-On",
   "pod_brdg.guide.placement.body": "When placing a bridge it will have railing on all four sides unless placed next to another bridge or by the edge of a cliff. Bridges placed together will automatically connect.\\n\\nYou can toggle railing by interacting while sneaking with the bridge using an empty hand.\\n\\nYou can speed place bridges horizontally (similar to scaffolding) by interacting with a bridge while holding bridge blocks.\\n\\nBy sneaking and placing a bridge on the edge block of a gap you can start a bridge one block into the gap.\\n\\nSupports can be stacked on top of each other by interacting with a support while holding support item of the same type.",
   "pod_brdg.guide.placement.title": "Placements",
+  "pod_brdg.guide.translate.body": "We try to support as many languages as we can. Our Add-On currently supports:\\n\\n- English\\n- French\\n- German\\n- Indonesian\\n- Italian\\n- Japanese\\n- Korean\\n- Polish\\n- Portuguese (PT/BR)\\n- Spanish (ES/MX)\\n\\nIf you find an issue, or if we're missing your language, help us improve our translations at §o§shttps://pdcr.sh/translate§r",
+  "pod_brdg.guide.translate.title": "Translate",
   "tile.pod_brdg:acacia_log_bridge.name": "Acacia Log Bridge",
   "tile.pod_brdg:acacia_rope_bridge.name": "Acacia Rope Bridge",
   "tile.pod_brdg:acacia_wood_bridge.name": "Acacia Wood Bridge",

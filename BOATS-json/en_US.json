@@ -286,6 +286,8 @@
   "pod_boat.guide.tanker.body": "The Tanker is designed to transport large amounts of fluids. Heavy and steady, it ensures the safe delivery of liquids across waterways. While holding a filled bottle or bucket, interact with the Fluid Tank to insert the liquid. While holding an empty bottle or bucket, interact to pick up the liquid.%1%1Carries 1 player.%1%1§lRequires fuel.§r%1%1§lCrafting§r%1%1§0X X X§r%11 2 3%14 3 3%1%11 = Steering Wheel%12 = Fluid Tank%13 = Reinforced Iron Block%14 = Propeller%1%1Crafts 1 Tanker.",
   "pod_boat.guide.tanker.title": "Tanker",
   "pod_boat.guide.title": "BOATS Add-On",
+  "pod_boat.guide.translate.body": "We try to support as many languages as we can. Our Add-On currently supports:\\n\\n- English\\n- French\\n- German\\n- Indonesian\\n- Italian\\n- Japanese\\n- Korean\\n- Polish\\n- Portuguese (PT/BR)\\n- Spanish (ES/MX)\\n\\nIf you find an issue, or if we're missing your language, help us improve our translations at §o§shttps://pdcr.sh/translate§r",
+  "pod_boat.guide.translate.title": "Translate",
   "pod_boat.guide.travel_boats.body": "When the journey itself is just as important as the destination, Travel Boats are your choice! Built for speed, comfort, and long-distance sailing, these vessels will take you anywhere. There are two types of Travel Boats: Classic and Modern.",
   "pod_boat.guide.travel_boats.title": "Travel Boats",
   "pod_boat.guide.treated_planks.body": "Specially processed wooden planks resistant to water and wear. Used in boats crafting.%1%1§lCrafting§r%1%11 1 1%11 2 1%11 1 1%1%11 = Planks%12 = Honeycomb%1%1Crafts 8 Treated Planks.",
